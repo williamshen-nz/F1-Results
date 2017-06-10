@@ -1,0 +1,20 @@
+1,5,Vettel,57,1:33:53.374,25
+2,44,Hamilton,57,+6.660s,18
+3,77,Bottas,57,+20.397s,15
+4,7,Räikkönen,57,+22.475s,12
+5,3,Ricciardo,57,+39.346s,10
+6,19,Massa,57,+54.326s,8
+7,11,Perez,57,+62.606s,6
+8,8,Grosjean,57,+74.865s,4
+9,27,Hulkenberg,57,+80.188s,2
+10,31,Ocon,57,+95.711s,1
+11,94,Wehrlein,56,+1 lap,0
+12,26,Kvyat,56,+1 lap,0
+13,30,Palmer,56,+1 lap,0
+14,14,Alonso,54,DNF,0
+NC,9,Ericsson,50,DNF,0
+NC,55,Sainz,12,DNF,0
+NC,18,Stroll,12,DNF,0
+NC,33,Verstappen,11,DNF,0
+NC,20,Magnussen,8,DNF,0
+NC,2,Vandoorne,0,DNS,0
