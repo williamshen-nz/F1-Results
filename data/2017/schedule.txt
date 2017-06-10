@@ -1,1 +1,1 @@
-australia,china,bahrain,russia,spain,monaco
+australia,china,bahrain,russia,spain,monaco,canada
