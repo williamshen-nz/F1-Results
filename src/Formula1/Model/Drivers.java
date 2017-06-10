@@ -23,6 +23,6 @@ public class Drivers {
 
     @Override
     public String toString() {
-        return JSON.toString(this);
+        return JSON.stringify(this);
     }
 }

@@ -45,6 +45,6 @@ public class Race {
 
     @Override
     public String toString() {
-        return JSON.toString(this);
+        return JSON.stringify(this);
     }
 }

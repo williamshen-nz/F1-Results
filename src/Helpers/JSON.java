@@ -6,7 +6,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.IOException;
 
 public class JSON {
-    public static String toString(Object object) {
+    public static String stringify(Object object) {
         ObjectMapper mapper = new ObjectMapper();
         try {
             return mapper.writeValueAsString(object);
@@ -16,7 +16,7 @@ public class JSON {
         }
     }
 
-    public static <T> T fromString(String json, Class<T> type) {
+    public static <T> T parse(String json, Class<T> type) {
         ObjectMapper mapper = new ObjectMapper();
         try {
             return mapper.readValue(json, type);

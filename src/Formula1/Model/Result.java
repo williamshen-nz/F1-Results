@@ -30,6 +30,6 @@ public abstract class Result {
 
     @Override
     public String toString() {
-        return JSON.toString(this);
+        return JSON.stringify(this);
     }
 }

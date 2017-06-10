@@ -40,6 +40,6 @@ public class Driver {
 
     @Override
     public String toString() {
-        return JSON.toString(this);
+        return JSON.stringify(this);
     }
 }

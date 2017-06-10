@@ -59,11 +59,6 @@ public class Sessions {
 
     @Override
     public String toString() {
-        return JSON.toString(this);
-    }
-
-    public static void main(String[] args) {
-        Sessions s = new Sessions();
-        System.out.println(s);
+        return JSON.stringify(this);
     }
 }
