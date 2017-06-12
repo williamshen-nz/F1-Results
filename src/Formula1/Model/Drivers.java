@@ -4,6 +4,10 @@ import Helpers.JSON;
 
 import java.util.ArrayList;
 
+/**
+ * @author William Shen
+ */
+
 public class Drivers {
     private ArrayList<Driver> drivers;
 
@@ -18,6 +22,12 @@ public class Drivers {
     public Driver getDriver(String name) {
         for (Driver driver : drivers)
             if (driver.matchName(name)) return driver;
+        return null;
+    }
+
+    public Driver getDriver(int number) {
+        for (Driver driver : drivers)
+            if (driver.getNumber() == number) return driver;
         return null;
     }
 

@@ -5,13 +5,13 @@ import Helpers.JSON;
 public class Driver {
     private String name;
     private int number;
-    private String team;
+    private Team team;
     private String nationality;
 
     public Driver() {
     }
 
-    public Driver(String name, int number, String team, String nationality) {
+    public Driver(String name, int number, Team team, String nationality) {
         this.name = name;
         this.number = number;
         this.team = team;
@@ -26,7 +26,7 @@ public class Driver {
         return number;
     }
 
-    public String getTeam() {
+    public Team getTeam() {
         return team;
     }
 

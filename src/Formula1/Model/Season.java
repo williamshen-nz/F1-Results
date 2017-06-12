@@ -7,6 +7,8 @@ import java.util.Collections;
 
 public class Season {
     private int year;
+    private Teams teams;
+    private Drivers drivers;
     private ArrayList<Race> races;
 
     public Season() {
@@ -29,6 +31,22 @@ public class Season {
 
     public ArrayList<Race> getRaces() {
         return races;
+    }
+
+    public Drivers getDrivers() {
+        return drivers;
+    }
+
+    public Teams getTeams() {
+        return teams;
+    }
+
+    public void setDrivers(Drivers drivers) {
+        this.drivers = drivers;
+    }
+
+    public void setTeams(Teams teams) {
+        this.teams = teams;
     }
 
     @Override
