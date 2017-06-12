@@ -4,8 +4,11 @@ import Formula1.Analysis.SeasonStatistics;
 import Formula1.Model.Drivers;
 import Formula1.Model.Race;
 import Formula1.Model.Season;
+import Formula1.Model.Teams;
 
+import java.io.BufferedReader;
 import java.io.BufferedWriter;
+import java.io.FileReader;
 import java.io.FileWriter;
 
 public class Demo2017 {
@@ -13,34 +16,49 @@ public class Demo2017 {
         try {
             // Default values
             String path = "data/2017/";
-            String[] races = {"australia", "china", "bahrain", "russia", "spain", "monaco", "canada"};
+            String[] races = loadRaces(path + "schedule.txt");
 
-            // Create season and read in the driver list
-            System.out.print("Loading 2017 season data... ");
+            // Create season and read in the driver and team list
+            System.out.println("Loading 2017 season data... ");
             Season season = new Season(2017);
+            System.out.print("- loading teams... ");
+            Teams teams = LoadTeams.load(path + "teams.txt");
+            season.setTeams(teams);
             System.out.println("DONE");
-            System.out.print("Loading drivers... ");
-            Drivers drivers = LoadDrivers.load(path + "drivers.txt");
+            System.out.print("- loading drivers... ");
+            Drivers drivers = LoadDrivers.load(teams, path + "drivers.txt");
+            season.setDrivers(drivers);
             System.out.println("DONE");
+            System.out.println("DONE\n");
 
             // Add each of the races
+            System.out.println("Loading 2017 race data...");
             for (String name : races) {
-                System.out.print("Loading " + name.toUpperCase() + "... ");
+                System.out.print("- loading " + name.toUpperCase() + "... ");
                 Race race = LoadRace.load(drivers, path + name + "/");
                 season.addRace(race);
             }
+            System.out.println("DONE");
 
-            // Get current championship points
-            System.out.print("Calculating driver rankings... ");
-            Object ranking = SeasonStatistics.getPoints(season);
-            System.out.println("DONE. Saving driver rankings... ");
+            // Get current driver championship points
+            System.out.print("\nCalculating driver rankings... ");
+            Object ranking = SeasonStatistics.getDriverPoints(season);
+            System.out.print("DONE.\nSaving driver rankings... ");
             String location = "data/2017/driverRankings.json";
+            save(ranking.toString(), location);
+            System.out.println("JSON successfully written to `" + location + "`!");
+
+            // Get current constructor championship points
+            System.out.print("\nCalculating constructor rankings... ");
+            ranking = SeasonStatistics.getConstructorPoints(season);
+            System.out.print("DONE.\nSaving constructor rankings... ");
+            location = "data/2017/constructorRankings.json";
             save(ranking.toString(), location);
             System.out.println("JSON successfully written to `" + location + "`!");
 
             // Write result
             location = "data/2017/results.json";
-            System.out.println("Writing complete season data...");
+            System.out.println("\nWriting complete season data...");
             save(season.toString(), location);
             System.out.println("JSON successfully written to `" + location + "`!");
         } catch (Exception e) {
@@ -52,5 +70,11 @@ public class Demo2017 {
         BufferedWriter writer = new BufferedWriter(new FileWriter(location));
         writer.write(json);
         writer.close();
+    }
+
+    private static String[] loadRaces(String location) throws Exception {
+        BufferedReader in = new BufferedReader(new FileReader(location));
+        String str = in.readLine();
+        return str.split(",");
     }
 }

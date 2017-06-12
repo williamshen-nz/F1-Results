@@ -17,9 +17,12 @@ public class LoadSession {
         BufferedReader in = new BufferedReader(new FileReader(location));
         String str = in.readLine();
         do {
-            if (str == null) return session;
+            if (str == null) {
+                System.out.print("(none)... ");
+                return session;
+            }
             String[] curr = str.split(",");
-            Driver match = drivers.getDriver(curr[2]);
+            Driver match = drivers.getDriver(Integer.parseInt(curr[1]));  // get driver based on their racing number
             switch (type) {
                 case Practice:
                     session.addResult(match, Integer.parseInt(curr[0]), Integer.parseInt(curr[5]), curr[3], curr[4]);
@@ -34,6 +37,7 @@ public class LoadSession {
             }
         } while ((str = in.readLine()) != null);
         in.close();
+        System.out.print("... ");
         return session;
     }
 }
