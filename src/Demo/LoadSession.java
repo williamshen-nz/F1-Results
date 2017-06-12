@@ -54,8 +54,6 @@ public class LoadSession {
         String str = in.readLine();
         do {
             String[] curr = str.split(",");
-            // 1,44,Hamilton,64,15:28:21,1:14.551,210.588
-            //String time, int lap, String timeOfDay, double averageSpeed
             FastestLap lap = new FastestLap(drivers.getDriver(Integer.parseInt(curr[1])), curr[5],
                     Integer.parseInt(curr[3]), curr[4], Double.parseDouble(curr[6]));
             laps.add(lap);
@@ -69,8 +67,8 @@ public class LoadSession {
         String str = in.readLine();
         do {
             String[] curr = str.split(",");
-            if (curr.length == 1) {
-                startingGrid.setNotes(curr[0]);
+            if (curr.length != 5) {
+                startingGrid.setNotes(String.join(",", curr));
             } else {
                 GridPosition gp = new GridPosition(Integer.parseInt(curr[0]),
                         drivers.getDriver(Integer.parseInt(curr[1])));

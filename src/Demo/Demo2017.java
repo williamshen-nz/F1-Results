@@ -18,7 +18,7 @@ public class Demo2017 {
         try {
             // Default values
             String path = "data/2017/";
-            String[] races = {"canada"};//loadRaces(path + "done.txt");
+            String[] races = loadRaces(path + "done.txt");
 
             // Create season and read in the driver and team list
             System.out.println("Loading 2017 season data... ");
