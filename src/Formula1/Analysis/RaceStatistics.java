@@ -23,7 +23,7 @@ public class RaceStatistics {
     public static Result[] getPodium(Race race) throws ResultNotFoundException {
         Result[] podium = SessionStatistics.getPodium(race.getSessions().getRace());
         if (podium == null)
-            throw new ResultNotFoundException("Couldn't find winner of the race!");
+            throw new ResultNotFoundException("Couldn't find the podium winners for the race!");
         else
             return podium;
     }
