@@ -27,6 +27,16 @@ public class Session {
         results.add(new QualifyingResult(driver, position, laps, q1, q2, q3));
     }
 
+    public void addResult(Result result) {
+        results.add(result);
+    }
+
+    public Result getResult(Driver driver) {
+        for (Result result : results)
+            if (result.getDriver().equals(driver)) return result;
+        return null;
+    }
+
     @Override
     public String toString() {
         return JSON.stringify(this);

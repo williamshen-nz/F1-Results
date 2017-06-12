@@ -5,6 +5,7 @@ import Formula1.Model.Drivers;
 import Formula1.Model.Race;
 import Formula1.Model.Season;
 import Formula1.Model.Teams;
+import Formula1.Views.DriverViews;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -16,7 +17,7 @@ public class Demo2017 {
         try {
             // Default values
             String path = "data/2017/";
-            String[] races = loadRaces(path + "schedule.txt");
+            String[] races = loadRaces(path + "done.txt");
 
             // Create season and read in the driver and team list
             System.out.println("Loading 2017 season data... ");
@@ -61,6 +62,15 @@ public class Demo2017 {
             System.out.println("\nWriting complete season data...");
             save(season.toString(), location);
             System.out.println("JSON successfully written to `" + location + "`!");
+
+            // Example helper and view functions
+            //System.out.println(DriverViews.get(drivers.getDriver("Alonso"), season));
+            //System.out.println();
+            System.out.println(DriverViews.getSummary(drivers.getDriver("Alonso"), season));
+            System.out.println();
+            System.out.println(SeasonStatistics.getPoints(drivers.getDriver("Alonso"), season));
+            System.out.println();
+            System.out.println(SeasonStatistics.getPoints(teams.getTeam("McLaren"), season));
         } catch (Exception e) {
             e.printStackTrace();
         }

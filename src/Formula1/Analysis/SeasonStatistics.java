@@ -26,6 +26,28 @@ public class SeasonStatistics {
         return rankings;
     }
 
+    public static int getPoints(Driver driver, Season season) {
+        int res = 0;
+        for (Race race : season.getRaces()) {
+            for (Result result: race.getSessions().getRace().getResults()) {
+                if (result.getDriver().equals(driver))
+                    res += ((RaceResult) result).getPoints();
+            }
+        }
+        return res;
+    }
+
+    public static int getPoints(Team team, Season season) {
+        int res = 0;
+        for (Race race : season.getRaces()) {
+            for (Result result: race.getSessions().getRace().getResults()) {
+                if (result.getDriver().getTeam().equals(team))
+                    res += ((RaceResult) result).getPoints();
+            }
+        }
+        return res;
+    }
+
     public static ArrayList<ConstructorPosition> getConstructorPoints(Season season) {
         HashMap<Team, Integer> points = new LinkedHashMap<>(10);
         for (Race race : season.getRaces()) {
