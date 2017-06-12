@@ -1,0 +1,23 @@
+1,2,Mark Webber WEB,Red Bull Racing Renault,51,1:15.436,205.636
+2,3,Fernando Alonso ALO,Ferrari,50,1:15.496,205.473
+3,1,Sebastian Vettel VET,Red Bull Racing Renault,51,1:15.624,205.125
+4,15,Adrian Sutil SUT,Force India Mercedes,57,1:16.049,203.979
+5,6,Sergio Perez PER,McLaren Mercedes,50,1:16.246,203.451
+6,9,Nico Rosberg ROS,Mercedes,60,1:16.442,202.930
+7,5,Jenson Button BUT,McLaren Mercedes,52,1:16.450,202.909
+8,4,Felipe Massa MAS,Ferrari,49,1:16.470,202.856
+9,12,Esteban Gutierrez GUT,Sauber Ferrari,59,1:16.528,202.702
+10,10,Lewis Hamilton HAM,Mercedes,51,1:16.692,202.268
+11,18,Jean-Eric Vergne VER,STR Ferrari,49,1:16.790,202.010
+12,11,Nico Hulkenberg HUL,Sauber Ferrari,49,1:16.802,201.979
+13,17,Valtteri Bottas BOT,Williams Renault,43,1:16.840,201.879
+14,14,Paul di Resta DIR,Force India Mercedes,58,1:16.855,201.839
+15,19,Daniel Ricciardo RIC,STR Ferrari,45,1:16.974,201.527
+16,7,Heikki Kovalainen KOV,Lotus Renault,70,1:17.249,200.810
+17,23,Max Chilton CHI,Marussia Cosworth,68,1:17.281,200.727
+18,16,Pastor Maldonado MAL,Williams Renault,45,1:17.554,200.020
+19,21,Giedo van der Garde VDG,Caterham Renault,51,1:17.590,199.927
+20,22,Jules Bianchi BIA,Marussia Cosworth,67,1:17.717,199.601
+21,20,Charles Pic PIC,Caterham Renault,27,1:18.434,197.776
+22,8,Romain Grosjean GRO,Lotus Renault,2,1:20.898,191.752
+

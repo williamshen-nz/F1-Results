@@ -1,0 +1,28 @@
+1,36,Anthony Davidson DAV,Honda,1:45.349,,18
+2,40,Neel Jani JAN,STR Cosworth,1:46.138,+0.789s,21
+3,38,Sebastian Vettel VET,Sauber BMW,1:46.585,+1.236s,20
+4,37,Michael Ammermuller AMM,RBR Ferrari,1:47.162,+1.813s,21
+5,39,Adrian Sutil SUT,MF1 Toyota,1:47.773,+2.424s,21
+6,21,Scott Speed SPE,STR Cosworth,1:47.814,+2.465s,7
+7,19,Christijan Albers ALB,MF1 Toyota,1:47.838,+2.489s,6
+8,41,Franck Montagny MON,Super Aguri Honda,1:47.918,+2.569s,13
+9,35,Alexander Wurz WUR,Williams Cosworth,1:47.919,+2.570s,19
+10,22,Takuma Sato SAT,Super Aguri Honda,1:48.042,+2.693s,11
+11,23,Sakon Yamamoto YAM,Super Aguri Honda,1:50.479,+5.130s,9
+12,9,Mark Webber WEB,Williams Cosworth,,,1
+13,10,Nico Rosberg ROS,Williams Cosworth,,,1
+14,3,Kimi Räikkönen RAI,McLaren Mercedes,,,1
+15,20,Vitantonio Liuzzi LIU,STR Cosworth,,,2
+16,15,Robert Doornbos DOO,RBR Ferrari,,,1
+17,17,Robert Kubica KUB,Sauber BMW,,,1
+18,14,David Coulthard COU,RBR Ferrari,,,1
+19,1,Fernando Alonso ALO,Renault,,,1
+20,16,Nick Heidfeld HEI,Sauber BMW,,,1
+21,2,Giancarlo Fisichella FIS,Renault,,,1
+22,18,Tiago Monteiro MON,MF1 Toyota,,,4
+23,4,Pedro de la Rosa DLR,McLaren Mercedes,,,1
+24,11,Rubens Barrichello BAR,Honda,,,1
+25,8,Jarno Trulli TRU,Toyota,,,1
+26,7,Ralf Schumacher RSC,Toyota,,,1
+27,12,Jenson Button BUT,Honda,,,1
+

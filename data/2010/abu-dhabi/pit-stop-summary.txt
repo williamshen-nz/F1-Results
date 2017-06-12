@@ -1,0 +1,23 @@
+1,4,Nico Rosberg ROS,Mercedes,1,17:05:37,21.292,21.292
+1,12,Vitaly Petrov PET,Renault,1,17:05:39,21.739,21.739
+1,17,Jaime Alguersuari ALG,STR Ferrari,1,17:05:45,22.163,22.163
+1,21,Bruno Senna SEN,HRT Cosworth,1,17:05:51,23.749,23.749
+1,25,Lucas di Grassi DIG,Virgin Cosworth,1,17:05:52,21.705,21.705
+1,20,Christian Klien KLI,HRT Cosworth,1,17:05:57,31.988,31.988
+1,6,Mark Webber WEB,RBR Renault,11,17:26:47,20.168,20.168
+1,7,Felipe Massa MAS,Ferrari,13,17:30:21,21.523,21.523
+1,8,Fernando Alonso ALO,Ferrari,15,17:33:50,20.681,20.681
+1,22,Nick Heidfeld HEI,Sauber Ferrari,15,17:34:03,21.202,21.202
+1,9,Rubens Barrichello BAR,Williams Cosworth,18,17:39:18,20.684,20.684
+1,2,Lewis Hamilton HAM,McLaren Mercedes,23,17:47:48,20.792,20.792
+1,5,Sebastian Vettel VET,RBR Renault,24,17:49:31,20.061,20.061
+1,18,Jarno Trulli TRU,Lotus Cosworth,28,17:58:08,37.147,37.147
+1,23,Kamui Kobayashi KOB,Sauber Ferrari,33,18:05:43,20.208,20.208
+1,10,Nico Hulkenberg HUL,Williams Cosworth,36,18:11:03,20.749,20.749
+1,16,Sebastien Buemi BUE,STR Ferrari,37,18:12:45,20.984,20.984
+1,1,Jenson Button BUT,McLaren Mercedes,39,18:15:38,20.511,20.511
+1,24,Timo Glock GLO,Virgin Cosworth,40,18:19:37,20.930,20.930
+1,19,Heikki Kovalainen KOV,Lotus Cosworth,41,18:21:05,21.537,21.537
+1,11,Robert Kubica KUB,Renault,46,18:27:56,20.188,20.188
+1,14,Adrian Sutil SUT,Force India Mercedes,47,18:29:56,20.276,20.276
+

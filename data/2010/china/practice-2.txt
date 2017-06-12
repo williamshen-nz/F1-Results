@@ -1,0 +1,24 @@
+1,2,Lewis Hamilton HAM,McLaren Mercedes,1:35.217,,26
+2,4,Nico Rosberg ROS,Mercedes,1:35.465,+0.248s,22
+3,1,Jenson Button BUT,McLaren Mercedes,1:35.593,+0.376s,26
+4,3,Michael Schumacher MSC,Mercedes,1:35.602,+0.385s,28
+5,5,Sebastian Vettel VET,RBR Renault,1:35.791,+0.574s,30
+6,6,Mark Webber WEB,RBR Renault,1:35.995,+0.778s,29
+7,14,Adrian Sutil SUT,Force India Mercedes,1:36.254,+1.037s,31
+8,17,Jaime Alguersuari ALG,STR Ferrari,1:36.377,+1.160s,43
+9,11,Robert Kubica KUB,Renault,1:36.389,+1.172s,29
+10,8,Fernando Alonso ALO,Ferrari,1:36.604,+1.387s,33
+11,7,Felipe Massa MAS,Ferrari,1:36.944,+1.727s,36
+12,12,Vitaly Petrov PET,Renault,1:36.986,+1.769s,27
+13,22,Pedro de la Rosa DLR,Sauber Ferrari,1:37.421,+2.204s,32
+14,23,Kamui Kobayashi KOB,Sauber Ferrari,1:37.431,+2.214s,33
+15,9,Rubens Barrichello BAR,Williams Cosworth,1:37.657,+2.440s,30
+16,15,Vitantonio Liuzzi LIU,Force India Mercedes,1:37.804,+2.587s,31
+17,10,Nico Hulkenberg HUL,Williams Cosworth,1:37.867,+2.650s,29
+18,18,Jarno Trulli TRU,Lotus Cosworth,1:39.624,+4.407s,35
+19,19,Heikki Kovalainen KOV,Lotus Cosworth,1:39.947,+4.730s,30
+20,24,Timo Glock GLO,Virgin Cosworth,1:40.233,+5.016s,27
+21,20,Karun Chandhok CHD,HRT Cosworth,1:41.008,+5.791s,32
+22,25,Lucas di Grassi DIG,Virgin Cosworth,1:41.107,+5.890s,28
+23,21,Bruno Senna SEN,HRT Cosworth,1:41.345,+6.128s,32
+

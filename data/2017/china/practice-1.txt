@@ -1,0 +1,21 @@
+1,33,Max Verstappen VER,Red Bull Racing TAG Heuer,1:50.491,,4
+2,19,Felipe Massa MAS,Williams Mercedes,1:52.086,+1.595s,7
+3,18,Lance Stroll STR,Williams Mercedes,1:52.507,+2.016s,7
+4,55,Carlos Sainz SAI,Toro Rosso,1:52.840,+2.349s,5
+5,8,Romain Grosjean GRO,Haas Ferrari,1:53.039,+2.548s,6
+6,26,Daniil Kvyat KVY,Toro Rosso,1:53.314,+2.823s,4
+7,14,Fernando Alonso ALO,McLaren Honda,1:53.520,+3.029s,5
+8,3,Daniel Ricciardo RIC,Red Bull Racing TAG Heuer,1:54.038,+3.547s,7
+9,77,Valtteri Bottas BOT,Mercedes,1:54.664,+4.173s,4
+10,20,Kevin Magnussen MAG,Haas Ferrari,1:55.104,+4.613s,8
+11,27,Nico Hulkenberg HUL,Renault,1:55.608,+5.117s,6
+12,2,Stoffel Vandoorne VAN,McLaren Honda,1:57.445,+6.954s,4
+13,9,Marcus Ericsson ERI,Sauber Ferrari,2:15.138,+24.647s,4
+14,36,Antonio Giovinazzi GIO,Sauber Ferrari,2:15.281,+24.790s,4
+15,30,Jolyon Palmer PAL,Renault,,,3
+16,5,Sebastian Vettel VET,Ferrari,,,2
+17,7,Kimi Räikkönen RAI,Ferrari,,,1
+18,31,Esteban Ocon OCO,Force India Mercedes,,,2
+19,11,Sergio Perez PER,Force India Mercedes,,,3
+20,44,Lewis Hamilton HAM,Mercedes,,,2
+Note - Practice 2 was cancelled due to poor weather conditions.

@@ -1,0 +1,19 @@
+1,22,Jenson Button BUT,Brawn Mercedes,18,1:36.641,206.483
+2,23,Rubens Barrichello BAR,Brawn Mercedes,17,1:37.484,204.698
+3,9,Jarno Trulli TRU,Toyota,12,1:37.591,204.473
+4,16,Nico Rosberg ROS,Williams Toyota,13,1:37.598,204.459
+5,14,Mark Webber WEB,RBR Renault,14,1:37.672,204.304
+6,15,Sebastian Vettel VET,RBR Renault,10,1:38.427,202.737
+7,4,Kimi Räikkönen RAI,Ferrari,17,1:38.453,202.683
+8,12,Sebastien Buemi BUE,STR Ferrari,16,1:38.938,201.689
+9,7,Fernando Alonso ALO,Renault,17,1:39.006,201.551
+10,6,Nick Heidfeld HEI,Sauber BMW,17,1:39.084,201.392
+11,1,Lewis Hamilton HAM,McLaren Mercedes,17,1:39.141,201.276
+12,11,Sebastien Bourdais BOU,STR Ferrari,17,1:39.242,201.072
+13,3,Felipe Massa MAS,Ferrari,17,1:39.250,201.055
+14,8,Nelson Piquet PIQ,Renault,18,1:39.268,201.019
+15,17,Kazuki Nakajima NAK,Williams Toyota,17,1:39.387,200.778
+16,10,Timo Glock GLO,Toyota,18,1:39.406,200.740
+17,21,Giancarlo Fisichella FIS,Force India Mercedes,16,1:39.407,200.738
+18,20,Adrian Sutil SUT,Force India Mercedes,17,1:39.464,200.623
+

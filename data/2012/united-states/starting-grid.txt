@@ -1,0 +1,25 @@
+1,1,Sebastian Vettel VET,Red Bull Racing Renault,1:35.657
+2,4,Lewis Hamilton HAM,McLaren Mercedes,1:35.766
+3,2,Mark Webber WEB,Red Bull Racing Renault,1:36.174
+4,9,Kimi Räikkönen RAI,Lotus Renault,1:36.708
+5,7,Michael Schumacher MSC,Mercedes,1:36.794
+6,12,Nico Hulkenberg HUL,Force India Mercedes,1:37.141
+7,5,Fernando Alonso ALO,Ferrari,1:37.300
+8,10,Romain Grosjean GRO,Lotus Renault,1:36.587
+9,18,Pastor Maldonado MAL,Williams Renault,1:37.842
+10,19,Bruno Senna SEN,Williams Renault,1:37.604
+11,6,Felipe Massa MAS,Ferrari,1:36.937
+12,3,Jenson Button BUT,McLaren Mercedes,1:37.616
+13,11,Paul di Resta DIR,Force India Mercedes,1:37.665
+14,17,Jean-Eric Vergne VER,STR Ferrari,1:37.879
+15,15,Sergio Perez PER,Sauber Ferrari,1:38.206
+16,14,Kamui Kobayashi KOB,Sauber Ferrari,1:38.437
+17,8,Nico Rosberg ROS,Mercedes,1:38.501
+18,16,Daniel Ricciardo RIC,STR Ferrari,1:39.114
+19,24,Timo Glock GLO,Marussia Cosworth,1:40.056
+20,25,Charles Pic PIC,Marussia Cosworth,1:40.664
+21,21,Vitaly Petrov PET,Caterham Renault,1:40.809
+22,20,Heikki Kovalainen KOV,Caterham Renault,1:41.166
+23,22,Pedro de la Rosa DLR,HRT Cosworth,1:42.011
+24,23,Narain Karthikeyan KAR,HRT Cosworth,1:42.740
+

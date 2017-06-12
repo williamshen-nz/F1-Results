@@ -1,0 +1,26 @@
+1,5,Michael Schumacher MSC,Ferrari,1:24.751,,4
+2,35,Alexander Wurz WUR,Williams Cosworth,1:25.132,+0.381s,19
+3,38,Robert Kubica KUB,Sauber BMW,1:25.942,+1.191s,24
+4,36,Anthony Davidson DAV,Honda,1:26.012,+1.261s,27
+5,8,Jarno Trulli TRU,Toyota,1:26.417,+1.666s,7
+6,37,Robert Doornbos DOO,RBR Ferrari,1:26.498,+1.747s,18
+7,6,Felipe Massa MAS,Ferrari,1:26.596,+1.845s,4
+8,14,David Coulthard COU,RBR Ferrari,1:26.678,+1.927s,7
+9,3,Kimi Räikkönen RAI,McLaren Mercedes,1:26.938,+2.187s,5
+10,19,Christijan Albers ALB,MF1 Toyota,1:28.048,+3.297s,13
+11,21,Scott Speed SPE,STR Cosworth,1:28.498,+3.747s,6
+12,39,Giorgio Mondini MOD,MF1 Toyota,1:28.969,+4.218s,20
+13,15,Christian Klien KLI,RBR Ferrari,1:29.106,+4.355s,6
+14,40,Neel Jani JAN,STR Cosworth,1:29.695,+4.944s,13
+15,18,Tiago Monteiro MON,MF1 Toyota,1:29.697,+4.946s,13
+16,20,Vitantonio Liuzzi LIU,STR Cosworth,1:30.348,+5.597s,6
+17,22,Takuma Sato SAT,Super Aguri Honda,1:31.217,+6.466s,17
+18,23,Yuji Ide IDE,Super Aguri Honda,1:31.482,+6.731s,17
+19,1,Fernando Alonso ALO,Renault,,,3
+20,7,Ralf Schumacher RSC,Toyota,,,1
+21,2,Giancarlo Fisichella FIS,Renault,,,2
+22,4,Juan Pablo Montoya MOY,McLaren Mercedes,,,1
+23,16,Nick Heidfeld HEI,Sauber BMW,,,1
+24,17,Jacques Villeneuve VIL,Sauber BMW,,,1
+25,11,Rubens Barrichello BAR,Honda,,,1
+

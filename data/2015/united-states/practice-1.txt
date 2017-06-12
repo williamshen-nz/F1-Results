@@ -1,0 +1,21 @@
+1,6,Nico Rosberg ROS,Mercedes,1:53.989,,7
+2,26,Daniil Kvyat KVY,Red Bull Racing Renault,1:55.224,+1.235s,6
+3,3,Daniel Ricciardo RIC,Red Bull Racing Renault,1:55.592,+1.603s,10
+4,55,Carlos Sainz SAI,STR Renault,1:55.667,+1.678s,8
+5,44,Lewis Hamilton HAM,Mercedes,1:55.693,+1.704s,4
+6,5,Sebastian Vettel VET,Ferrari,1:55.710,+1.721s,10
+7,33,Max Verstappen VER,STR Renault,1:55.969,+1.980s,7
+8,7,Kimi Räikkönen RAI,Ferrari,1:56.326,+2.337s,10
+9,14,Fernando Alonso ALO,McLaren Honda,1:56.839,+2.850s,18
+10,77,Valtteri Bottas BOT,Williams Mercedes,1:56.866,+2.877s,15
+11,19,Felipe Massa MAS,Williams Mercedes,1:57.081,+3.092s,13
+12,11,Sergio Perez PER,Force India Mercedes,1:57.139,+3.150s,4
+13,22,Jenson Button BUT,McLaren Honda,1:57.495,+3.506s,20
+14,27,Nico Hulkenberg HUL,Force India Mercedes,1:57.518,+3.529s,4
+15,8,Romain Grosjean GRO,Lotus Mercedes,1:58.319,+4.330s,10
+16,36,Raffaele Marciello MAR,Sauber Ferrari,1:59.431,+5.442s,19
+17,9,Marcus Ericsson ERI,Sauber Ferrari,1:59.743,+5.754s,18
+18,53,Alexander Rossi RSI,Marussia Ferrari,2:01.154,+7.165s,11
+19,28,Will Stevens STE,Marussia Ferrari,2:01.907,+7.918s,13
+20,13,Pastor Maldonado MAL,Lotus Mercedes,,,1
+

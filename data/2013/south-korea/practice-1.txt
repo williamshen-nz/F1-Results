@@ -1,0 +1,23 @@
+1,10,Lewis Hamilton HAM,Mercedes,1:39.630,,20
+2,1,Sebastian Vettel VET,Red Bull Racing Renault,1:39.667,+0.037s,20
+3,2,Mark Webber WEB,Red Bull Racing Renault,1:39.816,+0.186s,19
+4,9,Nico Rosberg ROS,Mercedes,1:40.117,+0.487s,20
+5,5,Jenson Button BUT,McLaren Mercedes,1:40.215,+0.585s,22
+6,3,Fernando Alonso ALO,Ferrari,1:40.374,+0.744s,18
+7,8,Romain Grosjean GRO,Lotus Renault,1:40.396,+0.766s,19
+8,7,Kimi Räikkönen RAI,Lotus Renault,1:40.677,+1.047s,15
+9,6,Sergio Perez PER,McLaren Mercedes,1:40.860,+1.230s,20
+10,4,Felipe Massa MAS,Ferrari,1:40.880,+1.250s,13
+11,11,Nico Hulkenberg HUL,Sauber Ferrari,1:40.899,+1.269s,20
+12,15,Adrian Sutil SUT,Force India Mercedes,1:41.432,+1.802s,18
+13,16,Pastor Maldonado MAL,Williams Renault,1:41.482,+1.852s,22
+14,12,Esteban Gutierrez GUT,Sauber Ferrari,1:41.626,+1.996s,21
+15,18,Jean-Eric Vergne VER,STR Ferrari,1:41.924,+2.294s,19
+16,17,Valtteri Bottas BOT,Williams Renault,1:42.002,+2.372s,20
+17,19,Daniel Ricciardo RIC,STR Ferrari,1:42.043,+2.413s,18
+18,14,James Calado CAL,Force India Mercedes,1:43.008,+3.378s,21
+19,20,Charles Pic PIC,Caterham Renault,1:43.660,+4.030s,20
+20,21,Giedo van der Garde VDG,Caterham Renault,1:43.883,+4.253s,19
+21,23,Max Chilton CHI,Marussia Cosworth,1:44.100,+4.470s,14
+22,22,Rodolfo Gonzalez GON,Marussia Cosworth,1:46.810,+7.180s,10
+

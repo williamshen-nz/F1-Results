@@ -1,0 +1,25 @@
+1,14,Kamui Kobayashi KOB,Sauber Ferrari,2:11.389,,20
+2,18,Pastor Maldonado MAL,Williams Renault,2:11.941,+0.552s,14
+3,16,Daniel Ricciardo RIC,STR Ferrari,2:12.004,+0.615s,12
+4,17,Jean-Eric Vergne VER,STR Ferrari,2:12.824,+1.435s,15
+5,2,Mark Webber WEB,Red Bull Racing Renault,2:13.191,+1.802s,13
+6,15,Sergio Perez PER,Sauber Ferrari,2:13.861,+2.472s,16
+7,8,Nico Rosberg ROS,Mercedes,2:14.210,+2.821s,14
+8,19,Valtteri Bottas BOT,Williams Renault,2:14.660,+3.271s,16
+9,1,Sebastian Vettel VET,Red Bull Racing Renault,2:14.860,+3.471s,12
+10,7,Michael Schumacher MSC,Mercedes,2:15.402,+4.013s,13
+11,11,Paul di Resta DIR,Force India Mercedes,2:15.812,+4.423s,11
+12,24,Timo Glock GLO,Marussia Cosworth,2:16.409,+5.020s,16
+13,12,Nico Hulkenberg HUL,Force India Mercedes,2:16.786,+5.397s,10
+14,21,Vitaly Petrov PET,Caterham Renault,2:16.788,+5.399s,16
+15,4,Lewis Hamilton HAM,McLaren Mercedes,2:16.827,+5.438s,5
+16,3,Jenson Button BUT,McLaren Mercedes,2:16.861,+5.472s,8
+17,25,Charles Pic PIC,Marussia Cosworth,2:17.519,+6.130s,14
+18,20,Heikki Kovalainen KOV,Caterham Renault,2:18.199,+6.810s,10
+19,22,Pedro de la Rosa DLR,HRT Cosworth,2:19.546,+8.157s,12
+20,23,Dani Clos CLO,HRT Cosworth,2:19.689,+8.300s,12
+21,10,Romain Grosjean GRO,Lotus Renault,2:38.701,+27.312s,9
+22,5,Fernando Alonso ALO,Ferrari,2:40.749,+29.360s,4
+23,9,Kimi Räikkönen RAI,Lotus Renault,2:46.580,+35.191s,9
+24,6,Felipe Massa MAS,Ferrari,,,2
+

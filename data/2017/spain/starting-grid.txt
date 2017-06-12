@@ -1,0 +1,21 @@
+1,44,Lewis Hamilton HAM,Mercedes,1:19.149
+2,5,Sebastian Vettel VET,Ferrari,1:19.200
+3,77,Valtteri Bottas BOT,Mercedes,1:19.373
+4,7,Kimi Räikkönen RAI,Ferrari,1:19.439
+5,33,Max Verstappen VER,Red Bull Racing TAG Heuer,1:19.706
+6,3,Daniel Ricciardo RIC,Red Bull Racing TAG Heuer,1:20.175
+7,14,Fernando Alonso ALO,McLaren Honda,1:21.048
+8,11,Sergio Perez PER,Force India Mercedes,1:21.070
+9,19,Felipe Massa MAS,Williams Mercedes,1:21.232
+10,31,Esteban Ocon OCO,Force India Mercedes,1:21.272
+11,20,Kevin Magnussen MAG,Haas Ferrari,1:21.329
+12,55,Carlos Sainz SAI,Toro Rosso,1:21.371
+13,27,Nico Hulkenberg HUL,Renault,1:21.397
+14,8,Romain Grosjean GRO,Haas Ferrari,1:21.517
+15,94,Pascal Wehrlein WEH,Sauber Ferrari,1:21.803
+16,9,Marcus Ericsson ERI,Sauber Ferrari,1:22.332
+17,30,Jolyon Palmer PAL,Renault,1:22.401
+18,18,Lance Stroll STR,Williams Mercedes,1:22.411
+19,26,Daniil Kvyat KVY,Toro Rosso,1:22.746
+20,2,Stoffel Vandoorne VAN,McLaren Honda,1:22.532
+Note - Vandoorne penalised 10 places for use of additional power unit elements.

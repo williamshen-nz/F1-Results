@@ -1,0 +1,25 @@
+1,12,Nico Hulkenberg HUL,Force India Mercedes,52,1:51.033,164.480
+2,14,Kamui Kobayashi KOB,Sauber Ferrari,52,1:51.690,163.513
+3,1,Sebastian Vettel VET,Red Bull Racing Renault,50,1:52.134,162.865
+4,3,Jenson Button BUT,McLaren Mercedes,47,1:52.625,162.155
+5,5,Fernando Alonso ALO,Ferrari,53,1:52.709,162.034
+6,2,Mark Webber WEB,Red Bull Racing Renault,51,1:52.778,161.935
+7,11,Paul di Resta DIR,Force India Mercedes,54,1:52.931,161.716
+8,17,Jean-Eric Vergne VER,STR Ferrari,28,1:53.510,160.891
+9,19,Bruno Senna SEN,Williams Renault,27,1:53.610,160.749
+10,15,Sergio Perez PER,Sauber Ferrari,53,1:53.726,160.585
+11,9,Kimi Räikkönen RAI,Lotus Renault,53,1:53.785,160.502
+12,8,Nico Rosberg ROS,Mercedes,55,1:53.897,160.344
+13,6,Felipe Massa MAS,Ferrari,47,1:53.997,160.204
+14,10,Romain Grosjean GRO,Lotus Renault,56,1:54.123,160.027
+15,16,Daniel Ricciardo RIC,STR Ferrari,53,1:54.267,159.825
+16,18,Pastor Maldonado MAL,Williams Renault,27,1:55.120,158.641
+17,21,Vitaly Petrov PET,Caterham Renault,44,1:55.140,158.613
+18,20,Heikki Kovalainen KOV,Caterham Renault,48,1:55.233,158.485
+19,4,Lewis Hamilton HAM,McLaren Mercedes,14,1:55.541,158.063
+20,7,Michael Schumacher MSC,Mercedes,26,1:56.047,157.374
+21,24,Timo Glock GLO,Marussia Cosworth,30,1:56.057,157.360
+22,25,Charles Pic PIC,Marussia Cosworth,37,1:56.486,156.781
+23,22,Pedro de la Rosa DLR,HRT Cosworth,48,1:57.671,155.202
+24,23,Narain Karthikeyan KAR,HRT Cosworth,26,1:58.507,154.107
+

@@ -1,0 +1,25 @@
+1,1,Sebastian Vettel VET,Red Bull Racing Renault,55,1:39.605,202.941
+2,2,Mark Webber WEB,Red Bull Racing Renault,55,1:40.294,201.547
+3,3,Lewis Hamilton HAM,McLaren Mercedes,54,1:40.459,201.216
+4,18,Sebastien Buemi BUE,STR Ferrari,50,1:40.537,201.060
+5,6,Felipe Massa MAS,Ferrari,51,1:40.541,201.052
+6,5,Fernando Alonso ALO,Ferrari,41,1:40.547,201.040
+7,4,Jenson Button BUT,McLaren Mercedes,55,1:40.709,200.716
+8,19,Jaime Alguersuari ALG,STR Ferrari,55,1:40.940,200.257
+9,8,Nico Rosberg ROS,Mercedes,49,1:41.770,198.624
+10,14,Adrian Sutil SUT,Force India Mercedes,49,1:42.014,198.149
+11,16,Kamui Kobayashi KOB,Sauber Ferrari,45,1:42.080,198.021
+12,15,Paul di Resta DIR,Force India Mercedes,50,1:42.102,197.978
+13,11,Rubens Barrichello BAR,Williams Cosworth,54,1:42.371,197.458
+14,17,Sergio Perez PER,Sauber Ferrari,39,1:42.425,197.354
+15,20,Heikki Kovalainen KOV,Lotus Renault,52,1:42.456,197.294
+16,9,Bruno Senna SEN,Renault,41,1:42.549,197.115
+17,21,Jarno Trulli TRU,Lotus Renault,46,1:43.009,196.235
+18,24,Timo Glock GLO,Virgin Cosworth,53,1:44.536,193.368
+19,12,Pastor Maldonado MAL,Williams Cosworth,26,1:44.689,193.086
+20,25,Jerome d'Ambrosio DAM,Virgin Cosworth,53,1:44.746,192.981
+21,22,Daniel Ricciardo RIC,HRT Cosworth,53,1:44.870,192.752
+22,7,Michael Schumacher MSC,Mercedes,13,1:45.327,191.916
+23,10,Vitaly Petrov PET,Renault,10,1:45.469,191.658
+24,23,Vitantonio Liuzzi LIU,HRT Cosworth,45,1:46.173,190.387
+

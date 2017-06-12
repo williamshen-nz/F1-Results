@@ -1,0 +1,22 @@
+1,2,Lewis Hamilton HAM,McLaren Mercedes,22,1:36.701,206.355
+2,1,Fernando Alonso ALO,McLaren Mercedes,42,1:36.861,206.014
+3,5,Felipe Massa MAS,Ferrari,42,1:37.199,205.298
+4,6,Kimi Räikkönen RAI,Ferrari,40,1:37.228,205.237
+5,9,Nick Heidfeld HEI,Sauber BMW,55,1:37.417,204.838
+6,16,Nico Rosberg ROS,Williams Toyota,18,1:37.704,204.237
+7,4,Heikki Kovalainen KOV,Renault,41,1:37.810,204.015
+8,17,Alexander Wurz WUR,Williams Toyota,19,1:37.864,203.903
+9,3,Giancarlo Fisichella FIS,Renault,44,1:37.879,203.872
+10,12,Jarno Trulli TRU,Toyota,40,1:38.016,203.587
+11,14,David Coulthard COU,Red Bull Renault,28,1:38.098,203.416
+12,18,Vitantonio Liuzzi LIU,STR Ferrari,21,1:38.447,202.695
+13,22,Takuma Sato SAT,Super Aguri Honda,37,1:38.496,202.595
+14,15,Mark Webber WEB,Red Bull Renault,55,1:38.540,202.504
+15,8,Rubens Barrichello BAR,Honda,32,1:38.566,202.451
+16,7,Jenson Button BUT,Honda,54,1:38.658,202.262
+17,10,Robert Kubica KUB,Sauber BMW,53,1:38.874,201.820
+18,19,Scott Speed SPE,STR Ferrari,54,1:39.098,201.364
+19,11,Ralf Schumacher RSC,Toyota,52,1:39.243,201.070
+20,23,Anthony Davidson DAV,Super Aguri Honda,32,1:39.566,200.417
+21,21,Christijan Albers ALB,Spyker Ferrari,5,1:41.495,196.608
+

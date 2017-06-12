@@ -1,0 +1,21 @@
+1,44,Lewis Hamilton HAM,Mercedes,26,14:47:28,1:37.176,218.239
+2,1,Sebastian Vettel VET,Red Bull Racing Renault,52,15:31:22,1:37.481,217.556
+3,6,Nico Rosberg ROS,Mercedes,26,14:47:23,1:38.091,216.203
+4,77,Valtteri Bottas BOT,Williams Mercedes,34,15:01:18,1:38.264,215.822
+5,22,Jenson Button BUT,McLaren Mercedes,52,15:31:15,1:38.284,215.778
+6,26,Daniil Kvyat KVY,STR Renault,45,15:20:25,1:38.407,215.509
+7,3,Daniel Ricciardo RIC,Red Bull Racing Renault,34,15:01:26,1:38.459,215.395
+8,14,Fernando Alonso ALO,Ferrari,52,15:31:28,1:38.587,215.115
+9,27,Nico Hulkenberg HUL,Force India Mercedes,52,15:31:57,1:38.625,215.032
+10,20,Kevin Magnussen MAG,McLaren Mercedes,32,14:58:22,1:38.677,214.919
+11,11,Sergio Perez PER,Force India Mercedes,41,15:14:01,1:38.716,214.834
+12,8,Romain Grosjean GRO,Lotus Renault,48,15:25:44,1:38.919,214.393
+13,25,Jean-Eric Vergne VER,STR Renault,44,15:18:52,1:39.261,213.654
+14,17,Jules Bianchi BIA,Marussia Ferrari,51,15:31:34,1:39.961,212.158
+15,99,Adrian Sutil SUT,Sauber Ferrari,34,15:02:22,1:40.041,211.989
+16,13,Pastor Maldonado MAL,Lotus Renault,48,15:26:09,1:40.314,211.412
+17,4,Max Chilton CHI,Marussia Ferrari,50,15:32:03,1:40.399,211.233
+18,10,Kamui Kobayashi KOB,Caterham Renault,31,14:58:47,1:41.462,209.020
+19,21,Esteban Gutierrez GUT,Sauber Ferrari,7,14:16:16,1:42.566,206.770
+20,9,Marcus Ericsson ERI,Caterham Renault,7,14:16:26,1:44.319,203.295
+

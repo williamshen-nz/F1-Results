@@ -1,0 +1,25 @@
+1,4,Jenson Button BUT,McLaren Mercedes,69,1:16.956,204.007
+2,1,Sebastian Vettel VET,Red Bull Racing Renault,69,1:17.217,203.317
+3,10,Vitaly Petrov PET,Renault,68,1:19.054,198.593
+4,7,Michael Schumacher MSC,Mercedes,70,1:19.138,198.382
+5,6,Felipe Massa MAS,Ferrari,68,1:19.148,198.357
+6,15,Paul di Resta DIR,Force India Mercedes,67,1:19.395,197.740
+7,18,Sebastien Buemi BUE,STR Ferrari,69,1:19.507,197.461
+8,2,Mark Webber WEB,Red Bull Racing Renault,65,1:19.572,197.300
+9,8,Nico Rosberg ROS,Mercedes,69,1:20.071,196.070
+10,16,Kamui Kobayashi KOB,Sauber Ferrari,70,1:20.213,195.723
+11,11,Rubens Barrichello BAR,Williams Cosworth,68,1:20.316,195.472
+12,17,Pedro de la Rosa DLR,Sauber Ferrari,70,1:20.369,195.343
+13,19,Jaime Alguersuari ALG,STR Ferrari,69,1:20.371,195.339
+14,21,Jarno Trulli TRU,Lotus Renault,67,1:22.233,190.916
+15,25,Jerome d'Ambrosio DAM,Virgin Cosworth,68,1:22.495,190.309
+16,22,Narain Karthikeyan KAR,HRT Cosworth,66,1:23.116,188.887
+17,23,Vitantonio Liuzzi LIU,HRT Cosworth,63,1:23.419,188.201
+18,12,Pastor Maldonado MAL,Williams Cosworth,53,1:24.265,186.312
+19,24,Timo Glock GLO,Virgin Cosworth,68,1:24.590,185.596
+20,9,Nick Heidfeld HEI,Renault,55,1:25.135,184.408
+21,14,Adrian Sutil SUT,Force India Mercedes,47,1:30.171,174.109
+22,5,Fernando Alonso ALO,Ferrari,14,1:34.223,166.621
+23,3,Lewis Hamilton HAM,McLaren Mercedes,7,1:37.761,160.591
+24,20,Heikki Kovalainen KOV,Lotus Renault,16,1:38.460,159.451
+

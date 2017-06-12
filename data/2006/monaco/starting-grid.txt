@@ -1,0 +1,22 @@
+1,1,Fernando Alonso ALO,Renault,1:13.962
+2,9,Mark Webber WEB,Williams Cosworth,1:14.082
+3,3,Kimi Räikkönen RAI,McLaren Mercedes,1:14.140
+4,4,Juan Pablo Montoya MOY,McLaren Mercedes,1:14.664
+5,11,Rubens Barrichello BAR,Honda,1:15.804
+6,8,Jarno Trulli TRU,Toyota,1:15.857
+7,14,David Coulthard COU,RBR Ferrari,1:16.426
+8,10,Nico Rosberg ROS,Williams Cosworth,1:16.636
+9,2,Giancarlo Fisichella FIS,Renault,1:17.260
+10,7,Ralf Schumacher RSC,Toyota,1:14.398
+11,15,Christian Klien KLI,RBR Ferrari,1:14.747
+12,20,Vitantonio Liuzzi LIU,STR Cosworth,1:14.969
+13,12,Jenson Button BUT,Honda,1:14.982
+14,17,Jacques Villeneuve VIL,Sauber BMW,1:15.052
+15,16,Nick Heidfeld HEI,Sauber BMW,1:15.137
+16,19,Christijan Albers ALB,MF1 Toyota,1:15.598
+17,18,Tiago Monteiro MON,MF1 Toyota,1:15.993
+18,21,Scott Speed SPE,STR Cosworth,1:16.236
+19,22,Takuma Sato SAT,Super Aguri Honda,1:17.276
+20,23,Franck Montagny MON,Super Aguri Honda,1:17.502
+21,6,Felipe Massa MAS,Ferrari,
+

@@ -1,0 +1,25 @@
+1,2,Mark Webber WEB,Red Bull Racing Renault,1:31.711,,34
+2,5,Fernando Alonso ALO,Ferrari,1:31.879,+0.168s,38
+3,1,Sebastian Vettel VET,Red Bull Racing Renault,1:32.084,+0.373s,28
+4,6,Felipe Massa MAS,Ferrari,1:32.354,+0.643s,36
+5,7,Michael Schumacher MSC,Mercedes,1:32.411,+0.700s,31
+6,8,Nico Rosberg ROS,Mercedes,1:32.557,+0.846s,32
+7,3,Lewis Hamilton HAM,McLaren Mercedes,1:32.724,+1.013s,28
+8,9,Nick Heidfeld HEI,Renault,1:33.098,+1.387s,17
+9,10,Vitaly Petrov PET,Renault,1:33.138,+1.427s,22
+10,14,Adrian Sutil SUT,Force India Mercedes,1:33.211,+1.500s,34
+11,4,Jenson Button BUT,McLaren Mercedes,1:33.225,+1.514s,17
+12,15,Paul di Resta DIR,Force India Mercedes,1:33.299,+1.588s,34
+13,17,Sergio Perez PER,Sauber Ferrari,1:34.113,+2.402s,34
+14,11,Rubens Barrichello BAR,Williams Cosworth,1:34.344,+2.633s,34
+15,19,Jaime Alguersuari ALG,STR Ferrari,1:34.487,+2.776s,37
+16,16,Kamui Kobayashi KOB,Sauber Ferrari,1:34.491,+2.780s,35
+17,12,Pastor Maldonado MAL,Williams Cosworth,1:34.996,+3.285s,35
+18,20,Heikki Kovalainen KOV,Lotus Renault,1:35.753,+4.042s,42
+19,24,Timo Glock GLO,Virgin Cosworth,1:36.940,+5.229s,32
+20,21,Karun Chandhok CHD,Lotus Renault,1:37.248,+5.537s,33
+21,25,Jerome d'Ambrosio DAM,Virgin Cosworth,1:37.313,+5.602s,33
+22,23,Vitantonio Liuzzi LIU,HRT Cosworth,1:38.145,+6.434s,31
+23,22,Daniel Ricciardo RIC,HRT Cosworth,1:40.737,+9.026s,5
+24,18,Sebastien Buemi BUE,STR Ferrari,,,3
+

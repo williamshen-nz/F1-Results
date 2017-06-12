@@ -1,0 +1,21 @@
+1,3,Felipe Massa MAS,Ferrari,1:27.983,,26
+2,9,Jarno Trulli TRU,Toyota,1:28.022,+0.039s,21
+3,10,Timo Glock GLO,Toyota,1:28.094,+0.111s,23
+4,17,Kazuki Nakajima NAK,Williams Toyota,1:28.122,+0.139s,19
+5,5,Robert Kubica KUB,Sauber BMW,1:28.320,+0.337s,20
+6,23,Rubens Barrichello BAR,Brawn Mercedes,1:28.332,+0.349s,21
+7,22,Jenson Button BUT,Brawn Mercedes,1:28.360,+0.377s,19
+8,16,Nico Rosberg ROS,Williams Toyota,1:28.364,+0.381s,19
+9,4,Kimi Räikkönen RAI,Ferrari,1:28.415,+0.432s,16
+10,15,Sebastian Vettel VET,RBR Renault,1:28.451,+0.468s,18
+11,8,Nelson Piquet PIQ,Renault,1:28.503,+0.520s,15
+12,1,Lewis Hamilton HAM,McLaren Mercedes,1:28.563,+0.580s,19
+13,14,Mark Webber WEB,RBR Renault,1:28.678,+0.695s,18
+14,6,Nick Heidfeld HEI,Sauber BMW,1:28.715,+0.732s,19
+15,2,Heikki Kovalainen KOV,McLaren Mercedes,1:28.738,+0.755s,19
+16,20,Adrian Sutil SUT,Force India Mercedes,1:29.050,+1.067s,18
+17,11,Sebastien Bourdais BOU,STR Ferrari,1:29.076,+1.093s,19
+18,12,Sebastien Buemi BUE,STR Ferrari,1:29.167,+1.184s,21
+19,7,Fernando Alonso ALO,Renault,1:29.261,+1.278s,15
+20,21,Giancarlo Fisichella FIS,Force India Mercedes,1:29.421,+1.438s,17
+

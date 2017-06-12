@@ -1,0 +1,21 @@
+1,12,Timo Glock GLO,Toyota,1:18.383,,44
+2,5,Fernando Alonso ALO,Renault,1:18.426,+0.043s,41
+3,22,Lewis Hamilton HAM,McLaren Mercedes,1:18.463,+0.080s,40
+4,2,Felipe Massa MAS,Ferrari,1:18.491,+0.108s,40
+5,1,Kimi Räikkönen RAI,Ferrari,1:18.725,+0.342s,39
+6,10,Mark Webber WEB,Red Bull Renault,1:18.734,+0.351s,39
+7,8,Kazuki Nakajima NAK,Williams Toyota,1:18.734,+0.351s,36
+8,15,Sebastian Vettel VET,STR Ferrari,1:18.761,+0.378s,23
+9,23,Heikki Kovalainen KOV,McLaren Mercedes,1:18.803,+0.420s,32
+10,11,Jarno Trulli TRU,Toyota,1:18.863,+0.480s,45
+11,4,Robert Kubica KUB,Sauber BMW,1:18.865,+0.482s,39
+12,6,Nelson Piquet PIQ,Renault,1:18.888,+0.505s,43
+13,7,Nico Rosberg ROS,Williams Toyota,1:18.981,+0.598s,41
+14,14,Sebastien Bourdais BOU,STR Ferrari,1:19.040,+0.657s,41
+15,17,Rubens Barrichello BAR,Honda,1:19.258,+0.875s,42
+16,20,Adrian Sutil SUT,Force India Ferrari,1:19.287,+0.904s,41
+17,9,David Coulthard COU,Red Bull Renault,1:19.327,+0.944s,36
+18,21,Giancarlo Fisichella FIS,Force India Ferrari,1:19.482,+1.099s,44
+19,3,Nick Heidfeld HEI,Sauber BMW,1:19.894,+1.511s,41
+20,16,Jenson Button BUT,Honda,1:19.999,+1.616s,42
+

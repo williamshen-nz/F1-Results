@@ -1,0 +1,20 @@
+1,16,Nico Rosberg ROS,Williams Toyota,48,1:27.706,217.668
+2,5,Robert Kubica KUB,Sauber BMW,36,1:27.988,216.970
+3,22,Jenson Button BUT,Brawn Mercedes,17,1:28.020,216.891
+4,15,Sebastian Vettel VET,RBR Renault,8,1:28.140,216.596
+5,6,Nick Heidfeld HEI,Sauber BMW,48,1:28.283,216.245
+6,10,Timo Glock GLO,Toyota,53,1:28.416,215.920
+7,4,Kimi Räikkönen RAI,Ferrari,35,1:28.488,215.744
+8,14,Mark Webber WEB,RBR Renault,38,1:28.508,215.695
+9,7,Fernando Alonso ALO,Renault,53,1:28.712,215.199
+10,9,Jarno Trulli TRU,Toyota,50,1:28.916,214.706
+11,20,Adrian Sutil SUT,Force India Mercedes,43,1:28.943,214.640
+12,21,Giancarlo Fisichella FIS,Force India Mercedes,51,1:29.005,214.491
+13,1,Lewis Hamilton HAM,McLaren Mercedes,39,1:29.020,214.455
+14,23,Rubens Barrichello BAR,Brawn Mercedes,43,1:29.066,214.344
+15,3,Felipe Massa MAS,Ferrari,30,1:29.141,214.164
+16,12,Sebastien Buemi BUE,STR Ferrari,34,1:29.230,213.950
+17,11,Sebastien Bourdais BOU,STR Ferrari,50,1:29.823,212.537
+18,17,Kazuki Nakajima NAK,Williams Toyota,6,1:29.923,212.301
+19,8,Nelson Piquet PIQ,Renault,17,1:30.502,210.943
+

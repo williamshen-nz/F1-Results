@@ -1,0 +1,21 @@
+1,1,Lewis Hamilton HAM,McLaren Mercedes,1:22.079,,36
+2,2,Heikki Kovalainen KOV,McLaren Mercedes,1:22.126,+0.047s,36
+3,16,Nico Rosberg ROS,Williams Toyota,1:22.154,+0.075s,47
+4,14,Mark Webber WEB,RBR Renault,1:22.369,+0.290s,29
+5,17,Kazuki Nakajima NAK,Williams Toyota,1:22.426,+0.347s,40
+6,15,Sebastian Vettel VET,RBR Renault,1:22.550,+0.471s,30
+7,23,Rubens Barrichello BAR,Brawn Mercedes,1:22.641,+0.562s,38
+8,9,Jarno Trulli TRU,Toyota,1:22.663,+0.584s,28
+9,6,Nick Heidfeld HEI,Sauber BMW,1:22.690,+0.611s,43
+10,10,Timo Glock GLO,Toyota,1:22.751,+0.672s,45
+11,4,Kimi Räikkönen RAI,Ferrari,1:22.763,+0.684s,38
+12,7,Fernando Alonso ALO,Renault,1:22.793,+0.714s,37
+13,22,Jenson Button BUT,Brawn Mercedes,1:22.806,+0.727s,42
+14,5,Robert Kubica KUB,Sauber BMW,1:22.870,+0.791s,36
+15,8,Nelson Piquet PIQ,Renault,1:22.927,+0.848s,36
+16,20,Adrian Sutil SUT,Force India Mercedes,1:22.978,+0.899s,28
+17,21,Giancarlo Fisichella FIS,Force India Mercedes,1:23.029,+0.950s,39
+18,3,Felipe Massa MAS,Ferrari,1:23.156,+1.077s,32
+19,12,Sebastien Buemi BUE,STR Ferrari,1:23.176,+1.097s,45
+20,11,Jaime Alguersuari ALG,STR Ferrari,1:23.942,+1.863s,40
+

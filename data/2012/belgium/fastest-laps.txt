@@ -1,0 +1,21 @@
+1,19,Bruno Senna SEN,Williams Renault,43,1:52.822,223.488
+2,8,Nico Rosberg ROS,Mercedes,39,1:53.073,222.992
+3,6,Felipe Massa MAS,Ferrari,30,1:53.464,222.223
+4,7,Michael Schumacher MSC,Mercedes,37,1:53.507,222.139
+5,9,Kimi Räikkönen RAI,Lotus Renault,34,1:53.640,221.879
+6,12,Nico Hulkenberg HUL,Force India Mercedes,40,1:53.760,221.645
+7,2,Mark Webber WEB,Red Bull Racing Renault,42,1:53.768,221.629
+8,17,Jean-Eric Vergne VER,STR Ferrari,31,1:53.995,221.188
+9,1,Sebastian Vettel VET,Red Bull Racing Renault,39,1:54.198,220.795
+10,3,Jenson Button BUT,McLaren Mercedes,40,1:54.293,220.611
+11,11,Paul di Resta DIR,Force India Mercedes,28,1:54.562,220.093
+12,16,Daniel Ricciardo RIC,STR Ferrari,42,1:54.605,220.011
+13,14,Kamui Kobayashi KOB,Sauber Ferrari,26,1:55.598,218.121
+14,20,Heikki Kovalainen KOV,Caterham Renault,33,1:56.475,216.479
+15,21,Vitaly Petrov PET,Caterham Renault,28,1:56.741,215.985
+16,24,Timo Glock GLO,Marussia Cosworth,30,1:56.956,215.588
+17,22,Pedro de la Rosa DLR,HRT Cosworth,30,1:57.315,214.929
+18,25,Charles Pic PIC,Marussia Cosworth,27,1:57.939,213.791
+19,23,Narain Karthikeyan KAR,HRT Cosworth,16,1:59.113,211.684
+20,18,Pastor Maldonado MAL,Williams Renault,4,2:56.181,143.116
+

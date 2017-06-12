@@ -1,0 +1,23 @@
+1,14,Paul di Resta DIR,Force India Mercedes,1:21.020,,10
+2,5,Jenson Button BUT,McLaren Mercedes,1:21.108,+0.088s,20
+3,8,Romain Grosjean GRO,Lotus Renault,1:21.258,+0.238s,21
+4,3,Fernando Alonso ALO,Ferrari,1:21.308,+0.288s,16
+5,7,Kimi Räikkönen RAI,Lotus Renault,1:21.608,+0.588s,22
+6,19,Daniel Ricciardo RIC,STR Ferrari,1:22.068,+1.048s,18
+7,9,Nico Rosberg ROS,Mercedes,1:22.402,+1.382s,22
+8,6,Sergio Perez PER,McLaren Mercedes,1:22.587,+1.567s,17
+9,1,Sebastian Vettel VET,Red Bull Racing Renault,1:23.047,+2.027s,26
+10,2,Mark Webber WEB,Red Bull Racing Renault,1:23.131,+2.111s,16
+11,4,Felipe Massa MAS,Ferrari,1:23.341,+2.321s,13
+12,17,Valtteri Bottas BOT,Williams Renault,1:23.352,+2.332s,17
+13,18,Jean-Eric Vergne VER,STR Ferrari,1:23.386,+2.366s,19
+14,15,Adrian Sutil SUT,Force India Mercedes,1:23.417,+2.397s,19
+15,12,Esteban Gutierrez GUT,Sauber Ferrari,1:23.957,+2.937s,33
+16,10,Lewis Hamilton HAM,Mercedes,1:25.054,+4.034s,21
+17,11,Nico Hulkenberg HUL,Sauber Ferrari,1:25.354,+4.334s,22
+18,21,Giedo van der Garde VDG,Caterham Renault,1:25.753,+4.733s,21
+19,23,Max Chilton CHI,Marussia Cosworth,1:25.821,+4.801s,19
+20,20,Alexander Rossi RSI,Caterham Renault,1:27.143,+6.123s,20
+21,16,Pastor Maldonado MAL,Williams Renault,1:27.522,+6.502s,11
+22,22,Jules Bianchi BIA,Marussia Cosworth,1:29.306,+8.286s,8
+

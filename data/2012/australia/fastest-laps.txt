@@ -1,0 +1,21 @@
+1,3,Jenson Button BUT,McLaren Mercedes,56,1:29.187,214.053
+2,1,Sebastian Vettel VET,Red Bull Racing Renault,57,1:29.417,213.503
+3,2,Mark Webber WEB,Red Bull Racing Renault,57,1:29.438,213.452
+4,4,Lewis Hamilton HAM,McLaren Mercedes,57,1:29.538,213.214
+5,18,Pastor Maldonado MAL,Williams Renault,53,1:30.254,211.523
+6,17,Jean-Eric Vergne VER,STR Ferrari,52,1:30.274,211.476
+7,5,Fernando Alonso ALO,Ferrari,52,1:30.277,211.469
+8,16,Daniel Ricciardo RIC,STR Ferrari,53,1:30.592,210.733
+9,11,Paul di Resta DIR,Force India Mercedes,57,1:30.605,210.703
+10,14,Kamui Kobayashi KOB,Sauber Ferrari,55,1:30.620,210.668
+11,9,Kimi Räikkönen RAI,Lotus Renault,50,1:30.759,210.346
+12,15,Sergio Perez PER,Sauber Ferrari,46,1:30.843,210.151
+13,19,Bruno Senna SEN,Williams Renault,49,1:30.855,210.123
+14,8,Nico Rosberg ROS,Mercedes,53,1:30.931,209.948
+15,6,Felipe Massa MAS,Ferrari,46,1:31.940,207.644
+16,21,Vitaly Petrov PET,Caterham Renault,27,1:33.214,204.806
+17,20,Heikki Kovalainen KOV,Caterham Renault,26,1:33.693,203.759
+18,7,Michael Schumacher MSC,Mercedes,4,1:34.021,203.048
+19,24,Timo Glock GLO,Marussia Cosworth,43,1:34.253,202.548
+20,25,Charles Pic PIC,Marussia Cosworth,45,1:35.011,200.932
+

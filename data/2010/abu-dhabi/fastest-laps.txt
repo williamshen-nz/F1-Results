@@ -1,0 +1,23 @@
+1,2,Lewis Hamilton HAM,McLaren Mercedes,47,1:41.274,197.428
+2,1,Jenson Button BUT,McLaren Mercedes,48,1:41.636,196.725
+3,4,Nico Rosberg ROS,Mercedes,52,1:41.711,196.580
+4,5,Sebastian Vettel VET,RBR Renault,50,1:41.739,196.526
+5,11,Robert Kubica KUB,Renault,51,1:41.753,196.499
+6,6,Mark Webber WEB,RBR Renault,52,1:42.196,195.647
+7,8,Fernando Alonso ALO,Ferrari,52,1:42.227,195.588
+8,12,Vitaly Petrov PET,Renault,52,1:42.311,195.427
+9,10,Nico Hulkenberg HUL,Williams Cosworth,51,1:42.397,195.263
+10,16,Sebastien Buemi BUE,STR Ferrari,50,1:42.573,194.928
+11,9,Rubens Barrichello BAR,Williams Cosworth,50,1:42.669,194.746
+12,22,Nick Heidfeld HEI,Sauber Ferrari,52,1:42.673,194.738
+13,14,Adrian Sutil SUT,Force India Mercedes,52,1:42.695,194.696
+14,7,Felipe Massa MAS,Ferrari,52,1:42.725,194.640
+15,17,Jaime Alguersuari ALG,STR Ferrari,49,1:42.727,194.636
+16,23,Kamui Kobayashi KOB,Sauber Ferrari,53,1:42.733,194.624
+17,19,Heikki Kovalainen KOV,Lotus Cosworth,52,1:45.378,189.739
+18,18,Jarno Trulli TRU,Lotus Cosworth,42,1:45.979,188.663
+19,25,Lucas di Grassi DIG,Virgin Cosworth,50,1:46.126,188.402
+20,21,Bruno Senna SEN,HRT Cosworth,52,1:46.255,188.173
+21,20,Christian Klien KLI,HRT Cosworth,44,1:46.646,187.483
+22,24,Timo Glock GLO,Virgin Cosworth,39,1:46.837,187.148
+

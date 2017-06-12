@@ -1,0 +1,21 @@
+1,7,Kimi Räikkönen RAI,Ferrari,1:37.827,,13
+2,5,Sebastian Vettel VET,Ferrari,1:38.029,+0.202s,12
+3,77,Valtteri Bottas BOT,Williams Mercedes,1:38.390,+0.563s,23
+4,55,Carlos Sainz SAI,STR Renault,1:38.447,+0.620s,14
+5,3,Daniel Ricciardo RIC,Red Bull Racing Renault,1:38.455,+0.628s,17
+6,33,Max Verstappen VER,STR Renault,1:38.504,+0.677s,22
+7,14,Fernando Alonso ALO,McLaren Honda,1:38.598,+0.771s,18
+8,12,Felipe Nasr NAS,Sauber Ferrari,1:38.628,+0.801s,17
+9,26,Daniil Kvyat KVY,Red Bull Racing Renault,1:38.661,+0.834s,17
+10,19,Felipe Massa MAS,Williams Mercedes,1:38.790,+0.963s,21
+11,11,Sergio Perez PER,Force India Mercedes,1:38.793,+0.966s,15
+12,13,Pastor Maldonado MAL,Lotus Mercedes,1:38.842,+1.015s,23
+13,27,Nico Hulkenberg HUL,Force India Mercedes,1:39.187,+1.360s,20
+14,30,Jolyon Palmer PAL,Lotus Mercedes,1:39.283,+1.456s,31
+15,6,Nico Rosberg ROS,Mercedes,1:39.293,+1.466s,23
+16,44,Lewis Hamilton HAM,Mercedes,1:39.532,+1.705s,22
+17,9,Marcus Ericsson ERI,Sauber Ferrari,1:39.534,+1.707s,21
+18,28,Will Stevens STE,Marussia Ferrari,1:42.973,+5.146s,12
+19,98,Roberto Merhi MER,Marussia Ferrari,1:44.265,+6.438s,15
+20,22,Jenson Button BUT,McLaren Honda,,,2
+

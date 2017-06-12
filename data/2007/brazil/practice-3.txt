@@ -1,0 +1,23 @@
+1,5,Felipe Massa MAS,Ferrari,1:11.810,,22
+2,2,Lewis Hamilton HAM,McLaren Mercedes,1:11.934,+0.124s,18
+3,6,Kimi Räikkönen RAI,Ferrari,1:11.942,+0.132s,21
+4,15,Mark Webber WEB,Red Bull Renault,1:12.446,+0.636s,14
+5,12,Jarno Trulli TRU,Toyota,1:12.461,+0.651s,23
+6,8,Rubens Barrichello BAR,Honda,1:12.478,+0.668s,24
+7,9,Nick Heidfeld HEI,Sauber BMW,1:12.579,+0.769s,25
+8,1,Fernando Alonso ALO,McLaren Mercedes,1:12.594,+0.784s,12
+9,19,Sebastian Vettel VET,STR Ferrari,1:12.767,+0.957s,18
+10,16,Nico Rosberg ROS,Williams Toyota,1:12.823,+1.013s,20
+11,18,Vitantonio Liuzzi LIU,STR Ferrari,1:12.893,+1.083s,20
+12,3,Giancarlo Fisichella FIS,Renault,1:12.913,+1.103s,20
+13,7,Jenson Button BUT,Honda,1:13.015,+1.205s,22
+14,11,Ralf Schumacher RSC,Toyota,1:13.046,+1.236s,23
+15,4,Heikki Kovalainen KOV,Renault,1:13.090,+1.280s,20
+16,14,David Coulthard COU,Red Bull Renault,1:13.117,+1.307s,12
+17,23,Anthony Davidson DAV,Super Aguri Honda,1:13.299,+1.489s,16
+18,22,Takuma Sato SAT,Super Aguri Honda,1:13.331,+1.521s,16
+19,17,Kazuki Nakajima NAK,Williams Toyota,1:13.474,+1.664s,17
+20,10,Robert Kubica KUB,Sauber BMW,1:13.525,+1.715s,14
+21,20,Adrian Sutil SUT,Spyker Ferrari,1:13.684,+1.874s,21
+22,21,Sakon Yamamoto YAM,Spyker Ferrari,1:13.872,+2.062s,21
+

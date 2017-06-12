@@ -1,0 +1,20 @@
+1,44,Lewis Hamilton HAM,Mercedes,1:11.459
+2,5,Sebastian Vettel VET,Ferrari,1:11.789
+3,77,Valtteri Bottas BOT,Mercedes,1:12.177
+4,7,Kimi Räikkönen RAI,Ferrari,1:12.252
+5,33,Max Verstappen VER,Red Bull Racing TAG Heuer,1:12.403
+6,3,Daniel Ricciardo RIC,Red Bull Racing TAG Heuer,1:12.557
+7,19,Felipe Massa MAS,Williams Mercedes,1:12.858
+8,11,Sergio Perez PER,Force India Mercedes,1:13.018
+9,31,Esteban Ocon OCO,Force India Mercedes,1:13.135
+10,27,Nico Hulkenberg HUL,Renault,1:13.271
+11,26,Daniil Kvyat KVY,Toro Rosso,1:13.690
+12,14,Fernando Alonso ALO,McLaren Honda,1:13.693
+13,55,Carlos Sainz SAI,Toro Rosso,1:13.756
+14,8,Romain Grosjean GRO,Haas Ferrari,1:13.839
+15,30,Jolyon Palmer PAL,Renault,1:14.293
+16,2,Stoffel Vandoorne VAN,McLaren Honda,1:14.182
+17,18,Lance Stroll STR,Williams Mercedes,1:14.209
+18,20,Kevin Magnussen MAG,Haas Ferrari,1:14.318
+19,9,Marcus Ericsson ERI,Sauber Ferrari,1:14.495
+Note - Wehrlein penalised five grid places for an unscheduled gearbox change and required to start from the pit lane for changing to a new specification of rear wing assembly.

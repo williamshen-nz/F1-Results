@@ -1,0 +1,16 @@
+1,5,Michael Schumacher MSC,Ferrari,56,1:12.719,207.527
+2,6,Felipe Massa MAS,Ferrari,29,1:12.954,206.859
+3,2,Giancarlo Fisichella FIS,Renault,28,1:13.131,206.358
+4,7,Ralf Schumacher RSC,Toyota,29,1:13.225,206.093
+5,8,Jarno Trulli TRU,Toyota,37,1:13.269,205.969
+6,1,Fernando Alonso ALO,Renault,72,1:13.316,205.837
+7,11,Rubens Barrichello BAR,Honda,47,1:13.611,205.012
+8,17,Jacques Villeneuve VIL,Sauber BMW,19,1:13.934,204.117
+9,20,Vitantonio Liuzzi LIU,STR Cosworth,41,1:14.286,203.149
+10,10,Nico Rosberg ROS,Williams Cosworth,42,1:14.707,202.005
+11,14,David Coulthard COU,RBR Ferrari,33,1:14.730,201.942
+12,19,Christijan Albers ALB,MF1 Toyota,34,1:14.731,201.940
+13,18,Tiago Monteiro MON,MF1 Toyota,9,1:22.036,183.958
+14,22,Takuma Sato SAT,Super Aguri Honda,6,1:43.802,145.384
+15,12,Jenson Button BUT,Honda,2,2:04.692,121.027
+
