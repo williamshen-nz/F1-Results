@@ -1,15 +1,16 @@
 package Formula1.Analysis;
 
+import Formula1.Model.GridPosition;
 import Formula1.Model.Race;
 import Formula1.Model.Result;
 
 public class RaceStatistics {
-    public static Result getPolePosition(Race race) throws ResultNotFoundException {
-        Result pole = SessionStatistics.getResult(race.getSessions().getQualifying(), 1);
-        if (pole == null)
-            throw new ResultNotFoundException("Couldn't find the pole position in the qualifying session!");
-        else
-            return pole;
+    public static GridPosition getPolePosition(Race race) throws ResultNotFoundException {
+        for (GridPosition gp : race.getSessions().getRace().getStartingGrid().getGridPositions()) {
+            if (gp.getPosition() == 1)
+                return gp;
+        }
+        throw new ResultNotFoundException("Pole position could not be found for " + race.getName() + "!");
     }
 
     public static Result getWinner(Race race) throws ResultNotFoundException {

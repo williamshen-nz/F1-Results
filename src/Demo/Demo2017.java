@@ -1,12 +1,11 @@
 package Demo;
 
+import Formula1.Analysis.RaceStatistics;
 import Formula1.Analysis.SeasonStatistics;
 import Formula1.Model.Drivers;
 import Formula1.Model.Race;
 import Formula1.Model.Season;
 import Formula1.Model.Teams;
-import Formula1.Views.DriverViews;
-import Formula1.Views.TeamViews;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -65,8 +64,8 @@ public class Demo2017 {
             System.out.println("JSON successfully written to `" + location + "`!");
 
             // Example helper and view functions
-            //System.out.println(DriverViews.get(drivers.getDriver("Alonso"), season));
-            //System.out.println();
+/*            System.out.println(DriverViews.get(drivers.getDriver("Alonso"), season));
+            System.out.println();
             System.out.println(DriverViews.getSummary(drivers.getDriver("Alonso"), season));
             System.out.println();
             System.out.println(SeasonStatistics.getPoints(drivers.getDriver("Alonso"), season));
@@ -78,6 +77,13 @@ public class Demo2017 {
             System.out.println(TeamViews.getDetailed(teams.getTeam("Ferrari"), season));
             System.out.println();
             System.out.println(TeamViews.getDetailed(teams.getTeam("McLaren"), season));
+            System.out.println();*/
+            System.out.println("MOST POLE POSITIONS:");
+            System.out.println(SeasonStatistics.mostPolePositions(season));
+
+            for (Race r : season.getRaces()) {
+                System.out.println(r.getName() + ", " + RaceStatistics.getPolePosition(r).getDriver().getName());
+            }
         } catch (Exception e) {
             e.printStackTrace();
         }
