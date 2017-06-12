@@ -1,18 +1,19 @@
 package Demo;
 
-import Formula1.Model.Driver;
-import Formula1.Model.Drivers;
-import Formula1.Model.Session;
+import Formula1.Model.*;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
+import java.util.ArrayList;
+
+import static Demo.LoadSession.SessionType.Race;
 
 public class LoadSession {
     public enum SessionType {
         Practice, Qualifying, Race;
     }
 
-    public static Session load(Drivers drivers, SessionType type, String location) throws Exception {
+    public static Session load(Drivers drivers, SessionType type, String location, String base) throws Exception {
         Session session = new Session();
         BufferedReader in = new BufferedReader(new FileReader(location));
         String str = in.readLine();
@@ -38,6 +39,44 @@ public class LoadSession {
         } while ((str = in.readLine()) != null);
         in.close();
         System.out.print("... ");
+
+        if (type == Race) {
+            session.setStartingGrid(loadStartingGrid(drivers, base + "starting.txt"));
+            session.setFastestLaps(loadFastestLaps(drivers, base + "fastest.txt"));
+        }
+
         return session;
+    }
+
+    public static ArrayList<FastestLap> loadFastestLaps(Drivers drivers, String location) throws Exception {
+        ArrayList<FastestLap> laps = new ArrayList<>(20);
+        BufferedReader in = new BufferedReader(new FileReader(location));
+        String str = in.readLine();
+        do {
+            String[] curr = str.split(",");
+            // 1,44,Hamilton,64,15:28:21,1:14.551,210.588
+            //String time, int lap, String timeOfDay, double averageSpeed
+            FastestLap lap = new FastestLap(drivers.getDriver(Integer.parseInt(curr[1])), curr[5],
+                    Integer.parseInt(curr[3]), curr[4], Double.parseDouble(curr[6]));
+            laps.add(lap);
+        } while ((str = in.readLine()) != null);
+        return laps;
+    }
+
+    public static StartingGrid loadStartingGrid(Drivers drivers, String location) throws Exception {
+        StartingGrid startingGrid = new StartingGrid();
+        BufferedReader in = new BufferedReader(new FileReader(location));
+        String str = in.readLine();
+        do {
+            String[] curr = str.split(",");
+            if (curr.length == 1) {
+                startingGrid.setNotes(curr[0]);
+            } else {
+                GridPosition gp = new GridPosition(Integer.parseInt(curr[0]),
+                        drivers.getDriver(Integer.parseInt(curr[1])));
+                startingGrid.add(gp);
+            }
+        } while((str = in.readLine()) != null);
+        return startingGrid;
     }
 }

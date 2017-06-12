@@ -1,11 +1,14 @@
 package Formula1.Model;
 
 import Helpers.JSON;
+import com.fasterxml.jackson.annotation.JsonInclude;
 
 import java.util.ArrayList;
 
 public class Session {
     private ArrayList<Result> results;
+    private ArrayList<FastestLap> fastestLaps;
+    private StartingGrid startingGrid;
 
     public Session() {
         this.results = new ArrayList<>(20);
@@ -13,6 +16,24 @@ public class Session {
 
     public ArrayList<Result> getResults() {
         return results;
+    }
+
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    public ArrayList<FastestLap> getFastestLaps() {
+        return fastestLaps;
+    }
+
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    public StartingGrid getStartingGrid() {
+        return startingGrid;
+    }
+
+    public void setFastestLaps(ArrayList<FastestLap> fastestLaps) {
+        this.fastestLaps = fastestLaps;
+    }
+
+    public void setStartingGrid(StartingGrid startingGrid) {
+        this.startingGrid = startingGrid;
     }
 
     public void addResult(Driver driver, int position, int laps, String time, int points) {

@@ -18,7 +18,7 @@ public class Demo2017 {
         try {
             // Default values
             String path = "data/2017/";
-            String[] races = loadRaces(path + "done.txt");
+            String[] races = {"canada"};//loadRaces(path + "done.txt");
 
             // Create season and read in the driver and team list
             System.out.println("Loading 2017 season data... ");
@@ -76,6 +76,8 @@ public class Demo2017 {
             System.out.println(TeamViews.getSummary(teams.getTeam("Ferrari"), season));
             System.out.println();
             System.out.println(TeamViews.getDetailed(teams.getTeam("Ferrari"), season));
+            System.out.println();
+            System.out.println(TeamViews.getDetailed(teams.getTeam("McLaren"), season));
         } catch (Exception e) {
             e.printStackTrace();
         }
