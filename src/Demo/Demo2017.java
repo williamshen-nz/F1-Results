@@ -6,6 +6,7 @@ import Formula1.Model.Race;
 import Formula1.Model.Season;
 import Formula1.Model.Teams;
 import Formula1.Views.DriverViews;
+import Formula1.Views.TeamViews;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -71,6 +72,10 @@ public class Demo2017 {
             System.out.println(SeasonStatistics.getPoints(drivers.getDriver("Alonso"), season));
             System.out.println();
             System.out.println(SeasonStatistics.getPoints(teams.getTeam("McLaren"), season));
+            System.out.println();
+            System.out.println(TeamViews.getSummary(teams.getTeam("Ferrari"), season));
+            System.out.println();
+            System.out.println(TeamViews.getDetailed(teams.getTeam("Ferrari"), season));
         } catch (Exception e) {
             e.printStackTrace();
         }
