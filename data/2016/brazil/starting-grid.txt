@@ -1,0 +1,23 @@
+1,44,Lewis Hamilton HAM,Mercedes,1:10.736
+2,6,Nico Rosberg ROS,Mercedes,1:10.838
+3,7,Kimi Räikkönen RAI,Ferrari,1:11.404
+4,33,Max Verstappen VER,Red Bull Racing TAG Heuer,1:11.485
+5,5,Sebastian Vettel VET,Ferrari,1:11.495
+6,3,Daniel Ricciardo RIC,Red Bull Racing TAG Heuer,1:11.540
+7,8,Romain Grosjean GRO,Haas Ferrari,1:11.937
+8,27,Nico Hulkenberg HUL,Force India Mercedes,1:12.104
+9,11,Sergio Perez PER,Force India Mercedes,1:12.165
+10,14,Fernando Alonso ALO,McLaren Honda,1:12.266
+11,77,Valtteri Bottas BOT,Williams Mercedes,1:12.420
+12,21,Esteban Gutierrez GUT,Haas Ferrari,1:12.431
+13,19,Felipe Massa MAS,Williams Mercedes,1:12.521
+14,26,Daniil Kvyat KVY,Toro Rosso Ferrari,1:12.726
+15,55,Carlos Sainz SAI,Toro Rosso Ferrari,1:12.920
+16,30,Jolyon Palmer PAL,Renault,1:13.258
+17,22,Jenson Button BUT,McLaren Honda,1:13.276
+18,20,Kevin Magnussen MAG,Renault,1:13.410
+19,94,Pascal Wehrlein WEH,MRT Mercedes,1:13.427
+20,9,Marcus Ericsson ERI,Sauber Ferrari,1:13.623
+21,12,Felipe Nasr NAS,Sauber Ferrari,1:13.681
+22,31,Esteban Ocon OCO,MRT Mercedes,1:13.432
+Note - Ocon penalised three grid places for impeding Palmer during Q1.

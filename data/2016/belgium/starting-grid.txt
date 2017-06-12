@@ -1,0 +1,23 @@
+1,6,Nico Rosberg ROS,Mercedes,1:46.744
+2,33,Max Verstappen VER,Red Bull Racing TAG Heuer,1:46.893
+3,7,Kimi Räikkönen RAI,Ferrari,1:46.910
+4,5,Sebastian Vettel VET,Ferrari,1:47.108
+5,3,Daniel Ricciardo RIC,Red Bull Racing TAG Heuer,1:47.216
+6,11,Sergio Perez PER,Force India Mercedes,1:47.407
+7,27,Nico Hulkenberg HUL,Force India Mercedes,1:47.543
+8,77,Valtteri Bottas BOT,Williams Mercedes,1:47.612
+9,22,Jenson Button BUT,McLaren Honda,1:48.114
+10,19,Felipe Massa MAS,Williams Mercedes,1:48.263
+11,8,Romain Grosjean GRO,Haas Ferrari,1:48.316
+12,20,Kevin Magnussen MAG,Renault,1:48.485
+13,30,Jolyon Palmer PAL,Renault,1:48.888
+14,55,Carlos Sainz SAI,Toro Rosso Ferrari,1:49.038
+15,94,Pascal Wehrlein WEH,MRT Mercedes,1:49.320
+16,12,Felipe Nasr NAS,Sauber Ferrari,1:48.949
+17,31,Esteban Ocon OCO,MRT Mercedes,1:49.050
+18,21,Esteban Gutierrez GUT,Haas Ferrari,1:48.598
+19,26,Daniil Kvyat KVY,Toro Rosso Ferrari,1:49.058
+20,9,Marcus Ericsson ERI,Sauber Ferrari,1:49.071
+21,44,Lewis Hamilton HAM,Mercedes,1:50.033
+22,14,Fernando Alonso ALO,McLaren Honda,
+Note - Ericsson penalised 10 grid places, Alonso 60 places, Hamilton 55 places, all for unscheduled power unit element changes. Hamilton penalised a further 5 places for an unscheduled gearbox change. Gutierrez penalised 5 places for impeding Wehrlein in FP3. Alonso failed to set a time within the Q1 107% requirement - races at stewards' discretion.

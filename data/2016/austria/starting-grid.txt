@@ -1,0 +1,22 @@
+1,44,Lewis Hamilton HAM,Mercedes,1:07.922
+2,27,Nico Hulkenberg HUL,Force India Mercedes,1:09.285
+3,22,Jenson Button BUT,McLaren Honda,1:09.900
+4,7,Kimi Räikkönen RAI,Ferrari,1:09.901
+5,3,Daniel Ricciardo RIC,Red Bull Racing TAG Heuer,1:09.980
+6,6,Nico Rosberg ROS,Mercedes,1:08.465
+7,77,Valtteri Bottas BOT,Williams Mercedes,1:10.440
+8,33,Max Verstappen VER,Red Bull Racing TAG Heuer,1:11.153
+9,5,Sebastian Vettel VET,Ferrari,1:09.781
+10,19,Felipe Massa MAS,Williams Mercedes,1:11.977
+11,21,Esteban Gutierrez GUT,Haas Ferrari,1:07.578
+12,94,Pascal Wehrlein WEH,MRT Mercedes,1:07.700
+13,8,Romain Grosjean GRO,Haas Ferrari,1:07.850
+14,14,Fernando Alonso ALO,McLaren Honda,1:08.154
+15,55,Carlos Sainz SAI,Toro Rosso Ferrari,
+16,11,Sergio Perez PER,Force India Mercedes,
+17,20,Kevin Magnussen MAG,Renault,1:07.941
+18,9,Marcus Ericsson ERI,Sauber Ferrari,1:08.418
+19,30,Jolyon Palmer PAL,Renault,1:07.965
+20,88,Rio Haryanto HAR,MRT Mercedes,1:08.026
+21,12,Felipe Nasr NAS,Sauber Ferrari,1:08.446
+

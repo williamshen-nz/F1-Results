@@ -1,0 +1,11 @@
+Italy,Scuderia Ferrari,Ferrari,Ferrari
+India,Sahara Force India F1 Team,Force India Mercedes,Force India
+United States,Haas F1 Team,Haas Ferrari,Haas
+United Kingdom,McLaren Honda Formula 1 Team,McLaren Honda,McLaren
+Germany,Mercedes AMG Petronas Motorsport,Mercedes,Mercedes
+United Kingdom,Manor Racing MRT,MRT Mercedes,Manor
+Austria,Red Bull Racing,Red Bull Racing TAG Heuer,Red Bull Racing
+France,Renault Sport Formula One Team,Renault,Renault
+Switzerland,Sauber F1 Team,Sauber Ferrari,Sauber
+Italy,Scuderia Toro Rosso,Toro Rosso,Toro Rosso
+United Kingdom,Williams Martini Racing,Williams Mercedes,Williams

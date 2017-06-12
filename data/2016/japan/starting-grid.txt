@@ -1,0 +1,23 @@
+1,6,Nico Rosberg ROS,Mercedes,1:30.647
+2,44,Lewis Hamilton HAM,Mercedes,1:30.660
+3,33,Max Verstappen VER,Red Bull Racing TAG Heuer,1:31.178
+4,3,Daniel Ricciardo RIC,Red Bull Racing TAG Heuer,1:31.240
+5,11,Sergio Perez PER,Force India Mercedes,1:31.961
+6,5,Sebastian Vettel VET,Ferrari,1:31.028
+7,8,Romain Grosjean GRO,Haas Ferrari,1:31.961
+8,7,Kimi Räikkönen RAI,Ferrari,1:30.949
+9,27,Nico Hulkenberg HUL,Force India Mercedes,1:32.142
+10,21,Esteban Gutierrez GUT,Haas Ferrari,1:32.547
+11,77,Valtteri Bottas BOT,Williams Mercedes,1:32.315
+12,19,Felipe Massa MAS,Williams Mercedes,1:32.380
+13,26,Daniil Kvyat KVY,Toro Rosso Ferrari,1:32.623
+14,55,Carlos Sainz SAI,Toro Rosso Ferrari,1:32.685
+15,14,Fernando Alonso ALO,McLaren Honda,1:32.689
+16,30,Jolyon Palmer PAL,Renault,1:32.807
+17,20,Kevin Magnussen MAG,Renault,1:33.023
+18,9,Marcus Ericsson ERI,Sauber Ferrari,1:33.222
+19,12,Felipe Nasr NAS,Sauber Ferrari,1:33.332
+20,31,Esteban Ocon OCO,MRT Mercedes,1:33.353
+21,94,Pascal Wehrlein WEH,MRT Mercedes,1:33.561
+22,22,Jenson Button BUT,McLaren Honda,1:32.851
+Note - Vettel penalised 3 grid places for causing a collision at previous round. Wehrlein and Raikkonen penalised 5 grid places for unscheduled gearbox changes. Button penalised 35 grid places for unscheduled power unit element changes.
