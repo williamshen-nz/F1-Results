@@ -22,4 +22,3 @@
 22,22,Daniel Ricciardo RIC,HRT Cosworth,1:38.763,+6.862s,36
 23,21,Jarno Trulli TRU,Lotus Renault,1:39.800,+7.899s,24
 24,23,Vitantonio Liuzzi LIU,HRT Cosworth,1:42.480,+10.579s,4
-

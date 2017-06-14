@@ -15,4 +15,3 @@
 15,6,Nick Heidfeld HEI,Sauber BMW,19,1:14.988,206.865
 16,21,Vitantonio Liuzzi LIU,Force India Mercedes,43,1:14.990,206.859
 17,17,Kazuki Nakajima NAK,Williams Toyota,21,1:15.073,206.630
-

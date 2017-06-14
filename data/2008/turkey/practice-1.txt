@@ -18,4 +18,3 @@
 18,14,Sebastien Bourdais BOU,STR Ferrari,1:30.388,+3.065s,19
 19,15,Sebastian Vettel VET,STR Ferrari,1:30.426,+3.103s,21
 20,1,Kimi Räikkönen RAI,Ferrari,1:30.732,+3.409s,3
-

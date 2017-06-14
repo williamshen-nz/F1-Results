@@ -22,4 +22,3 @@
 2,10,Lewis Hamilton HAM,Mercedes,38,15:00:35,24.315,48.775
 2,20,Charles Pic PIC,Caterham Renault,38,15:01:38,26.363,51.932
 2,21,Giedo van der Garde VDG,Caterham Renault,39,15:03:12,33.200,59.502
-

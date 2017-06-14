@@ -45,4 +45,3 @@
 2,25,Jerome d'Ambrosio DAM,Virgin Cosworth,55,16:30:49,22.472,45.159
 3,21,Jarno Trulli TRU,Lotus Renault,54,16:32:20,24.150,1:27.778
 3,23,Daniel Ricciardo RIC,HRT Cosworth,56,16:32:48,28.474,1:36.077
-

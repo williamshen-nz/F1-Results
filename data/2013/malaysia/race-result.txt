@@ -20,4 +20,3 @@ NC,16,Pastor Maldonado MAL,Williams Renault,45,DNF,0
 NC,15,Adrian Sutil SUT,Force India Mercedes,27,DNF,0
 NC,14,Paul di Resta DIR,Force India Mercedes,22,DNF,0
 NC,3,Fernando Alonso ALO,Ferrari,1,DNF,0
-

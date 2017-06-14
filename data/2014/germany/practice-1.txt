@@ -20,4 +20,3 @@
 20,17,Jules Bianchi BIA,Marussia Ferrari,1:22.982,+3.851s,24
 21,9,Marcus Ericsson ERI,Caterham Renault,1:23.256,+4.125s,35
 22,4,Max Chilton CHI,Marussia Ferrari,1:23.299,+4.168s,22
-

@@ -20,4 +20,3 @@
 20,12,Felipe Nasr NAS,Sauber Ferrari,1:13.992,+2.252s,14
 21,31,Esteban Ocon OCO,MRT Mercedes,1:14.222,+2.482s,21
 22,9,Marcus Ericsson ERI,Sauber Ferrari,,,1
-

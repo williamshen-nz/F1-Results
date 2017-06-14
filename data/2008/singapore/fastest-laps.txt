@@ -18,4 +18,3 @@
 18,20,Adrian Sutil SUT,Force India Ferrari,38,1:49.270,166.936
 19,17,Rubens Barrichello BAR,Honda,13,1:50.320,165.348
 20,6,Nelson Piquet PIQ,Renault,13,1:50.449,165.154
-

@@ -22,4 +22,3 @@
 22,22,Pedro de la Rosa DLR,HRT Cosworth,54,1:43.610,189.398
 23,23,Narain Karthikeyan KAR,HRT Cosworth,40,1:43.935,188.806
 24,7,Michael Schumacher MSC,Mercedes,9,1:44.109,188.490
-

@@ -20,4 +20,3 @@
 20,17,Valtteri Bottas BOT,Williams Renault,2:03.432
 21,12,Esteban Gutierrez GUT,Sauber Ferrari,2:04.324
 22,20,Charles Pic PIC,Caterham Renault,2:07.384
-

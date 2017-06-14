@@ -22,4 +22,3 @@
 22,22,Pedro de la Rosa DLR,HRT Cosworth,1:40.343,+4.370s,25
 23,25,Charles Pic PIC,Marussia Cosworth,1:40.753,+4.780s,30
 24,23,Narain Karthikeyan KAR,HRT Cosworth,1:41.125,+5.152s,26
-

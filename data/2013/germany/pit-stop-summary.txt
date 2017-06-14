@@ -54,4 +54,3 @@
 3,11,Nico Hulkenberg HUL,Sauber Ferrari,49,15:28:02,20.557,1:02.147
 2,16,Pastor Maldonado MAL,Williams Renault,50,15:29:39,36.196,56.527
 2,17,Valtteri Bottas BOT,Williams Renault,54,15:36:20,45.695,1:19.491
-

@@ -18,4 +18,3 @@
 18,5,Sebastian Vettel VET,Ferrari,1:17.344
 19,33,Max Verstappen VER,STR Renault,1:16.245
 20,22,Jenson Button BUT,McLaren Honda,
-

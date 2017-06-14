@@ -22,4 +22,3 @@
 22,23,Narain Karthikeyan KAR,HRT Cosworth,1:32.349,+4.873s,17
 23,7,Michael Schumacher MSC,Mercedes,1:32.777,+5.301s,18
 24,22,Pedro de la Rosa DLR,HRT Cosworth,1:42.566,+15.090s,8
-

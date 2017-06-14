@@ -18,4 +18,3 @@
 18,8,Romain Grosjean GRO,Lotus Mercedes,1:37.151,+2.552s,17
 19,28,Will Stevens STE,Marussia Ferrari,1:39.745,+5.146s,12
 20,98,Roberto Merhi MER,Marussia Ferrari,1:40.541,+5.942s,14
-

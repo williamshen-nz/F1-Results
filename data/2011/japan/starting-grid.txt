@@ -22,4 +22,3 @@
 22,22,Daniel Ricciardo RIC,HRT Cosworth,1:37.846
 23,8,Nico Rosberg ROS,Mercedes,
 24,23,Vitantonio Liuzzi LIU,HRT Cosworth,
-

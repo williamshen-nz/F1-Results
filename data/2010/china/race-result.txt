@@ -22,4 +22,3 @@ NC,16,Sebastien Buemi BUE,STR Ferrari,0,DNF,0
 NC,23,Kamui Kobayashi KOB,Sauber Ferrari,0,DNF,0
 NC,15,Vitantonio Liuzzi LIU,Force India Mercedes,0,DNF,0
 NC,24,Timo Glock GLO,Virgin Cosworth,,DNS,0
-

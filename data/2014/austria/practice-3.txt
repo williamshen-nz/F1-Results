@@ -20,4 +20,3 @@
 20,9,Marcus Ericsson ERI,Caterham Renault,1:12.892,+3.044s,27
 21,4,Max Chilton CHI,Marussia Ferrari,1:12.915,+3.067s,14
 22,22,Jenson Button BUT,McLaren Mercedes,1:14.237,+4.389s,4
-

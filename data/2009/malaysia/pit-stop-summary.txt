@@ -48,4 +48,3 @@
 3,17,Kazuki Nakajima NAK,Williams Toyota,30,17:58:09,29.193,1:22.512
 3,8,Nelson Piquet PIQ,Renault,30,17:58:11,28.517,1:28.010
 3,4,Kimi Räikkönen RAI,Ferrari,30,17:58:23,26.471,1:22.032
-

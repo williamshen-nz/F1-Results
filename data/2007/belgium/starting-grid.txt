@@ -20,4 +20,3 @@
 20,23,Anthony Davidson DAV,Super Aguri Honda,1:48.199
 21,21,Sakon Yamamoto YAM,Spyker Ferrari,1:49.577
 22,3,Giancarlo Fisichella FIS,Renault,1:46.603
-

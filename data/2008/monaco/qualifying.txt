@@ -18,4 +18,3 @@
 18,15,Sebastian Vettel VET,STR Ferrari,1:16.955,,,11
 19,20,Adrian Sutil SUT,Force India Ferrari,1:17.225,,,12
 20,21,Giancarlo Fisichella FIS,Force India Ferrari,1:17.823,,,8
-

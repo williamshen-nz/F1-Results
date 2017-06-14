@@ -22,4 +22,3 @@ NC,7,Michael Schumacher MSC,Mercedes,38,DNF,0
 NC,18,Pastor Maldonado MAL,Williams Renault,36,DNF,0
 NC,23,Narain Karthikeyan KAR,HRT Cosworth,30,DNF,0
 NC,4,Lewis Hamilton HAM,McLaren Mercedes,22,DNF,0
-

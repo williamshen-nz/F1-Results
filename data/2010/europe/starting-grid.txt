@@ -22,4 +22,3 @@
 22,24,Timo Glock GLO,Virgin Cosworth,1:42.140
 23,20,Karun Chandhok CHD,HRT Cosworth,1:42.600
 24,21,Bruno Senna SEN,HRT Cosworth,1:42.851
-

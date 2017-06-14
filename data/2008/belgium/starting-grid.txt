@@ -18,4 +18,3 @@
 18,20,Adrian Sutil SUT,Force India Ferrari,1:48.226
 19,8,Kazuki Nakajima NAK,Williams Toyota,1:48.268
 20,21,Giancarlo Fisichella FIS,Force India Ferrari,1:48.447
-

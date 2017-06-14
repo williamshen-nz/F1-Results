@@ -19,4 +19,3 @@
 19,18,Takuma Sato SAT,Super Aguri Honda,1:39.021,+3.966s,27
 20,19,Anthony Davidson DAV,Super Aguri Honda,1:39.361,+4.306s,30
 21,14,Sebastien Bourdais BOU,STR Ferrari,,,1
-

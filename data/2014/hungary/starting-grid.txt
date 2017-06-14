@@ -18,4 +18,3 @@
 18,4,Max Chilton CHI,Marussia Ferrari,1:27.819
 19,9,Marcus Ericsson ERI,Caterham Renault,1:28.643
 20,13,Pastor Maldonado MAL,Lotus Renault,
-

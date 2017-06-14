@@ -19,4 +19,3 @@
 19,9,Marcus Ericsson ERI,Sauber Ferrari,1:34.722,+3.062s,36
 20,20,Kevin Magnussen MAG,Renault,1:34.959,+3.299s,41
 21,88,Rio Haryanto HAR,MRT Mercedes,1:35.841,+4.181s,36
-

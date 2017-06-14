@@ -48,4 +48,3 @@
 4,12,Felipe Nasr NAS,Sauber Ferrari,43,16:23:49,25.204,1:50.194
 3,98,Roberto Merhi MER,Marussia Ferrari,42,16:24:30,29.202,1:23.746
 3,27,Nico Hulkenberg HUL,Force India Mercedes,44,16:25:34,35.351,1:26.224
-

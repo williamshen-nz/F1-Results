@@ -20,4 +20,3 @@
 NC,2,Mark Webber WEB,Red Bull Racing Renault,39,DNF,0
 NC,20,Charles Pic PIC,Caterham Renault,35,DNF,0
 NC,21,Giedo van der Garde VDG,Caterham Renault,1,DNF,0
-

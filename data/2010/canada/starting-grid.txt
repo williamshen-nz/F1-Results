@@ -22,4 +22,3 @@
 22,21,Bruno Senna SEN,HRT Cosworth,1:19.484
 23,25,Lucas di Grassi DIG,Virgin Cosworth,1:19.675
 24,20,Karun Chandhok CHD,HRT Cosworth,1:27.757
-

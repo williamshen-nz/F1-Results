@@ -18,4 +18,3 @@
 NC,13,Pastor Maldonado MAL,Lotus Mercedes,49,DNF,0
 NC,26,Daniil Kvyat KVY,Red Bull Racing Renault,15,DNF,0
 NC,27,Nico Hulkenberg HUL,Force India Mercedes,9,DNF,0
-

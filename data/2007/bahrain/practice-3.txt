@@ -20,4 +20,3 @@
 20,11,Ralf Schumacher RSC,Toyota,1:35.144,+2.601s,11
 21,21,Christijan Albers ALB,Spyker Ferrari,1:35.395,+2.852s,22
 22,20,Adrian Sutil SUT,Spyker Ferrari,1:35.436,+2.893s,18
-

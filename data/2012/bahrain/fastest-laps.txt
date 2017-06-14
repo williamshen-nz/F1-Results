@@ -22,4 +22,3 @@
 22,22,Pedro de la Rosa DLR,HRT Cosworth,41,1:40.237,194.371
 23,24,Timo Glock GLO,Marussia Cosworth,46,1:40.323,194.204
 24,25,Charles Pic PIC,Marussia Cosworth,14,1:41.519,191.916
-

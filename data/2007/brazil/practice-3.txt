@@ -20,4 +20,3 @@
 20,10,Robert Kubica KUB,Sauber BMW,1:13.525,+1.715s,14
 21,20,Adrian Sutil SUT,Spyker Ferrari,1:13.684,+1.874s,21
 22,21,Sakon Yamamoto YAM,Spyker Ferrari,1:13.872,+2.062s,21
-

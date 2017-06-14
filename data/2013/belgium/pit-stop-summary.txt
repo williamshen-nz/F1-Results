@@ -41,4 +41,3 @@
 2,5,Jenson Button BUT,McLaren Mercedes,34,15:09:32,23.317,45.782
 3,16,Pastor Maldonado MAL,Williams Renault,38,15:18:29,30.894,1:33.181
 3,12,Esteban Gutierrez GUT,Sauber Ferrari,41,15:23:35,17.433,1:02.906
-

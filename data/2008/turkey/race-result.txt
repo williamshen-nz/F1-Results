@@ -18,4 +18,3 @@
 NC,14,Sebastien Bourdais BOU,STR Ferrari,24,DNF,0
 NC,8,Kazuki Nakajima NAK,Williams Toyota,1,DNF,0
 NC,21,Giancarlo Fisichella FIS,Force India Ferrari,0,DNF,0
-

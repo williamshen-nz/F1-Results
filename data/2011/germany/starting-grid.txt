@@ -22,4 +22,3 @@
 22,22,Daniel Ricciardo RIC,HRT Cosworth,1:37.036
 23,23,Vitantonio Liuzzi LIU,HRT Cosworth,1:37.011
 24,18,Sebastien Buemi BUE,STR Ferrari,
-

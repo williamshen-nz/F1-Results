@@ -21,4 +21,3 @@
 21,19,Heikki Kovalainen KOV,Lotus Cosworth,1:39.520
 22,25,Lucas di Grassi DIG,Virgin Cosworth,1:39.783
 23,21,Bruno Senna SEN,HRT Cosworth,1:40.469
-

@@ -13,4 +13,3 @@
 13,18,Tiago Monteiro MON,MF1 Toyota,9,1:22.036,183.958
 14,22,Takuma Sato SAT,Super Aguri Honda,6,1:43.802,145.384
 15,12,Jenson Button BUT,Honda,2,2:04.692,121.027
-

@@ -26,4 +26,3 @@
 2,7,Michael Schumacher MSC,Mercedes,33,15:56:04,21.322,46.358
 1,10,Romain Grosjean GRO,Lotus Renault,36,15:59:04,20.976,20.976
 1,14,Kamui Kobayashi KOB,Sauber Ferrari,36,15:59:41,22.726,22.726
-

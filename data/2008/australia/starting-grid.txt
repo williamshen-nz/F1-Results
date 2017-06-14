@@ -19,4 +19,3 @@
 19,18,Takuma Sato SAT,Super Aguri Honda,1:28.208
 20,6,Nelson Piquet PIQ,Renault,1:28.330
 21,19,Anthony Davidson DAV,Super Aguri Honda,1:29.059
-

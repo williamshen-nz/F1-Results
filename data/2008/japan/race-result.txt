@@ -18,4 +18,3 @@ NC,23,Heikki Kovalainen KOV,McLaren Mercedes,16,DNF,0
 NC,20,Adrian Sutil SUT,Force India Ferrari,8,DNF,0
 NC,12,Timo Glock GLO,Toyota,6,DNF,0
 NC,9,David Coulthard COU,Red Bull Renault,0,DNF,0
-

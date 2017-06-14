@@ -22,4 +22,3 @@
 22,22,Pedro de la Rosa DLR,HRT Cosworth,66,+3 laps,0
 NC,23,Narain Karthikeyan KAR,HRT Cosworth,60,DNF,0
 NC,7,Michael Schumacher MSC,Mercedes,58,DNF,0
-

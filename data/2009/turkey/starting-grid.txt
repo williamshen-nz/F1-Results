@@ -18,4 +18,3 @@
 18,12,Sebastien Buemi BUE,STR Ferrari,1:28.708
 19,21,Giancarlo Fisichella FIS,Force India Mercedes,1:28.717
 20,11,Sebastien Bourdais BOU,STR Ferrari,1:28.918
-

@@ -20,4 +20,3 @@
 20,12,Felipe Nasr NAS,Sauber Ferrari,1:10.314,+2.941s,26
 21,88,Rio Haryanto HAR,MRT Mercedes,1:10.493,+3.120s,21
 22,34,Alfonso Celis CEL,Force India Mercedes,1:10.860,+3.487s,37
-

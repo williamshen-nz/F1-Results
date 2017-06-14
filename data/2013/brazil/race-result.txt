@@ -20,4 +20,3 @@
 NC,20,Charles Pic PIC,Caterham Renault,58,DNF,0
 NC,17,Valtteri Bottas BOT,Williams Renault,45,DNF,0
 NC,8,Romain Grosjean GRO,Lotus Renault,2,DNF,0
-

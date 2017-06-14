@@ -20,4 +20,3 @@ NC,19,Scott Speed SPE,STR Ferrari,29,DNF,0
 NC,11,Ralf Schumacher RSC,Toyota,22,DNF,0
 NC,20,Adrian Sutil SUT,Spyker Ferrari,16,DNF,0
 NC,15,Mark Webber WEB,Red Bull Renault,8,DNF,0
-

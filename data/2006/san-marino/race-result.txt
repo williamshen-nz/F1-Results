@@ -20,4 +20,3 @@ NC,15,Christian Klien KLI,RBR Ferrari,40,DNF,0
 NC,23,Yuji Ide IDE,Super Aguri Honda,23,DNF,0
 NC,8,Jarno Trulli TRU,Toyota,5,DNF,0
 NC,19,Christijan Albers ALB,MF1 Toyota,0,DNF,0
-

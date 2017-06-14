@@ -18,4 +18,3 @@
 18,2,Heikki Kovalainen KOV,McLaren Mercedes,1:21.675
 19,20,Adrian Sutil SUT,Force India Mercedes,1:21.742
 20,21,Giancarlo Fisichella FIS,Force India Mercedes,1:22.204
-

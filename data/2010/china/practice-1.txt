@@ -22,4 +22,3 @@
 22,21,Bruno Senna SEN,HRT Cosworth,1:43.875,+7.198s,23
 23,20,Karun Chandhok CHD,HRT Cosworth,1:43.949,+7.272s,20
 24,8,Fernando Alonso ALO,Ferrari,,,6
-

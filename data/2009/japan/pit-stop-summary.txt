@@ -34,4 +34,3 @@
 2,21,Vitantonio Liuzzi LIU,Force India Mercedes,43,15:12:38,23.210,47.551
 2,16,Nico Rosberg ROS,Williams Toyota,45,15:15:16,24.888,50.700
 5,14,Mark Webber WEB,RBR Renault,45,15:20:35,30.045,2:53.110
-

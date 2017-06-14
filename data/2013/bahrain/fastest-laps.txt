@@ -20,4 +20,3 @@
 20,20,Charles Pic PIC,Caterham Renault,37,1:39.546,195.720
 21,19,Daniel Ricciardo RIC,STR Ferrari,51,1:39.579,195.655
 22,18,Jean-Eric Vergne VER,STR Ferrari,4,1:43.107,188.960
-

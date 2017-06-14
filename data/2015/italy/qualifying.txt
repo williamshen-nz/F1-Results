@@ -18,4 +18,3 @@
 18,28,Will Stevens STE,Marussia Ferrari,1:27.731,,,9
 19,98,Roberto Merhi MER,Marussia Ferrari,1:27.912,,,9
 NC,33,Max Verstappen VER,STR Renault,DNS,,,1
-

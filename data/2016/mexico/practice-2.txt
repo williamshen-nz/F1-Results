@@ -20,4 +20,3 @@
 20,8,Romain Grosjean GRO,Haas Ferrari,1:22.105,+2.315s,14
 21,31,Esteban Ocon OCO,MRT Mercedes,1:22.298,+2.508s,44
 22,21,Esteban Gutierrez GUT,Haas Ferrari,1:22.408,+2.618s,33
-

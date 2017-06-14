@@ -18,4 +18,3 @@
 18,22,Jenson Button BUT,McLaren Honda,1:42.319,+2.629s,13
 19,98,Roberto Merhi MER,Marussia Ferrari,1:46.647,+6.957s,9
 20,28,Will Stevens STE,Marussia Ferrari,1:47.059,+7.369s,6
-

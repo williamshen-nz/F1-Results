@@ -20,4 +20,3 @@
 20,19,Jaime Alguersuari ALG,STR Ferrari,1:17.820,,,9
 21,24,Timo Glock GLO,Virgin Cosworth,1:17.914,,,12
 22,25,Jerome d'Ambrosio DAM,Virgin Cosworth,1:18.736,,,11
-

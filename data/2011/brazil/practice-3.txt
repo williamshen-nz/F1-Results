@@ -22,4 +22,3 @@
 22,22,Daniel Ricciardo RIC,HRT Cosworth,1:17.296,+4.836s,23
 23,24,Timo Glock GLO,Virgin Cosworth,1:17.984,+5.524s,23
 24,18,Sebastien Buemi BUE,STR Ferrari,,,3
-

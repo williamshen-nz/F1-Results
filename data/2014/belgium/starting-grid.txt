@@ -20,4 +20,3 @@
 20,21,Esteban Gutierrez GUT,Sauber Ferrari,2:13.414
 21,45,Andre Lotterer LOT,Caterham Renault,2:13.469
 22,9,Marcus Ericsson ERI,Caterham Renault,2:14.438
-

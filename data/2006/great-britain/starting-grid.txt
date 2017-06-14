@@ -20,4 +20,3 @@
 20,23,Franck Montagny MON,Super Aguri Honda,1:26.316
 21,22,Takuma Sato SAT,Super Aguri Honda,1:26.158
 22,8,Jarno Trulli TRU,Toyota,
-

@@ -49,4 +49,3 @@
 3,44,Lewis Hamilton HAM,Mercedes,32,15:26:06,22.432,17:27.253
 4,30,Jolyon Palmer PAL,Renault,34,15:30:48,22.578,17:48.843
 3,26,Daniil Kvyat KVY,Toro Rosso Ferrari,35,15:32:37,23.363,17:27.188
-

@@ -18,4 +18,3 @@
 18,15,Sebastian Vettel VET,RBR Renault,15,1:17.634,154.880
 19,8,Nelson Piquet PIQ,Renault,7,1:18.514,153.144
 20,12,Sebastien Buemi BUE,STR Ferrari,7,1:18.582,153.012
-

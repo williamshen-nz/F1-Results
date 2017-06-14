@@ -20,4 +20,3 @@
 20,20,Kevin Magnussen MAG,Renault,1:44.117,+3.256s,25
 21,55,Carlos Sainz SAI,Toro Rosso Ferrari,1:44.478,+3.617s,5
 22,26,Daniil Kvyat KVY,Toro Rosso Ferrari,1:45.948,+5.087s,4
-

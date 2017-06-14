@@ -36,4 +36,3 @@
 2,5,Sebastian Vettel VET,Ferrari,34,14:59:47,22.887,46.113
 2,22,Jenson Button BUT,McLaren Honda,36,15:04:30,23.342,47.717
 2,55,Carlos Sainz SAI,Toro Rosso Ferrari,37,15:06:04,22.938,45.924
-

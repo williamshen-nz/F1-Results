@@ -74,4 +74,3 @@
 4,6,Nico Rosberg ROS,Mercedes,55,15:11:53,21.035,1:19.104
 4,19,Felipe Massa MAS,Williams Mercedes,56,15:13:53,21.231,1:18.731
 4,3,Daniel Ricciardo RIC,Red Bull Racing TAG Heuer,60,15:18:09,22.284,1:21.222
-

@@ -52,4 +52,3 @@
 3,17,Jules Bianchi BIA,Marussia Ferrari,45,21:36:16,29.752,1:30.050
 3,20,Kevin Magnussen MAG,McLaren Mercedes,46,21:37:54,28.706,1:26.231
 3,44,Lewis Hamilton HAM,Mercedes,52,21:48:32,29.284,1:29.746
-

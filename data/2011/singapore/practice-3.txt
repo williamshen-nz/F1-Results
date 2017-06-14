@@ -22,4 +22,3 @@
 22,21,Jarno Trulli TRU,Lotus Renault,1:53.823,+7.742s,18
 23,24,Timo Glock GLO,Virgin Cosworth,1:53.829,+7.748s,16
 24,23,Vitantonio Liuzzi LIU,HRT Cosworth,1:55.203,+9.122s,17
-

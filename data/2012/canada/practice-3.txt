@@ -22,4 +22,3 @@
 22,25,Charles Pic PIC,Marussia Cosworth,1:18.684,+4.242s,23
 23,17,Jean-Eric Vergne VER,STR Ferrari,,,3
 24,8,Nico Rosberg ROS,Mercedes,,,1
-

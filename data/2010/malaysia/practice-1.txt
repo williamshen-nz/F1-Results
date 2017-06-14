@@ -22,4 +22,3 @@
 22,19,Fairuz Fauzy FAU,Lotus Cosworth,1:40.721,+5.800s,19
 23,21,Bruno Senna SEN,HRT Cosworth,1:41.832,+6.911s,27
 24,20,Karun Chandhok CHD,HRT Cosworth,1:41.966,+7.045s,24
-

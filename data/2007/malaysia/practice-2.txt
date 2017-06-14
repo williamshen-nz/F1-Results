@@ -20,4 +20,3 @@
 20,19,Scott Speed SPE,STR Ferrari,1:38.650,+2.870s,20
 21,8,Rubens Barrichello BAR,Honda,1:38.713,+2.933s,20
 22,21,Christijan Albers ALB,Spyker Ferrari,1:39.807,+4.027s,23
-

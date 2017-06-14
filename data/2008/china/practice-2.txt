@@ -18,4 +18,3 @@
 18,20,Adrian Sutil SUT,Force India Ferrari,1:37.617,+1.867s,33
 19,16,Jenson Button BUT,Honda,1:37.800,+2.050s,37
 20,17,Rubens Barrichello BAR,Honda,1:37.904,+2.154s,36
-

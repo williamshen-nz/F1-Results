@@ -22,4 +22,3 @@
 22,20,Karun Chandhok CHD,HRT Cosworth,1:36.286,+5.328s,16
 23,24,Timo Glock GLO,Virgin Cosworth,1:36.640,+5.682s,6
 24,21,Sakon Yamamoto YAM,HRT Cosworth,1:37.178,+6.220s,18
-

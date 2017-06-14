@@ -22,4 +22,3 @@ NC,25,Jerome d'Ambrosio DAM,Virgin Cosworth,1,DNF,0
 NC,10,Vitaly Petrov PET,Renault,0,DNF,0
 NC,8,Nico Rosberg ROS,Mercedes,0,DNF,0
 NC,23,Vitantonio Liuzzi LIU,HRT Cosworth,0,DNF,0
-

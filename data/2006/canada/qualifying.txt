@@ -20,4 +20,3 @@
 20,19,Christijan Albers ALB,MF1 Toyota,1:17.140,,,7
 21,22,Takuma Sato SAT,Super Aguri Honda,1:19.088,,,6
 22,23,Franck Montagny MON,Super Aguri Honda,1:19.152,,,7
-

@@ -20,4 +20,3 @@
 20,18,Takuma Sato SAT,Super Aguri Honda,1:23.726,+2.457s,16
 21,19,Anthony Davidson DAV,Super Aguri Honda,1:23.921,+2.652s,15
 22,10,Mark Webber WEB,Red Bull Renault,,,2
-

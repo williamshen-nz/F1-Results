@@ -16,4 +16,3 @@
 16,13,Pastor Maldonado MAL,Lotus Renault,1:12.233
 17,26,Daniil Kvyat KVY,STR Renault,
 18,11,Sergio Perez PER,Force India Mercedes,1:12.076
-

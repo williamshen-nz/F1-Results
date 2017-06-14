@@ -18,4 +18,3 @@
 18,33,Max Verstappen VER,STR Renault,
 19,22,Jenson Button BUT,McLaren Honda,1:50.978
 20,14,Fernando Alonso ALO,McLaren Honda,1:51.420
-

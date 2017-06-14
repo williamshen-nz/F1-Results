@@ -23,4 +23,3 @@
 23,15,Christian Klien KLI,RBR Ferrari,,,1
 24,4,Pedro de la Rosa DLR,McLaren Mercedes,,,1
 25,3,Kimi Räikkönen RAI,McLaren Mercedes,,,1
-

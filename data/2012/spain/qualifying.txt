@@ -22,4 +22,4 @@ RT,4,Lewis Hamilton HAM,McLaren Mercedes,1:22.583,1:22.465,1:21.707,17
 21,24,Timo Glock GLO,Marussia Cosworth,1:27.032,,,8
 22,22,Pedro de la Rosa DLR,HRT Cosworth,1:27.555,,,6
 NC,23,Narain Karthikeyan KAR,HRT Cosworth,1:31.122,,,4
-Note - Hamilton originally qualified on pole, but was excluded for failing to return to the pits under his own power and supply a fuel sample. Karthikeyan failed to meet the Q1 107% requirement so races at the stewards' discretion. 
+Note - Hamilton originally qualified on pole, but was excluded for failing to return to the pits under his own power and supply a fuel sample. Karthikeyan failed to meet the Q1 107% requirement so races at the stewards' discretion.

@@ -31,4 +31,3 @@
 2,8,Romain Grosjean GRO,Lotus Renault,46,15:10:53,23.856,47.799
 2,26,Daniil Kvyat KVY,STR Renault,46,15:10:54,25.698,50.933
 2,19,Felipe Massa MAS,Williams Mercedes,48,15:12:49,24.012,51.961
-

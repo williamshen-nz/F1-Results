@@ -20,4 +20,3 @@
 20,8,Romain Grosjean GRO,Haas Ferrari,1:10.400,+2.433s,31
 21,12,Felipe Nasr NAS,Sauber Ferrari,1:10.444,+2.477s,22
 22,88,Rio Haryanto HAR,MRT Mercedes,1:11.328,+3.361s,25
-

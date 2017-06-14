@@ -22,4 +22,3 @@
 22,24,Timo Glock GLO,Virgin Cosworth,1:18.537,,,12
 23,22,Narain Karthikeyan KAR,HRT Cosworth,1:18.574,,,11
 NC,25,Jerome d'Ambrosio DAM,Virgin Cosworth,1:19.414,,,13
-

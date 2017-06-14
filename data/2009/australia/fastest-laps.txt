@@ -17,4 +17,3 @@
 17,11,Sebastien Bourdais BOU,STR Ferrari,50,1:29.823,212.537
 18,17,Kazuki Nakajima NAK,Williams Toyota,6,1:29.923,212.301
 19,8,Nelson Piquet PIQ,Renault,17,1:30.502,210.943
-

@@ -18,4 +18,3 @@
 NC,98,Roberto Merhi MER,Marussia Ferrari,57,DNF,0
 NC,22,Jenson Button BUT,McLaren Honda,54,DNF,0
 NC,14,Fernando Alonso ALO,McLaren Honda,44,DNF,0
-

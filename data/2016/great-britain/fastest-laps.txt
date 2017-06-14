@@ -20,4 +20,3 @@
 20,8,Romain Grosjean GRO,Haas Ferrari,14,13:32:54,1:55.507,183.604
 21,9,Marcus Ericsson ERI,Sauber Ferrari,9,13:23:20,2:00.286,176.309
 22,94,Pascal Wehrlein WEH,MRT Mercedes,4,13:12:00,2:48.804,125.634
-

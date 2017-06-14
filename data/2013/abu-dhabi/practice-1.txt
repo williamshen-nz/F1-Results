@@ -20,4 +20,3 @@
 20,21,Heikki Kovalainen KOV,Caterham Renault,1:47.670,+3.429s,22
 21,22,Jules Bianchi BIA,Marussia Cosworth,1:47.723,+3.482s,23
 22,23,Rodolfo Gonzalez GON,Marussia Cosworth,1:49.565,+5.324s,22
-

@@ -18,4 +18,3 @@
 18,4,Kimi Räikkönen RAI,Ferrari,1:34.670,+1.331s,28
 19,2,Heikki Kovalainen KOV,McLaren Mercedes,1:34.764,+1.425s,35
 20,6,Nick Heidfeld HEI,Sauber BMW,1:34.790,+1.451s,33
-

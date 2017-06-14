@@ -19,4 +19,3 @@
 19,23,Franck Montagny MON,Super Aguri Honda,1:16.036
 20,20,Vitantonio Liuzzi LIU,STR Cosworth,1:14.041
 21,10,Nico Rosberg ROS,Williams Cosworth,
-

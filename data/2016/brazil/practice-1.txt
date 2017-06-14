@@ -20,4 +20,3 @@
 20,94,Pascal Wehrlein WEH,MRT Mercedes,1:14.948,+3.053s,32
 21,50,Charles Leclerc LEC,Haas Ferrari,1:15.391,+3.496s,27
 22,46,Sergey Sirotkin SIR,Renault,1:15.800,+3.905s,10
-

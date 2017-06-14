@@ -18,4 +18,3 @@
 18,6,Nelson Piquet PIQ,Renault,1:18.955,+3.007s,32
 19,15,Sebastian Vettel VET,STR Ferrari,1:19.176,+3.228s,35
 20,9,David Coulthard COU,Red Bull Renault,,,3
-

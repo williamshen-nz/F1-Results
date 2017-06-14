@@ -29,4 +29,3 @@
 1,21,Scott Speed SPE,STR Cosworth,48,15:07:00,36.640,36.640
 2,17,Jacques Villeneuve VIL,Sauber BMW,58,15:22:34,14.733,39.403
 2,11,Rubens Barrichello BAR,Honda,63,15:27:52,14.686,40.388
-

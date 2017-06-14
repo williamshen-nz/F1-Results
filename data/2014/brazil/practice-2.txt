@@ -15,4 +15,3 @@
 15,99,Adrian Sutil SUT,Sauber Ferrari,1:14.204,+2.081s,36
 16,22,Jenson Button BUT,McLaren Mercedes,1:14.209,+2.086s,31
 17,25,Jean-Eric Vergne VER,STR Renault,1:17.171,+5.048s,5
-

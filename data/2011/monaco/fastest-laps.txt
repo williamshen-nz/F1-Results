@@ -21,4 +21,3 @@
 21,23,Vitantonio Liuzzi LIU,HRT Cosworth,74,1:21.566,147.414
 22,24,Timo Glock GLO,Virgin Cosworth,30,1:22.102,146.451
 23,22,Narain Karthikeyan KAR,HRT Cosworth,74,1:22.731,145.338
-

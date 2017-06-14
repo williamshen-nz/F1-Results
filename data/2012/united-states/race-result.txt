@@ -22,4 +22,3 @@
 22,23,Narain Karthikeyan KAR,HRT Cosworth,54,+2 laps,0
 NC,2,Mark Webber WEB,Red Bull Racing Renault,16,DNF,0
 NC,17,Jean-Eric Vergne VER,STR Ferrari,14,DNF,0
-

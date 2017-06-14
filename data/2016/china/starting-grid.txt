@@ -20,4 +20,3 @@
 20,88,Rio Haryanto HAR,MRT-Mercedes,1:40.264
 21,94,Pascal Wehrlein WEH,MRT-Mercedes,
 22,44,Lewis Hamilton HAM,Mercedes,
-

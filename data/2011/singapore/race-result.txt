@@ -22,4 +22,3 @@
 NC,21,Jarno Trulli TRU,Lotus Renault,47,DNF,0
 NC,7,Michael Schumacher MSC,Mercedes,28,DNF,0
 NC,24,Timo Glock GLO,Virgin Cosworth,9,DNF,0
-

@@ -18,4 +18,3 @@
 18,53,Alexander Rossi RSI,Marussia Ferrari,1:25.940,+4.409s,29
 19,28,Will Stevens STE,Marussia Ferrari,1:26.968,+5.437s,28
 20,33,Max Verstappen VER,STR Renault,,,2
-

@@ -20,4 +20,3 @@
 20,8,Romain Grosjean GRO,Lotus Renault,1:39.208,+3.884s,17
 21,1,Sebastian Vettel VET,Red Bull Racing Renault,1:39.225,+3.901s,8
 22,4,Max Chilton CHI,Marussia Ferrari,1:39.597,+4.273s,14
-

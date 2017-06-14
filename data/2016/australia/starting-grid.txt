@@ -20,4 +20,3 @@
 20,21,Esteban Gutierrez GUT,Haas Ferrari,1:29.606
 21,94,Pascal Wehrlein WEH,MRT-Mercedes,1:29.642
 22,88,Rio Haryanto HAR,MRT-Mercedes,1:29.627
-

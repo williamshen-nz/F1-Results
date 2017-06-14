@@ -16,4 +16,3 @@
 16,20,Adrian Sutil SUT,Force India Mercedes,1:26.742
 17,11,Sebastien Bourdais BOU,STR Ferrari,1:26.964
 18,1,Lewis Hamilton HAM,McLaren Mercedes,
-

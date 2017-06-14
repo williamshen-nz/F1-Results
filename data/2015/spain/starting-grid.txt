@@ -18,4 +18,3 @@
 18,11,Sergio Perez PER,Force India Mercedes,1:28.442
 19,28,Will Stevens STE,Marussia Ferrari,1:31.200
 20,98,Roberto Merhi MER,Marussia Ferrari,1:32.038
-

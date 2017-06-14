@@ -22,4 +22,3 @@
 22,25,Charles Pic PIC,Marussia Cosworth,1:53.493
 23,8,Nico Rosberg ROS,Mercedes,1:50.181
 24,23,Narain Karthikeyan KAR,HRT Cosworth,1:54.989
-

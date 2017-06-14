@@ -18,4 +18,3 @@
 18,3,Giancarlo Fisichella FIS,Ferrari,1:32.878,+1.169s,26
 19,14,Mark Webber WEB,RBR Renault,1:32.930,+1.221s,15
 20,21,Vitantonio Liuzzi LIU,Force India Mercedes,1:33.167,+1.458s,18
-

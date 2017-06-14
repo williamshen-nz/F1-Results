@@ -19,4 +19,3 @@
 19,45,Roberto Merhi MER,Caterham Renault,1:46.782,+4.471s,18
 20,9,Marcus Ericsson ERI,Caterham Renault,1:46.922,+4.611s,18
 21,4,Max Chilton CHI,Marussia Ferrari,1:47.284,+4.973s,26
-

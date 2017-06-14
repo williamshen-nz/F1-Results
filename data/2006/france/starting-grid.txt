@@ -20,4 +20,3 @@
 20,23,Franck Montagny MON,Super Aguri Honda,1:18.637
 21,22,Takuma Sato SAT,Super Aguri Honda,1:18.845
 22,20,Vitantonio Liuzzi LIU,STR Cosworth,1:17.164
-

@@ -22,4 +22,3 @@ NC,15,Sergio Perez PER,Sauber Ferrari,0,DNF,0
 NC,5,Fernando Alonso ALO,Ferrari,0,DNF,0
 NC,4,Lewis Hamilton HAM,McLaren Mercedes,0,DNF,0
 NC,10,Romain Grosjean GRO,Lotus Renault,0,DNF,0
-

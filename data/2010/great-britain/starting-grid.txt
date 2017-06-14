@@ -22,4 +22,3 @@
 22,25,Lucas di Grassi DIG,Virgin Cosworth,1:35.212
 23,20,Karun Chandhok CHD,HRT Cosworth,1:36.576
 24,21,Sakon Yamamoto YAM,HRT Cosworth,1:36.968
-

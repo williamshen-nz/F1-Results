@@ -22,4 +22,3 @@
 22,25,Jerome d'Ambrosio DAM,Virgin Cosworth,1:54.649,+8.275s,25
 23,22,Daniel Ricciardo RIC,HRT Cosworth,1:54.754,+8.380s,29
 24,23,Vitantonio Liuzzi LIU,HRT Cosworth,1:55.198,+8.824s,26
-

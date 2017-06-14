@@ -20,4 +20,3 @@ NC,20,Adrian Sutil SUT,Spyker Ferrari,2,DNF,0
 NC,16,Nico Rosberg ROS,Williams Toyota,2,DNF,0
 NC,19,Scott Speed SPE,STR Ferrari,2,DNF,0
 NC,18,Vitantonio Liuzzi LIU,STR Ferrari,2,DNF,0
-

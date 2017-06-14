@@ -20,4 +20,3 @@
 20,23,Max Chilton CHI,Marussia Cosworth,1:44.198
 21,22,Jules Bianchi BIA,Marussia Cosworth,1:43.398
 22,7,Kimi Räikkönen RAI,Lotus Renault,
-

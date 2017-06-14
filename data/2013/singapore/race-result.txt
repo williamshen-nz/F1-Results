@@ -20,4 +20,3 @@
 20,14,Paul di Resta DIR,Force India Mercedes,54,DNF,0
 NC,8,Romain Grosjean GRO,Lotus Renault,37,DNF,0
 NC,19,Daniel Ricciardo RIC,STR Ferrari,23,DNF,0
-

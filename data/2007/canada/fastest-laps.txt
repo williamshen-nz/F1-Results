@@ -19,4 +19,3 @@
 19,18,Vitantonio Liuzzi LIU,STR Ferrari,9,1:19.375,197.790
 20,20,Adrian Sutil SUT,Spyker Ferrari,20,1:19.452,197.598
 21,19,Scott Speed SPE,STR Ferrari,6,1:20.092,196.019
-

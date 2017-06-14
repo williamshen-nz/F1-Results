@@ -18,4 +18,3 @@
 18,21,Vitantonio Liuzzi LIU,Force India Mercedes,1:50.605,+1.955s,28
 19,8,Romain Grosjean GRO,Renault,1:50.972,+2.322s,17
 20,11,Jaime Alguersuari ALG,STR Ferrari,1:51.423,+2.773s,31
-

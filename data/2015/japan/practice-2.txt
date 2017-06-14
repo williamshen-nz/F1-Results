@@ -17,4 +17,3 @@
 17,14,Fernando Alonso ALO,McLaren Honda,1:55.239,+6.962s,10
 18,28,Will Stevens STE,Marussia Ferrari,1:58.059,+9.782s,6
 19,53,Alexander Rossi RSI,Marussia Ferrari,1:59.419,+11.142s,7
-

@@ -22,4 +22,3 @@
 22,25,Jerome d'Ambrosio DAM,Virgin Cosworth,22,1:58.730,153.817
 23,22,Daniel Ricciardo RIC,HRT Cosworth,40,1:59.064,153.386
 24,24,Timo Glock GLO,Virgin Cosworth,6,2:00.412,151.669
-

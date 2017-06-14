@@ -20,4 +20,3 @@
 20,10,Kamui Kobayashi KOB,Caterham Renault,1:46.015,+7.007s,7
 21,22,Jenson Button BUT,McLaren Mercedes,2:05.555,+26.547s,4
 22,20,Kevin Magnussen MAG,McLaren Mercedes,,,5
-

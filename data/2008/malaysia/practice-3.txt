@@ -20,4 +20,3 @@
 20,20,Adrian Sutil SUT,Force India Ferrari,1:36.939,+1.920s,21
 21,19,Anthony Davidson DAV,Super Aguri Honda,1:37.140,+2.121s,12
 22,17,Rubens Barrichello BAR,Honda,1:37.703,+2.684s,6
-

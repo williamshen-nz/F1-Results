@@ -16,4 +16,3 @@
 NC,27,Nico Hulkenberg HUL,Force India Mercedes,16,DNF,0
 NC,11,Sergio Perez PER,Force India Mercedes,1,DNF,0
 NC,99,Adrian Sutil SUT,Sauber Ferrari,0,DNF,0
-

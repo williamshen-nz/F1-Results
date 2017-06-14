@@ -20,4 +20,3 @@
 20,20,Kevin Magnussen MAG,McLaren Mercedes,,,3
 21,14,Fernando Alonso ALO,Ferrari,,,1
 22,44,Lewis Hamilton HAM,Mercedes,,,3
-

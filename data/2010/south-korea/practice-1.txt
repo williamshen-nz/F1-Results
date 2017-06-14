@@ -22,4 +22,3 @@
 22,20,Sakon Yamamoto YAM,HRT Cosworth,1:50.347,+9.460s,29
 23,21,Bruno Senna SEN,HRT Cosworth,1:50.821,+9.934s,15
 24,18,Jarno Trulli TRU,Lotus Cosworth,1:51.701,+10.814s,11
-

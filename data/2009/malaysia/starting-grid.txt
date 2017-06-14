@@ -18,4 +18,3 @@
 18,21,Giancarlo Fisichella FIS,Force India Mercedes,1:35.908
 19,20,Adrian Sutil SUT,Force India Mercedes,1:35.951
 20,12,Sebastien Buemi BUE,STR Ferrari,1:36.107
-

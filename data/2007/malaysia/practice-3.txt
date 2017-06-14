@@ -20,4 +20,3 @@
 20,12,Jarno Trulli TRU,Toyota,1:37.473,+2.662s,16
 21,20,Adrian Sutil SUT,Spyker Ferrari,1:38.018,+3.207s,20
 22,21,Christijan Albers ALB,Spyker Ferrari,1:38.225,+3.414s,20
-

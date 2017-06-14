@@ -20,4 +20,3 @@
 20,30,Jolyon Palmer PAL,Renault,1:36.939,+4.645s,28
 21,34,Alfonso Celis CEL,Force India Mercedes,1:37.287,+4.993s,23
 22,88,Rio Haryanto HAR,MRT-Mercedes,1:37.714,+5.420s,27
-

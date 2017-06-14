@@ -30,4 +30,3 @@
 3,17,Kazuki Nakajima NAK,Williams Toyota,51,15:20:08,25.510,1:18.130
 3,21,Giancarlo Fisichella FIS,Force India Mercedes,52,15:21:56,23.204,1:15.483
 4,21,Giancarlo Fisichella FIS,Force India Mercedes,53,15:23:47,21.999,1:37.482
-

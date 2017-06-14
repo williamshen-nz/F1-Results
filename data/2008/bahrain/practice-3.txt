@@ -20,4 +20,3 @@
 20,3,Nick Heidfeld HEI,Sauber BMW,1:34.074,+1.553s,16
 21,19,Anthony Davidson DAV,Super Aguri Honda,1:34.591,+2.070s,18
 22,18,Takuma Sato SAT,Super Aguri Honda,1:34.952,+2.431s,16
-

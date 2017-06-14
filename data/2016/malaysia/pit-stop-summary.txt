@@ -42,4 +42,3 @@
 3,26,Daniil Kvyat KVY,Toro Rosso Ferrari,40,16:15:33,24.718,1:21.469
 3,6,Nico Rosberg ROS,Mercedes,41,16:15:58,23.476,1:11.887
 3,94,Pascal Wehrlein WEH,MRT Mercedes,41,16:18:14,25.201,1:17.177
-

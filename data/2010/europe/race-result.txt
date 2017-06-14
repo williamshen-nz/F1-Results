@@ -22,4 +22,3 @@
 NC,10,Nico Hulkenberg HUL,Williams Cosworth,49,DNF,0
 NC,19,Heikki Kovalainen KOV,Lotus Cosworth,8,DNF,0
 NC,6,Mark Webber WEB,RBR Renault,8,DNF,0
-

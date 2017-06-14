@@ -19,4 +19,3 @@ NC,2,Giancarlo Fisichella FIS,Renault,18,DNF,0
 NC,15,Christian Klien KLI,RBR Ferrari,6,DNF,0
 NC,9,Mark Webber WEB,Williams Cosworth,1,DNF,0
 NC,23,Sakon Yamamoto YAM,Super Aguri Honda,0,DNF,0
-

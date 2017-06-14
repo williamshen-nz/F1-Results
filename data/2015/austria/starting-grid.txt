@@ -18,4 +18,3 @@
 18,3,Daniel Ricciardo RIC,Red Bull Racing Renault,1:10.482
 19,14,Fernando Alonso ALO,McLaren Honda,1:10.736
 20,22,Jenson Button BUT,McLaren Honda,1:12.632
-

@@ -20,4 +20,3 @@
 20,20,Charles Pic PIC,Caterham Renault,1:23.620,+5.725s,12
 21,17,Valtteri Bottas BOT,Williams Renault,1:24.314,+6.419s,12
 22,22,Jules Bianchi BIA,Marussia Cosworth,1:26.195,+8.300s,9
-

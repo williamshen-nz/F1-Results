@@ -69,4 +69,3 @@
 4,23,Narain Karthikeyan KAR,HRT Cosworth,45,16:22:48,24.317,1:41.834
 3,14,Kamui Kobayashi KOB,Sauber Ferrari,50,16:28:31,24.674,1:13.022
 4,3,Jenson Button BUT,McLaren Mercedes,53,16:33:05,23.943,1:31.845
-

@@ -25,4 +25,3 @@
 2,5,Fernando Alonso ALO,Renault,47,16:51:12,24.293,49.584
 3,8,Kazuki Nakajima NAK,Williams Toyota,48,16:53:53,58.458,1:57.161
 3,17,Rubens Barrichello BAR,Honda,49,16:55:07,26.847,1:12.485
-

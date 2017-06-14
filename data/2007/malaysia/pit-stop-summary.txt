@@ -38,4 +38,3 @@
 2,9,Nick Heidfeld HEI,Sauber BMW,42,16:13:15,27.692,57.821
 2,3,Giancarlo Fisichella FIS,Renault,42,16:13:40,27.760,56.573
 2,15,Mark Webber WEB,Red Bull Renault,42,16:14:00,28.828,59.777
-

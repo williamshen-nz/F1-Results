@@ -20,4 +20,3 @@
 20,94,Pascal Wehrlein WEH,MRT Mercedes,1:39.663,+3.260s,18
 21,9,Marcus Ericsson ERI,Sauber Ferrari,1:39.740,+3.337s,23
 22,12,Felipe Nasr NAS,Sauber Ferrari,1:39.898,+3.495s,19
-

@@ -19,4 +19,3 @@
 19,9,Marcus Ericsson ERI,Caterham Renault,51,+2 laps,0
 NC,10,Kamui Kobayashi KOB,Caterham Renault,21,DNF,0
 NC,4,Max Chilton CHI,Marussia Ferrari,9,DNF,0
-

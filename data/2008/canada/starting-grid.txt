@@ -16,4 +16,3 @@
 16,20,Adrian Sutil SUT,Force India Ferrari,1:19.108
 17,21,Giancarlo Fisichella FIS,Force India Ferrari,1:19.165
 18,14,Sebastien Bourdais BOU,STR Ferrari,1:18.916
-

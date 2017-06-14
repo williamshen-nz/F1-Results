@@ -20,4 +20,3 @@
 20,31,Esteban Ocon OCO,MRT Mercedes,1:50.693,+2.719s,18
 21,9,Marcus Ericsson ERI,Sauber Ferrari,1:51.319,+3.345s,5
 22,33,Max Verstappen VER,Red Bull Racing TAG Heuer,,,2
-

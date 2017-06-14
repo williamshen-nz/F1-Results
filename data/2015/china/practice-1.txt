@@ -18,4 +18,3 @@
 18,27,Nico Hulkenberg HUL,Force India Mercedes,1:42.184,+3.151s,19
 19,28,Will Stevens STE,Marussia Ferrari,1:45.379,+6.346s,18
 20,98,Roberto Merhi MER,Marussia Ferrari,1:46.443,+7.410s,20
-

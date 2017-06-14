@@ -19,4 +19,3 @@
 19,9,Marcus Ericsson ERI,Caterham Renault,1:54.050,+4.861s,30
 20,45,Andre Lotterer LOT,Caterham Renault,1:54.093,+4.904s,24
 21,13,Pastor Maldonado MAL,Lotus Renault,,,2
-

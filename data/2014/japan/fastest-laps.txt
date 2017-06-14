@@ -19,4 +19,3 @@
 19,99,Adrian Sutil SUT,Sauber Ferrari,25,16:16:32,1:55.753,180.601
 20,17,Jules Bianchi BIA,Marussia Ferrari,27,16:20:44,1:55.985,180.240
 21,4,Max Chilton CHI,Marussia Ferrari,25,16:17:15,1:56.472,179.486
-

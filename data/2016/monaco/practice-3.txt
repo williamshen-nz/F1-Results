@@ -20,4 +20,3 @@
 20,30,Jolyon Palmer PAL,Renault,1:17.482,+2.832s,17
 21,94,Pascal Wehrlein WEH,MRT Mercedes,1:17.595,+2.945s,32
 22,88,Rio Haryanto HAR,MRT Mercedes,1:18.180,+3.530s,34
-

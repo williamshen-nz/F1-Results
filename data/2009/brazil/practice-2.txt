@@ -18,4 +18,3 @@
 18,4,Kimi Räikkönen RAI,Ferrari,1:13.026,+0.712s,42
 19,11,Jaime Alguersuari ALG,STR Ferrari,1:13.041,+0.727s,40
 20,3,Giancarlo Fisichella FIS,Ferrari,1:13.275,+0.961s,38
-

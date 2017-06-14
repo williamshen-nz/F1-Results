@@ -31,4 +31,3 @@
 2,21,Scott Speed SPE,STR Cosworth,54,15:15:18,23.832,48.339
 2,15,Robert Doornbos DOO,RBR Ferrari,59,15:21:38,23.266,48.426
 3,23,Sakon Yamamoto YAM,Super Aguri Honda,63,15:27:31,22.886,1:12.885
-

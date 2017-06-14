@@ -20,4 +20,3 @@
 20,15,Adrian Sutil SUT,Force India Mercedes,50,DNF,0
 NC,2,Mark Webber WEB,Red Bull Racing Renault,36,DNF,0
 NC,14,Paul di Resta DIR,Force India Mercedes,24,DNF,0
-

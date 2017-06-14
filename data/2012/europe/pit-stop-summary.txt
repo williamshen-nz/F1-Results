@@ -47,4 +47,3 @@
 2,8,Nico Rosberg ROS,Mercedes,46,15:28:36,20.115,40.740
 4,21,Vitaly Petrov PET,Caterham Renault,47,15:30:40,30.800,1:34.157
 4,6,Felipe Massa MAS,Ferrari,53,15:41:54,20.476,1:40.141
-

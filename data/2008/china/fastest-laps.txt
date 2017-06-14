@@ -18,4 +18,3 @@
 18,21,Giancarlo Fisichella FIS,Force India Ferrari,54,1:38.372,199.483
 19,20,Adrian Sutil SUT,Force India Ferrari,13,1:39.683,196.860
 20,11,Jarno Trulli TRU,Toyota,2,2:39.612,122.945
-

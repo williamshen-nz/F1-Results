@@ -14,4 +14,3 @@
 14,20,Kevin Magnussen MAG,McLaren Mercedes,29,14:58:04,1:44.287,190.309
 15,8,Romain Grosjean GRO,Lotus Renault,51,15:36:40,1:44.440,190.030
 16,27,Nico Hulkenberg HUL,Force India Mercedes,15,14:32:59,1:46.226,186.835
-

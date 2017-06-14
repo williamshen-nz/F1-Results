@@ -22,4 +22,3 @@
 22,21,Vitaly Petrov PET,Caterham Renault,1:52.936,+4.596s,26
 23,22,Pedro de la Rosa DLR,HRT Cosworth,1:54.448,+6.108s,26
 24,23,Narain Karthikeyan KAR,HRT Cosworth,1:54.514,+6.174s,30
-

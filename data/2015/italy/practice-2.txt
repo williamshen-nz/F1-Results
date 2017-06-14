@@ -18,4 +18,3 @@
 18,98,Roberto Merhi MER,Marussia Ferrari,1:28.439,+4.160s,27
 19,22,Jenson Button BUT,McLaren Honda,1:28.471,+4.192s,3
 20,26,Daniil Kvyat KVY,Red Bull Racing Renault,1:28.723,+4.444s,28
-

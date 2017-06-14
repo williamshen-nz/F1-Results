@@ -17,4 +17,3 @@
 17,14,Sebastien Bourdais BOU,STR Ferrari,1:46.389
 18,17,Rubens Barrichello BAR,Honda,1:46.583
 19,20,Adrian Sutil SUT,Force India Ferrari,1:47.940
-

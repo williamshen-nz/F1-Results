@@ -20,4 +20,3 @@
 20,22,Jules Bianchi BIA,Marussia Cosworth,1:59.209,+4.011s,12
 21,7,Kimi Räikkönen RAI,Lotus Renault,1:59.441,+4.243s,11
 22,8,Romain Grosjean GRO,Lotus Renault,2:03.176,+7.978s,15
-

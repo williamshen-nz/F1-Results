@@ -22,4 +22,3 @@
 22,14,Adrian Sutil SUT,Force India Mercedes,1:20.830
 23,20,Christian Klien KLI,HRT Cosworth,1:23.083
 24,21,Bruno Senna SEN,HRT Cosworth,1:23.796
-

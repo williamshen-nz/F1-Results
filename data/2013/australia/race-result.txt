@@ -20,4 +20,3 @@ NC,19,Daniel Ricciardo RIC,STR Ferrari,39,DNF,0
 NC,9,Nico Rosberg ROS,Mercedes,26,DNF,0
 NC,16,Pastor Maldonado MAL,Williams Renault,24,DNF,0
 NC,11,Nico Hulkenberg HUL,Sauber Ferrari,,DNS,0
-

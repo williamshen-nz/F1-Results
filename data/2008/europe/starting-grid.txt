@@ -16,4 +16,3 @@
 16,16,Jenson Button BUT,Honda,1:38.880
 17,9,David Coulthard COU,Red Bull Renault,1:39.235
 18,21,Giancarlo Fisichella FIS,Force India Ferrari,1:39.268
-

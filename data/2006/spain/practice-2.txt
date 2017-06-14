@@ -26,4 +26,3 @@
 26,22,Takuma Sato SAT,Super Aguri Honda,1:19.616,+3.083s,30
 27,18,Tiago Monteiro MON,MF1 Toyota,1:20.311,+3.778s,19
 28,23,Franck Montagny MON,Super Aguri Honda,1:22.222,+5.689s,21
-

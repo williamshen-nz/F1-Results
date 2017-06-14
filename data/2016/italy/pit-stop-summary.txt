@@ -37,4 +37,3 @@
 2,22,Jenson Button BUT,McLaren Honda,38,15:00:16,24.418,50.845
 2,55,Carlos Sainz SAI,Toro Rosso Ferrari,39,15:02:07,24.341,49.642
 3,14,Fernando Alonso ALO,McLaren Honda,49,15:16:39,24.082,1:14.619
-

@@ -20,4 +20,3 @@
 20,8,Romain Grosjean GRO,Lotus Renault,4,15:11:09,1:44.366,188.026
 21,17,Jules Bianchi BIA,Marussia Ferrari,36,16:08:57,1:44.825,187.203
 22,99,Adrian Sutil SUT,Sauber Ferrari,2,15:08:04,1:58.376,165.773
-

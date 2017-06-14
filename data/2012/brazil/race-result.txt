@@ -22,4 +22,3 @@ NC,10,Romain Grosjean GRO,Lotus Renault,5,DNF,0
 NC,18,Pastor Maldonado MAL,Williams Renault,1,DNF,0
 NC,19,Bruno Senna SEN,Williams Renault,0,DNF,0
 NC,15,Sergio Perez PER,Sauber Ferrari,0,DNF,0
-

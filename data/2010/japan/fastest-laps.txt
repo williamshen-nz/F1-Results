@@ -17,4 +17,3 @@
 17,24,Timo Glock GLO,Virgin Cosworth,51,1:39.813,209.443
 18,21,Bruno Senna SEN,HRT Cosworth,49,1:40.329,208.366
 19,11,Robert Kubica KUB,Renault,2,2:41.378,129.541
-

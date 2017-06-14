@@ -43,4 +43,3 @@
 2,7,Kimi Räikkönen RAI,Ferrari,50,15:15:47,21.857,43.808
 3,9,Marcus Ericsson ERI,Sauber Ferrari,62,15:35:34,23.308,1:10.379
 2,19,Felipe Massa MAS,Williams Mercedes,65,15:39:36,22.366,44.159
-

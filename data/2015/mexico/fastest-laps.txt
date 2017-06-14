@@ -17,4 +17,3 @@
 17,7,Kimi Räikkönen RAI,Ferrari,20,13:31:56,1:24.054,184.338
 18,53,Alexander Rossi RSI,Marussia Ferrari,69,14:45:55,1:25.005,182.276
 19,28,Will Stevens STE,Marussia Ferrari,67,14:43:09,1:25.540,181.136
-

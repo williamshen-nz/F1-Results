@@ -18,4 +18,3 @@
 NC,17,Kazuki Nakajima NAK,Williams Toyota,43,DNF,0
 NC,3,Felipe Massa MAS,Ferrari,20,DNF,0
 NC,9,Jarno Trulli TRU,Toyota,18,DNF,0
-

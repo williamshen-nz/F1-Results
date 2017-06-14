@@ -18,4 +18,3 @@
 18,53,Alexander Rossi RSI,Marussia Ferrari,2:04.176,,,9
 19,28,Will Stevens STE,Marussia Ferrari,2:04.526,,,9
 NC,55,Carlos Sainz SAI,STR Renault,2:07.304,,,3
-

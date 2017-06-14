@@ -20,4 +20,3 @@
 20,46,Robin Frijns FRI,Caterham Renault,1:42.261,+6.837s,11
 21,41,Susie Wolff WOL,Williams Mercedes,1:44.212,+8.788s,4
 22,13,Pastor Maldonado MAL,Lotus Renault,,,2
-

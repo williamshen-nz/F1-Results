@@ -22,4 +22,3 @@
 22,21,Bruno Senna SEN,HRT Cosworth,1:26.391
 23,23,Kamui Kobayashi KOB,Sauber Ferrari,1:22.222
 24,20,Sakon Yamamoto YAM,HRT Cosworth,1:26.453
-

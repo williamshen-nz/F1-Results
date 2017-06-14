@@ -39,4 +39,3 @@
 3,16,Daniel Ricciardo RIC,STR Ferrari,38,18:05:15,24.348,1:19.924
 3,19,Bruno Senna SEN,Williams Renault,47,18:22:20,30.888,1:19.264
 3,25,Charles Pic PIC,Marussia Cosworth,51,18:30:07,17.088,1:31.375
-

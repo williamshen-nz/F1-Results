@@ -20,4 +20,3 @@
 20,88,Rio Haryanto HAR,MRT Mercedes,1:16.977,,,9
 21,12,Felipe Nasr NAS,Sauber Ferrari,1:17.123,,,6
 22,9,Marcus Ericsson ERI,Sauber Ferrari,1:17.238,,,6
-

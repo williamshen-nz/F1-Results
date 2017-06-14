@@ -39,4 +39,3 @@
 2,2,Lewis Hamilton HAM,McLaren Mercedes,44,15:46:25,28.717,1:00.461
 2,3,Giancarlo Fisichella FIS,Renault,44,15:47:31,28.100,1:00.811
 2,8,Rubens Barrichello BAR,Honda,46,15:51:25,28.879,59.651
-

@@ -15,4 +15,3 @@
 2,7,Kimi Räikkönen RAI,Ferrari,40,17:08:30,22.405,49.870
 3,9,Marcus Ericsson ERI,Sauber Ferrari,43,17:14:28,22.353,1:08.288
 2,27,Nico Hulkenberg HUL,Force India Mercedes,44,17:15:43,21.612,43.749
-

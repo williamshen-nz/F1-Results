@@ -35,4 +35,3 @@
 2,10,Timo Glock GLO,Toyota,47,16:14:07,23.122,47.521
 2,8,Nelson Piquet PIQ,Renault,47,16:14:35,40.010,1:06.026
 3,15,Sebastian Vettel VET,RBR Renault,48,16:15:00,23.227,1:13.578
-

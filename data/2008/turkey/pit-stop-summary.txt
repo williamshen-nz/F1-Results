@@ -35,4 +35,3 @@
 2,6,Nelson Piquet PIQ,Renault,45,16:12:20,28.630,56.294
 2,11,Jarno Trulli TRU,Toyota,48,16:16:28,25.642,56.328
 3,23,Heikki Kovalainen KOV,McLaren Mercedes,50,16:19:41,26.301,1:26.255
-

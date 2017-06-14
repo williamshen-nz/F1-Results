@@ -20,4 +20,3 @@
 20,17,Valtteri Bottas BOT,Williams Renault,1:39.779,+12.850s,13
 21,23,Max Chilton CHI,Marussia Cosworth,1:42.872,+15.943s,13
 22,10,Lewis Hamilton HAM,Mercedes,1:47.246,+20.317s,9
-

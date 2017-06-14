@@ -20,4 +20,3 @@
 2,4,Kimi Räikkönen RAI,Ferrari,37,14:56:50,26.288,51.905
 1,10,Timo Glock GLO,Toyota,38,14:59:05,25.400,25.400
 3,16,Nico Rosberg ROS,Williams Toyota,40,15:03:41,39.219,1:55.331
-

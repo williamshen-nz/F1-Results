@@ -74,4 +74,3 @@
 4,15,Paul di Resta DIR,Force India Mercedes,53,16:40:04,23.129,1:28.776
 4,21,Jarno Trulli TRU,Lotus Renault,55,16:43:54,1:10.416,2:50.572
 5,12,Pastor Maldonado MAL,Williams Cosworth,61,16:53:19,31.701,2:07.508
-

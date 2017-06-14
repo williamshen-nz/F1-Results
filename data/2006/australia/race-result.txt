@@ -20,4 +20,3 @@ NC,15,Christian Klien KLI,RBR Ferrari,4,DNF,0
 NC,8,Jarno Trulli TRU,Toyota,0,DNF,0
 NC,10,Nico Rosberg ROS,Williams Cosworth,0,DNF,0
 NC,6,Felipe Massa MAS,Ferrari,0,DNF,0
-

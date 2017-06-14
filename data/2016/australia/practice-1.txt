@@ -20,4 +20,3 @@
 20,8,Romain Grosjean GRO,Haas Ferrari,1:43.443,+13.718s,6
 21,5,Sebastian Vettel VET,Ferrari,,,8
 22,55,Carlos Sainz SAI,Toro Rosso-Ferrari,,,3
-

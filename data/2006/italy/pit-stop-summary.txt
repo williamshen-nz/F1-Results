@@ -29,4 +29,3 @@
 2,18,Tiago Monteiro MON,MF1 Toyota,40,15:02:07,44.807,1:14.140
 3,6,Felipe Massa MAS,Ferrari,44,15:06:30,25.115,1:19.663
 3,18,Tiago Monteiro MON,MF1 Toyota,43,15:07:20,33.890,1:48.030
-

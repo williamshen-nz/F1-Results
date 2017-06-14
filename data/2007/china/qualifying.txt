@@ -20,4 +20,3 @@
 20,22,Takuma Sato SAT,Super Aguri Honda,1:38.218,,,6
 21,20,Adrian Sutil SUT,Spyker Ferrari,1:38.668,,,8
 22,21,Sakon Yamamoto YAM,Spyker Ferrari,1:39.336,,,7
-

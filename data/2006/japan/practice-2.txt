@@ -27,4 +27,3 @@
 27,16,Nick Heidfeld HEI,Sauber BMW,1:38.779,+4.442s,5
 28,23,Sakon Yamamoto YAM,Super Aguri Honda,1:38.955,+4.618s,14
 29,39,Adrian Sutil SUT,MF1 Toyota,1:43.914,+9.577s,14
-

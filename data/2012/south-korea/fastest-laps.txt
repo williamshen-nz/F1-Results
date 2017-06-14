@@ -20,4 +20,3 @@
 20,14,Kamui Kobayashi KOB,Sauber Ferrari,3,1:47.066,188.799
 21,23,Narain Karthikeyan KAR,HRT Cosworth,39,1:47.068,188.795
 22,22,Pedro de la Rosa DLR,HRT Cosworth,9,1:49.861,183.996
-

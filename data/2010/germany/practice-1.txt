@@ -22,4 +22,3 @@
 22,21,Bruno Senna SEN,HRT Cosworth,1:31.720,+6.019s,23
 23,3,Michael Schumacher MSC,Mercedes,1:32.450,+6.749s,13
 24,20,Sakon Yamamoto YAM,HRT Cosworth,1:32.791,+7.090s,26
-

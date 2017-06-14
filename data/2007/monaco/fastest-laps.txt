@@ -19,4 +19,3 @@
 19,20,Adrian Sutil SUT,Spyker Ferrari,34,1:17.678,154.792
 20,21,Christijan Albers ALB,Spyker Ferrari,70,1:17.689,154.770
 21,15,Mark Webber WEB,Red Bull Renault,17,1:18.998,152.206
-

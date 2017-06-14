@@ -18,4 +18,3 @@
 18,19,Anthony Davidson DAV,Super Aguri Honda,55,1:38.171,203.265
 19,18,Takuma Sato SAT,Super Aguri Honda,53,1:38.504,202.578
 20,20,Adrian Sutil SUT,Force India Ferrari,3,1:40.330,198.891
-

@@ -51,4 +51,3 @@
 3,33,Max Verstappen VER,Toro Rosso-Ferrari,46,19:20:38,25.129,1:16.533
 3,12,Felipe Nasr NAS,Sauber Ferrari,47,19:23:12,25.660,1:17.397
 4,27,Nico Hulkenberg HUL,Force India Mercedes,51,19:29:43,26.595,1:48.190
-

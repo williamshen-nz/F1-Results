@@ -25,4 +25,3 @@
 25,3,Kimi Räikkönen RAI,McLaren Mercedes,1:25.968,+4.190s,11
 26,20,Vitantonio Liuzzi LIU,STR Cosworth,1:26.198,+4.420s,16
 27,23,Sakon Yamamoto YAM,Super Aguri Honda,1:26.877,+5.099s,20
-

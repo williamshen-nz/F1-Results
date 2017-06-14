@@ -16,4 +16,3 @@
 16,99,Adrian Sutil SUT,Sauber Ferrari,1:41.332,+2.247s,33
 17,21,Esteban Gutierrez GUT,Sauber Ferrari,1:41.420,+2.335s,34
 18,1,Sebastian Vettel VET,Red Bull Racing Renault,1:43.980,+4.895s,19
-

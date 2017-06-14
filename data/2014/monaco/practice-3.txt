@@ -20,4 +20,3 @@
 20,10,Kamui Kobayashi KOB,Caterham Renault,1:20.271,+3.513s,32
 21,4,Max Chilton CHI,Marussia Ferrari,1:20.394,+3.636s,25
 22,9,Marcus Ericsson ERI,Caterham Renault,1:20.589,+3.831s,30
-

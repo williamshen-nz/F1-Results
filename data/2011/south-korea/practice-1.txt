@@ -22,4 +22,3 @@
 22,10,Vitaly Petrov PET,Renault,,,1
 23,20,Heikki Kovalainen KOV,Lotus Renault,,,1
 24,4,Jenson Button BUT,McLaren Mercedes,,,1
-

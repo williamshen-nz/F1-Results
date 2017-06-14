@@ -16,4 +16,3 @@
 16,9,Marcus Ericsson ERI,Sauber Ferrari,1:31.376,,,10
 17,22,Jenson Button BUT,McLaren Honda,1:31.422,,,7
 18,20,Kevin Magnussen MAG,McLaren Honda,1:32.037,,,8
-

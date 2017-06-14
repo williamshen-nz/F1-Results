@@ -18,4 +18,3 @@ NC,20,Adrian Sutil SUT,Force India Ferrari,49,DNF,0
 NC,10,Mark Webber WEB,Red Bull Renault,29,DNF,0
 NC,17,Rubens Barrichello BAR,Honda,14,DNF,0
 NC,6,Nelson Piquet PIQ,Renault,13,DNF,0
-

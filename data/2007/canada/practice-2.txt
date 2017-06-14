@@ -20,4 +20,3 @@
 20,21,Christijan Albers ALB,Spyker Ferrari,1:19.453,+2.903s,38
 21,20,Adrian Sutil SUT,Spyker Ferrari,1:19.662,+3.112s,25
 22,4,Heikki Kovalainen KOV,Renault,1:20.519,+3.969s,13
-

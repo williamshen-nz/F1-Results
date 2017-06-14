@@ -17,4 +17,3 @@
 17,14,Mark Webber WEB,RBR Renault,51,+2 laps,0
 NC,11,Jaime Alguersuari ALG,STR Ferrari,43,DNF,0
 NC,12,Sebastien Buemi BUE,STR Ferrari,11,DNF,0
-

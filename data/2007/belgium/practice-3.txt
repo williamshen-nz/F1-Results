@@ -20,4 +20,3 @@
 20,23,Anthony Davidson DAV,Super Aguri Honda,1:48.955,+2.818s,16
 21,21,Sakon Yamamoto YAM,Spyker Ferrari,1:49.179,+3.042s,14
 22,10,Robert Kubica KUB,Sauber BMW,,,2
-

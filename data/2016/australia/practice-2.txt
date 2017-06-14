@@ -17,4 +17,3 @@
 17,30,Jolyon Palmer PAL,Renault,,,5
 18,19,Felipe Massa MAS,Williams Mercedes,,,2
 19,77,Valtteri Bottas BOT,Williams Mercedes,,,2
-

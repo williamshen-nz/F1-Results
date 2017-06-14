@@ -58,4 +58,3 @@
 3,26,Daniil Kvyat KVY,Toro Rosso Ferrari,49,15:11:20,19.264,1:02.734
 3,88,Rio Haryanto HAR,MRT Mercedes,49,15:12:22,21.186,1:13.422
 3,55,Carlos Sainz SAI,Toro Rosso Ferrari,51,15:13:57,19.547,1:02.045
-

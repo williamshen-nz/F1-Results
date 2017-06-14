@@ -18,4 +18,3 @@
 18,27,Nico Hulkenberg HUL,Force India Mercedes,6,20:15:06,1:53.868,160.132
 19,53,Alexander Rossi RSI,Marussia Ferrari,43,21:34:06,1:55.312,158.127
 20,28,Will Stevens STE,Marussia Ferrari,45,21:38:01,1:55.890,157.338
-

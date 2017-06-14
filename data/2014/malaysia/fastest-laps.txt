@@ -19,4 +19,3 @@
 19,25,Jean-Eric Vergne VER,STR Renault,4,16:12:15,1:48.527,183.869
 20,13,Pastor Maldonado MAL,Lotus Renault,6,16:15:25,1:50.929,179.888
 21,17,Jules Bianchi BIA,Marussia Ferrari,4,16:13:31,1:51.473,179.010
-

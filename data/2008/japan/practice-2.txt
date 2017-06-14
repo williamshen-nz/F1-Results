@@ -18,4 +18,3 @@
 18,21,Giancarlo Fisichella FIS,Force India Ferrari,1:19.482,+1.099s,44
 19,3,Nick Heidfeld HEI,Sauber BMW,1:19.894,+1.511s,41
 20,16,Jenson Button BUT,Honda,1:19.999,+1.616s,42
-

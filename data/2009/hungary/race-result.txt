@@ -17,4 +17,3 @@
 NC,15,Sebastian Vettel VET,RBR Renault,29,DNF,0
 NC,7,Fernando Alonso ALO,Renault,15,DNF,0
 NC,20,Adrian Sutil SUT,Force India Mercedes,1,DNF,0
-

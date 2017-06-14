@@ -23,4 +23,3 @@
 23,16,Nick Heidfeld HEI,Sauber BMW,,,1
 24,17,Jacques Villeneuve VIL,Sauber BMW,,,1
 25,11,Rubens Barrichello BAR,Honda,,,1
-

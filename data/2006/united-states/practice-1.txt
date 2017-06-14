@@ -24,4 +24,3 @@
 24,4,Juan Pablo Montoya MOY,McLaren Mercedes,,,1
 25,16,Nick Heidfeld HEI,Sauber BMW,,,1
 26,17,Jacques Villeneuve VIL,Sauber BMW,,,2
-

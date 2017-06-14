@@ -22,4 +22,3 @@
 22,25,Charles Pic PIC,Marussia Cosworth,1:44.500,+7.394s,15
 23,23,Narain Karthikeyan KAR,HRT Cosworth,1:47.204,+10.098s,12
 24,9,Kimi Räikkönen RAI,Lotus Renault,1:50.465,+13.359s,11
-

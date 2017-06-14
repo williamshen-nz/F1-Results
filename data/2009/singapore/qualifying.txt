@@ -18,4 +18,3 @@
 18,3,Giancarlo Fisichella FIS,Ferrari,1:48.350,,,11
 19,8,Romain Grosjean GRO,Renault,1:48.544,,,10
 20,21,Vitantonio Liuzzi LIU,Force India Mercedes,1:48.792,,,8
-

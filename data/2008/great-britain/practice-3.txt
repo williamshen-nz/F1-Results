@@ -18,4 +18,3 @@
 18,21,Giancarlo Fisichella FIS,Force India Ferrari,1:23.112,+2.372s,21
 19,4,Robert Kubica KUB,Sauber BMW,1:23.282,+2.542s,20
 20,9,David Coulthard COU,Red Bull Renault,1:32.119,+11.379s,6
-

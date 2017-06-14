@@ -20,4 +20,3 @@
 20,20,Adrian Sutil SUT,Spyker Ferrari,52,1:30.617,212.066
 21,15,Mark Webber WEB,Red Bull Renault,4,1:30.808,211.620
 22,21,Sakon Yamamoto YAM,Spyker Ferrari,21,1:30.951,211.287
-

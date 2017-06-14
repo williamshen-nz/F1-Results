@@ -22,4 +22,3 @@ NC,7,Felipe Massa MAS,Ferrari,0,DNF,0
 NC,12,Vitaly Petrov PET,Renault,0,DNF,0
 NC,15,Vitantonio Liuzzi LIU,Force India Mercedes,0,DNF,0
 NC,25,Lucas di Grassi DIG,Virgin Cosworth,,DNS,0
-

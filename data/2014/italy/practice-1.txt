@@ -21,4 +21,3 @@
 21,30,Charles Pic PIC,Lotus Renault,1:30.125,+3.938s,23
 22,45,Roberto Merhi MER,Caterham Renault,1:30.704,+4.517s,29
 23,9,Marcus Ericsson ERI,Caterham Renault,1:30.948,+4.761s,16
-

@@ -24,4 +24,3 @@
 2,17,Jean-Eric Vergne VER,STR Ferrari,70,15:38:55,26.157,52.220
 2,20,Heikki Kovalainen KOV,Caterham Renault,73,15:43:52,31.293,57.359
 2,23,Narain Karthikeyan KAR,HRT Cosworth,74,15:46:48,26.973,54.279
-

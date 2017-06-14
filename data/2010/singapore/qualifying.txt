@@ -22,4 +22,3 @@
 22,20,Christian Klien KLI,HRT Cosworth,1:52.946,,,7
 23,21,Bruno Senna SEN,HRT Cosworth,1:54.174,,,9
 24,7,Felipe Massa MAS,Ferrari,DNF,,,2
-

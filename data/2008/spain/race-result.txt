@@ -20,4 +20,3 @@ NC,14,Sebastien Bourdais BOU,STR Ferrari,7,DNF,0
 NC,6,Nelson Piquet PIQ,Renault,6,DNF,0
 NC,15,Sebastian Vettel VET,STR Ferrari,0,DNF,0
 NC,20,Adrian Sutil SUT,Force India Ferrari,0,DNF,0
-

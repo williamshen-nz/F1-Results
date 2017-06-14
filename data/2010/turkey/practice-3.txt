@@ -22,4 +22,3 @@
 22,21,Bruno Senna SEN,HRT Cosworth,1:32.230,+5.144s,22
 23,20,Karun Chandhok CHD,HRT Cosworth,1:32.762,+5.676s,19
 24,14,Adrian Sutil SUT,Force India Mercedes,,,1
-

@@ -21,4 +21,3 @@
 21,25,Jerome d'Ambrosio DAM,Virgin Cosworth,51,1:31.990,200.565
 22,12,Pastor Maldonado MAL,Williams Cosworth,12,1:33.573,197.172
 23,24,Timo Glock GLO,Virgin Cosworth,2,2:09.008,143.014
-

@@ -34,4 +34,3 @@
 2,23,Rubens Barrichello BAR,Brawn Mercedes,57,15:23:53,21.878,46.123
 2,9,Jarno Trulli TRU,Toyota,58,15:25:11,23.170,47.840
 2,10,Timo Glock GLO,Toyota,60,15:27:40,21.367,45.368
-

@@ -20,4 +20,3 @@
 20,20,Alexander Rossi RSI,Caterham Renault,1:27.143,+6.123s,20
 21,16,Pastor Maldonado MAL,Williams Renault,1:27.522,+6.502s,11
 22,22,Jules Bianchi BIA,Marussia Cosworth,1:29.306,+8.286s,8
-

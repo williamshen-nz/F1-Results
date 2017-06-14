@@ -27,4 +27,3 @@
 2,4,Heikki Kovalainen KOV,Renault,41,15:05:56,27.459,57.152
 2,1,Fernando Alonso ALO,McLaren Mercedes,43,15:07:47,27.245,58.050
 2,10,Robert Kubica KUB,Sauber BMW,43,15:08:45,27.388,1:06.029
-

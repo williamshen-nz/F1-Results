@@ -73,4 +73,3 @@
 6,9,Nick Heidfeld HEI,Sauber BMW,53,15:58:43,25.545,2:49.390
 6,12,Jarno Trulli TRU,Toyota,53,16:00:22,26.316,3:20.928
 4,2,Lewis Hamilton HAM,McLaren Mercedes,54,16:01:09,27.191,1:56.808
-

@@ -18,4 +18,3 @@
 18,7,Kimi Räikkönen RAI,Ferrari,1:59.703
 19,28,Will Stevens STE,Marussia Ferrari,2:04.526
 20,55,Carlos Sainz SAI,STR Renault,2:07.304
-

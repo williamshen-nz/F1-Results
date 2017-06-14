@@ -21,4 +21,3 @@
 21,22,Narain Karthikeyan KAR,HRT Cosworth,1:43.197,+6.321s,15
 22,23,Vitantonio Liuzzi LIU,HRT Cosworth,1:43.991,+7.115s,14
 23,20,Heikki Kovalainen KOV,Lotus Renault,1:44.886,+8.010s,4
-

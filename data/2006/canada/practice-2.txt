@@ -27,4 +27,3 @@
 27,41,Sakon Yamamoto YAM,Super Aguri Honda,1:20.197,+3.232s,26
 28,18,Tiago Monteiro MON,MF1 Toyota,1:20.262,+3.297s,18
 29,23,Franck Montagny MON,Super Aguri Honda,1:21.434,+4.469s,22
-

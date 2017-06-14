@@ -22,4 +22,3 @@
 22,18,Pastor Maldonado MAL,Williams Renault,1:24.820
 23,22,Pedro de la Rosa DLR,HRT Cosworth,1:27.629
 24,12,Nico Hulkenberg HUL,Force India Mercedes,
-

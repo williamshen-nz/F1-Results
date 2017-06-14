@@ -20,4 +20,3 @@
 20,23,Anthony Davidson DAV,Super Aguri Honda,1:21.007,+2.273s,34
 21,21,Sakon Yamamoto YAM,Spyker Ferrari,1:21.305,+2.571s,38
 22,22,Takuma Sato SAT,Super Aguri Honda,1:21.352,+2.618s,34
-

@@ -20,4 +20,3 @@ NC,15,Christian Klien KLI,RBR Ferrari,28,DNF,0
 NC,9,Mark Webber WEB,Williams Cosworth,12,DNF,0
 NC,14,David Coulthard COU,RBR Ferrari,2,DNF,0
 NC,20,Vitantonio Liuzzi LIU,STR Cosworth,0,DNF,0
-

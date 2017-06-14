@@ -21,4 +21,3 @@ NC,10,Romain Grosjean GRO,Lotus Renault,40,DNF,0
 NC,1,Sebastian Vettel VET,Red Bull Racing Renault,33,DNF,0
 NC,14,Kamui Kobayashi KOB,Sauber Ferrari,33,DNF,0
 NC,17,Jean-Eric Vergne VER,STR Ferrari,26,DNF,0
-

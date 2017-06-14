@@ -22,4 +22,3 @@
 22,20,Christian Klien KLI,HRT Cosworth,1:27.250,+6.116s,26
 23,21,Bruno Senna SEN,HRT Cosworth,1:27.752,+6.618s,27
 24,22,Pedro de la Rosa DLR,Sauber Ferrari,,,3
-

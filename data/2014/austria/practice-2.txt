@@ -20,4 +20,3 @@
 20,17,Jules Bianchi BIA,Marussia Ferrari,1:12.279,+2.737s,36
 21,10,Kamui Kobayashi KOB,Caterham Renault,1:12.937,+3.395s,24
 22,9,Marcus Ericsson ERI,Caterham Renault,1:13.596,+4.054s,48
-

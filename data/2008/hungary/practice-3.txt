@@ -18,4 +18,3 @@
 18,4,Robert Kubica KUB,Sauber BMW,1:21.975,+1.747s,18
 19,21,Giancarlo Fisichella FIS,Force India Ferrari,1:22.189,+1.961s,22
 20,20,Adrian Sutil SUT,Force India Ferrari,1:22.550,+2.322s,23
-

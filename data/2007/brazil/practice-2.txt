@@ -20,4 +20,3 @@
 20,15,Mark Webber WEB,Red Bull Renault,1:14.543,+1.776s,35
 21,20,Adrian Sutil SUT,Spyker Ferrari,1:15.095,+2.328s,35
 22,21,Sakon Yamamoto YAM,Spyker Ferrari,1:15.715,+2.948s,32
-

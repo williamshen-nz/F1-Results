@@ -21,4 +21,3 @@
 21,24,Timo Glock GLO,Virgin Cosworth,11,1:20.775,148.857
 22,25,Lucas di Grassi DIG,Virgin Cosworth,19,1:22.255,146.179
 23,1,Jenson Button BUT,McLaren Mercedes,2,2:14.285,89.540
-

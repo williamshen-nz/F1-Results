@@ -42,4 +42,3 @@
 2,4,Pedro de la Rosa DLR,McLaren Mercedes,40,15:08:16,21.161,45.463
 2,3,Kimi Räikkönen RAI,McLaren Mercedes,41,15:09:00,19.897,43.040
 3,11,Rubens Barrichello BAR,Honda,41,15:10:22,21.478,1:09.241
-

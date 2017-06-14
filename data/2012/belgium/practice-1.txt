@@ -22,4 +22,3 @@
 22,5,Fernando Alonso ALO,Ferrari,2:40.749,+29.360s,4
 23,9,Kimi Räikkönen RAI,Lotus Renault,2:46.580,+35.191s,9
 24,6,Felipe Massa MAS,Ferrari,,,2
-

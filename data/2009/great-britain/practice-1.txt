@@ -18,4 +18,3 @@
 18,8,Nelson Piquet PIQ,Renault,1:21.525,+2.125s,30
 19,12,Sebastien Buemi BUE,STR Ferrari,1:21.590,+2.190s,37
 20,5,Robert Kubica KUB,Sauber BMW,1:21.801,+2.401s,16
-

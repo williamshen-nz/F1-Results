@@ -16,4 +16,3 @@
 16,3,Daniel Ricciardo RIC,Red Bull Racing Renault,2,14:10:55,1:56.263,216.873
 17,28,Will Stevens STE,Marussia Ferrari,33,15:14:36,1:58.150,213.410
 18,98,Roberto Merhi MER,Marussia Ferrari,32,15:12:29,1:58.174,213.366
-

@@ -77,4 +77,3 @@
 4,11,Sergio Perez PER,Force India Mercedes,43,16:51:21,25.313,20:10.618
 5,7,Kimi Räikkönen RAI,Ferrari,43,16:51:48,24.768,20:41.874
 5,8,Romain Grosjean GRO,Lotus Renault,43,16:52:21,23.785,20:28.877
-

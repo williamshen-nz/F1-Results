@@ -36,4 +36,3 @@
 2,5,Robert Kubica KUB,Sauber BMW,47,14:09:32,22.731,47.989
 2,10,Timo Glock GLO,Toyota,48,14:10:30,20.538,49.346
 2,22,Jenson Button BUT,Brawn Mercedes,49,14:11:41,21.723,46.779
-

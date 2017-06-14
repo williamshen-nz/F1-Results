@@ -18,4 +18,3 @@
 18,14,Sebastien Bourdais BOU,STR Ferrari,52,+1 lap,0
 19,20,Adrian Sutil SUT,Force India Ferrari,51,+2 laps,0
 NC,21,Giancarlo Fisichella FIS,Force India Ferrari,11,DNF,0
-

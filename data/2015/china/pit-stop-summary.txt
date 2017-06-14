@@ -36,4 +36,3 @@
 3,11,Sergio Perez PER,Force India Mercedes,41,15:16:42,23.144,1:09.311
 2,98,Roberto Merhi MER,Marussia Ferrari,40,15:17:19,24.088,50.026
 3,13,Pastor Maldonado MAL,Lotus Mercedes,48,15:29:49,17.912,1:03.281
-

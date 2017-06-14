@@ -22,4 +22,3 @@
 22,25,Jerome d'Ambrosio DAM,Virgin Cosworth,45,1:44.806,187.237
 23,19,Jaime Alguersuari ALG,STR Ferrari,5,1:45.700,185.653
 24,22,Narain Karthikeyan KAR,HRT Cosworth,41,1:46.081,184.986
-

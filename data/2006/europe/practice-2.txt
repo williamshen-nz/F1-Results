@@ -26,4 +26,3 @@
 26,22,Takuma Sato SAT,Super Aguri Honda,1:36.255,+3.580s,25
 27,23,Franck Montagny MON,Super Aguri Honda,1:36.665,+3.990s,16
 28,8,Jarno Trulli TRU,Toyota,,,5
-

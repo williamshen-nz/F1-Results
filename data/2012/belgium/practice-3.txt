@@ -22,4 +22,3 @@
 22,22,Pedro de la Rosa DLR,HRT Cosworth,1:53.383,+4.841s,22
 23,23,Narain Karthikeyan KAR,HRT Cosworth,1:53.562,+5.020s,23
 24,8,Nico Rosberg ROS,Mercedes,1:58.113,+9.571s,5
-

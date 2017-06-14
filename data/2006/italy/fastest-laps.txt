@@ -20,4 +20,3 @@
 20,19,Christijan Albers ALB,MF1 Toyota,17,1:25.494,243.932
 21,22,Takuma Sato SAT,Super Aguri Honda,15,1:25.676,243.414
 22,23,Sakon Yamamoto YAM,Super Aguri Honda,15,1:26.548,240.962
-

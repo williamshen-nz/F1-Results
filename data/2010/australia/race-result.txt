@@ -22,4 +22,3 @@ NC,16,Sebastien Buemi BUE,STR Ferrari,0,DNF,0
 NC,10,Nico Hulkenberg HUL,Williams Cosworth,0,DNF,0
 NC,23,Kamui Kobayashi KOB,Sauber Ferrari,0,DNF,0
 NC,18,Jarno Trulli TRU,Lotus Cosworth,,DNS,0
-

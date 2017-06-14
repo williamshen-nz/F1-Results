@@ -15,4 +15,3 @@
 15,18,Takuma Sato SAT,Super Aguri Honda,24,1:30.892,210.038
 16,6,Nelson Piquet PIQ,Renault,20,1:31.384,208.907
 17,20,Adrian Sutil SUT,Force India Ferrari,8,1:32.021,207.461
-

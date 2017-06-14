@@ -22,4 +22,3 @@ NC,20,Heikki Kovalainen KOV,Lotus Renault,55,DNF,0
 NC,7,Michael Schumacher MSC,Mercedes,26,DNF,0
 NC,9,Nick Heidfeld HEI,Renault,23,DNF,0
 NC,21,Jarno Trulli TRU,Lotus Renault,17,DNF,0
-

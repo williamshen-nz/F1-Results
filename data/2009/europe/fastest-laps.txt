@@ -18,4 +18,3 @@
 18,3,Luca Badoer BAD,Ferrari,52,1:40.590,193.939
 19,11,Jaime Alguersuari ALG,STR Ferrari,29,1:40.935,193.276
 20,12,Sebastien Buemi BUE,STR Ferrari,37,1:41.042,193.072
-

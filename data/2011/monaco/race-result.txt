@@ -21,4 +21,3 @@ NC,19,Jaime Alguersuari ALG,STR Ferrari,66,DNF,0
 NC,6,Felipe Massa MAS,Ferrari,32,DNF,0
 NC,7,Michael Schumacher MSC,Mercedes,32,DNF,0
 NC,24,Timo Glock GLO,Virgin Cosworth,30,DNF,0
-

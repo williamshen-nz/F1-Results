@@ -22,4 +22,3 @@
 22,18,Jarno Trulli TRU,Lotus Cosworth,1:39.776,+4.453s,16
 23,21,Bruno Senna SEN,HRT Cosworth,1:40.316,+4.993s,19
 24,20,Karun Chandhok CHD,HRT Cosworth,1:41.141,+5.818s,18
-

@@ -22,4 +22,3 @@
 22,5,Fernando Alonso ALO,Ferrari,,,4
 23,11,Paul di Resta DIR,Force India Mercedes,,,3
 24,12,Jules Bianchi BIA,Force India Mercedes,,,1
-

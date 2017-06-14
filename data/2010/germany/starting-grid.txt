@@ -22,4 +22,3 @@
 22,20,Sakon Yamamoto YAM,HRT Cosworth,1:19.844
 23,24,Timo Glock GLO,Virgin Cosworth,1:18.343
 24,25,Lucas di Grassi DIG,Virgin Cosworth,
-

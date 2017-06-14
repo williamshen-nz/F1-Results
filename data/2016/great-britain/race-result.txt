@@ -20,4 +20,4 @@ NC,88,Rio Haryanto HAR,MRT Mercedes,24,DNF,0
 NC,8,Romain Grosjean GRO,Haas Ferrari,17,DNF,0
 NC,9,Marcus Ericsson ERI,Sauber Ferrari,11,DNF,0
 NC,94,Pascal Wehrlein WEH,MRT Mercedes,6,DNF,0
-Note - Rosberg had 10s added to his race time for receiving illegal assistance via team radio. Vettel had 5s added to his race time for forcing Massa off track. 
+Note - Rosberg had 10s added to his race time for receiving illegal assistance via team radio. Vettel had 5s added to his race time for forcing Massa off track.

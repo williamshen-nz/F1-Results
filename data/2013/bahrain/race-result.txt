@@ -20,4 +20,3 @@
 20,23,Max Chilton CHI,Marussia Cosworth,56,+1 lap,0
 21,21,Giedo van der Garde VDG,Caterham Renault,55,+2 laps,0
 NC,18,Jean-Eric Vergne VER,STR Ferrari,16,DNF,0
-

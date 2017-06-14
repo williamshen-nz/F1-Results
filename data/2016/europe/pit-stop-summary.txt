@@ -31,4 +31,3 @@
 1,94,Pascal Wehrlein WEH,MRT Mercedes,29,17:58:28,26.187,26.187
 2,21,Esteban Gutierrez GUT,Haas Ferrari,29,17:58:37,21.533,50.760
 2,30,Jolyon Palmer PAL,Renault,31,18:02:14,20.561,41.526
-

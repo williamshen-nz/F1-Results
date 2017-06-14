@@ -20,4 +20,3 @@
 20,22,Takuma Sato SAT,Super Aguri Honda,1:18.920,,,6
 21,23,Franck Montagny MON,Super Aguri Honda,1:20.763,,,6
 22,14,David Coulthard COU,RBR Ferrari,DNS,,,2
-

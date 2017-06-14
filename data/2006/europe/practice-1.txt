@@ -21,4 +21,3 @@
 21,15,Christian Klien KLI,RBR Ferrari,,,1
 22,14,David Coulthard COU,RBR Ferrari,,,1
 23,20,Vitantonio Liuzzi LIU,STR Cosworth,,,2
-

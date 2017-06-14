@@ -18,4 +18,3 @@
 1,1,Jenson Button BUT,McLaren Mercedes,38,16:10:20,21.252,21.252
 1,23,Kamui Kobayashi KOB,Sauber Ferrari,38,16:10:51,21.427,21.427
 2,17,Jaime Alguersuari ALG,STR Ferrari,44,16:20:53,27.296,48.801
-

@@ -50,4 +50,3 @@
 3,26,Daniil Kvyat KVY,STR Renault,59,15:19:23,24.726,1:14.112
 3,8,Romain Grosjean GRO,Lotus Renault,59,15:19:41,23.197,1:11.811
 3,27,Nico Hulkenberg HUL,Force India Mercedes,60,15:20:21,23.411,1:10.288
-

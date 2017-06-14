@@ -20,4 +20,3 @@
 20,21,Bruno Senna SEN,HRT Cosworth,52,1:46.255,188.173
 21,20,Christian Klien KLI,HRT Cosworth,44,1:46.646,187.483
 22,24,Timo Glock GLO,Virgin Cosworth,39,1:46.837,187.148
-

@@ -48,4 +48,3 @@
 2,22,Daniel Ricciardo RIC,HRT Cosworth,41,16:19:54,22.115,45.311
 3,16,Kamui Kobayashi KOB,Sauber Ferrari,42,16:21:02,21.472,1:08.673
 3,17,Sergio Perez PER,Sauber Ferrari,53,16:39:58,21.971,1:04.581
-

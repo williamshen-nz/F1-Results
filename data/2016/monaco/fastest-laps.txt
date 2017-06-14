@@ -20,4 +20,3 @@
 20,26,Daniil Kvyat KVY,Toro Rosso Ferrari,14,14:29:56,1:37.895,122.715
 21,7,Kimi Räikkönen RAI,Ferrari,10,14:21:12,1:47.149,112.116
 22,30,Jolyon Palmer PAL,Renault,2,14:05:00,1:58.474,101.399
-

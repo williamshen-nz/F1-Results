@@ -20,4 +20,3 @@
 20,30,Jolyon Palmer PAL,Renault,1:18.313,+2.699s,47
 21,88,Rio Haryanto HAR,MRT Mercedes,1:18.591,+2.977s,47
 22,12,Felipe Nasr NAS,Sauber Ferrari,1:19.295,+3.681s,41
-

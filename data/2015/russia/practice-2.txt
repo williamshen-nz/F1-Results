@@ -12,4 +12,3 @@
 12,11,Sergio Perez PER,Force India Mercedes,,,3
 13,27,Nico Hulkenberg HUL,Force India Mercedes,,,3
 14,3,Daniel Ricciardo RIC,Red Bull Racing Renault,,,1
-

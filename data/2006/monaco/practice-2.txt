@@ -26,4 +26,3 @@
 26,38,Robert Kubica KUB,Sauber BMW,1:19.273,+3.366s,12
 27,40,Neel Jani JAN,STR Cosworth,1:19.445,+3.538s,27
 28,22,Takuma Sato SAT,Super Aguri Honda,1:19.803,+3.896s,31
-

@@ -21,4 +21,3 @@
 21,23,Vitantonio Liuzzi LIU,HRT Cosworth,1:43.850,+6.162s,3
 22,25,Jerome d'Ambrosio DAM,Virgin Cosworth,1:44.008,+6.320s,35
 23,24,Timo Glock GLO,Virgin Cosworth,1:44.747,+7.059s,12
-

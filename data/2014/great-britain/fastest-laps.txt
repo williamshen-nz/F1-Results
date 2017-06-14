@@ -18,4 +18,3 @@
 18,10,Kamui Kobayashi KOB,Caterham Renault,31,14:58:47,1:41.462,209.020
 19,21,Esteban Gutierrez GUT,Sauber Ferrari,7,14:16:16,1:42.566,206.770
 20,9,Marcus Ericsson ERI,Caterham Renault,7,14:16:26,1:44.319,203.295
-

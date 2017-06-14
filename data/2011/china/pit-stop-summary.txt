@@ -56,4 +56,3 @@
 3,14,Adrian Sutil SUT,Force India Mercedes,47,16:26:24,28.708,1:10.755
 3,17,Sergio Perez PER,Sauber Ferrari,48,16:28:01,13.900,58.770
 4,17,Sergio Perez PER,Sauber Ferrari,50,16:31:39,28.845,1:27.615
-

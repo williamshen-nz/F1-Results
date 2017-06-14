@@ -20,4 +20,3 @@
 20,19,Scott Speed SPE,STR Ferrari,1:35.687,+2.160s,34
 21,21,Christijan Albers ALB,Spyker Ferrari,1:35.835,+2.308s,30
 22,7,Jenson Button BUT,Honda,1:36.079,+2.552s,19
-

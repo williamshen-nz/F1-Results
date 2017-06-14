@@ -58,4 +58,3 @@
 3,7,Michael Schumacher MSC,Mercedes,52,15:14:25,18.163,54.588
 4,20,Heikki Kovalainen KOV,Caterham Renault,53,15:17:23,28.988,1:26.407
 3,18,Pastor Maldonado MAL,Williams Renault,57,15:22:00,18.085,56.941
-

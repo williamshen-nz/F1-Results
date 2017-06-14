@@ -20,4 +20,3 @@
 NC,10,Lewis Hamilton HAM,Mercedes,7,DNF,0
 NC,21,Giedo van der Garde VDG,Caterham Renault,0,DNF,0
 NC,22,Jules Bianchi BIA,Marussia Cosworth,0,DNF,0
-

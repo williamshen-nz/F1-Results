@@ -22,4 +22,3 @@ NC,17,Sergio Perez PER,Sauber Ferrari,23,DNF,0
 NC,11,Rubens Barrichello BAR,Williams Cosworth,22,DNF,0
 NC,22,Narain Karthikeyan KAR,HRT Cosworth,14,DNF,0
 NC,12,Pastor Maldonado MAL,Williams Cosworth,8,DNF,0
-

@@ -25,4 +25,3 @@
 25,11,Rubens Barrichello BAR,Honda,,,1
 26,1,Fernando Alonso ALO,Renault,,,2
 27,2,Giancarlo Fisichella FIS,Renault,,,2
-

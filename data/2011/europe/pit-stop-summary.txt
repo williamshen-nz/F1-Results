@@ -63,4 +63,3 @@
 3,22,Narain Karthikeyan KAR,HRT Cosworth,44,15:26:13,26.059,1:18.764
 3,6,Felipe Massa MAS,Ferrari,48,15:28:09,20.404,1:06.659
 3,4,Jenson Button BUT,McLaren Mercedes,48,15:28:21,20.479,1:01.801
-

@@ -20,4 +20,3 @@
 20,10,Robert Kubica KUB,Sauber BMW,,,1
 21,1,Fernando Alonso ALO,McLaren Mercedes,,,1
 22,3,Giancarlo Fisichella FIS,Renault,,,2
-

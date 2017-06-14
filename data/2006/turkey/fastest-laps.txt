@@ -18,4 +18,3 @@
 18,22,Takuma Sato SAT,Super Aguri Honda,33,1:31.814,209.301
 19,20,Vitantonio Liuzzi LIU,STR Cosworth,12,1:32.148,208.542
 20,23,Sakon Yamamoto YAM,Super Aguri Honda,12,1:32.337,208.115
-

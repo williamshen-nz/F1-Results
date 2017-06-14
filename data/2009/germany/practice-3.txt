@@ -18,4 +18,3 @@
 18,5,Robert Kubica KUB,Sauber BMW,1:32.269,+1.148s,20
 19,2,Heikki Kovalainen KOV,McLaren Mercedes,1:32.742,+1.621s,18
 20,11,Sebastien Bourdais BOU,STR Ferrari,1:32.883,+1.762s,21
-

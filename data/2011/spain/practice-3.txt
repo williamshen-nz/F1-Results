@@ -22,4 +22,3 @@
 22,25,Jerome d'Ambrosio DAM,Virgin Cosworth,1:29.057,+7.350s,18
 23,9,Nick Heidfeld HEI,Renault,1:29.200,+7.493s,6
 24,22,Narain Karthikeyan KAR,HRT Cosworth,1:29.562,+7.855s,16
-

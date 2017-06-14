@@ -22,4 +22,3 @@
 22,20,Karun Chandhok CHD,HRT Cosworth,1:37.019,+5.785s,27
 23,21,Sakon Yamamoto YAM,HRT Cosworth,1:38.303,+7.069s,32
 24,18,Jarno Trulli TRU,Lotus Cosworth,1:42.901,+11.667s,3
-

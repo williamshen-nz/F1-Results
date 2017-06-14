@@ -36,4 +36,3 @@
 3,18,Tiago Monteiro MON,MF1 Toyota,52,15:33:34,21.751,1:11.462
 2,16,Nick Heidfeld HEI,Sauber BMW,55,15:33:59,21.065,44.403
 3,6,Felipe Massa MAS,Ferrari,59,15:41:57,20.686,1:06.546
-

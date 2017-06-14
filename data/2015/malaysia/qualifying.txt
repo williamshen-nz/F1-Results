@@ -17,4 +17,3 @@
 17,22,Jenson Button BUT,McLaren Honda,1:41.636,,,8
 18,14,Fernando Alonso ALO,McLaren Honda,1:41.746,,,8
 NC,98,Roberto Merhi MER,Marussia Ferrari,1:46.677,,,7
-

@@ -42,4 +42,3 @@
 3,11,Nico Hulkenberg HUL,Sauber Ferrari,53,16:25:07,29.057,1:17.987
 2,23,Max Chilton CHI,Marussia Cosworth,52,16:25:27,24.445,49.202
 2,7,Kimi Räikkönen RAI,Lotus Renault,58,16:32:33,24.141,51.130
-

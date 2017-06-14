@@ -18,4 +18,3 @@
 18,8,Kazuki Nakajima NAK,Williams Toyota,1:36.653,,,13
 19,16,Jenson Button BUT,Honda,1:37.006,,,13
 20,20,Adrian Sutil SUT,Force India Ferrari,1:37.417,,,12
-

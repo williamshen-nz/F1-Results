@@ -22,4 +22,3 @@ NC,25,Lucas di Grassi DIG,Virgin Cosworth,25,DNF,0
 NC,18,Jarno Trulli TRU,Lotus Cosworth,25,DNF,0
 NC,6,Mark Webber WEB,RBR Renault,18,DNF,0
 NC,4,Nico Rosberg ROS,Mercedes,18,DNF,0
-

@@ -29,4 +29,3 @@
 2,8,Nico Rosberg ROS,Mercedes,38,15:01:21,21.854,44.200
 2,20,Heikki Kovalainen KOV,Caterham Renault,39,15:03:38,21.910,44.647
 2,21,Vitaly Petrov PET,Caterham Renault,40,15:05:10,22.811,44.993
-

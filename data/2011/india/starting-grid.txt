@@ -22,4 +22,3 @@
 22,24,Timo Glock GLO,Virgin Cosworth,1:34.046
 23,23,Daniel Ricciardo RIC,HRT Cosworth,1:30.216
 24,22,Narain Karthikeyan KAR,HRT Cosworth,1:30.238
-

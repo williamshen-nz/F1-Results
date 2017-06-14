@@ -18,4 +18,3 @@
 18,15,Christian Klien KLI,RBR Ferrari,6,1:38.702,159.790
 19,20,Vitantonio Liuzzi LIU,STR Cosworth,8,1:38.858,159.537
 20,10,Nico Rosberg ROS,Williams Cosworth,9,1:38.964,159.367
-

@@ -21,4 +21,3 @@
 21,24,Timo Glock GLO,Virgin Cosworth,1:32.117,+6.316s,9
 22,25,Lucas di Grassi DIG,Virgin Cosworth,,,2
 23,20,Karun Chandhok CHD,HRT Cosworth,,,1
-

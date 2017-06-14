@@ -22,4 +22,3 @@
 22,22,Pedro de la Rosa DLR,HRT Cosworth,1:16.198,+3.010s,15
 23,23,Narain Karthikeyan KAR,HRT Cosworth,1:16.793,+3.605s,18
 24,9,Kimi Räikkönen RAI,Lotus Renault,,,3
-

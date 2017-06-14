@@ -19,4 +19,3 @@
 19,17,Jules Bianchi BIA,Marussia Ferrari,1:27.738
 20,4,Max Chilton CHI,Marussia Ferrari,1:28.247
 21,26,Daniil Kvyat KVY,STR Renault,1:26.070
-

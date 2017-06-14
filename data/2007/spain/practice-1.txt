@@ -20,4 +20,3 @@
 20,18,Vitantonio Liuzzi LIU,STR Ferrari,1:24.104,+2.224s,24
 21,19,Scott Speed SPE,STR Ferrari,1:24.179,+2.299s,19
 22,21,Christijan Albers ALB,Spyker Ferrari,1:24.396,+2.516s,25
-

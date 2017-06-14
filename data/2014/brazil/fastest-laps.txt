@@ -16,4 +16,3 @@
 16,21,Esteban Gutierrez GUT,Sauber Ferrari,64,15:26:07,1:14.875,207.177
 17,7,Kimi Räikkönen RAI,Ferrari,37,14:51:27,1:14.963,206.934
 18,3,Daniel Ricciardo RIC,Red Bull Racing Renault,30,14:42:26,1:15.387,205.770
-

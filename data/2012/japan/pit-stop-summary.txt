@@ -44,4 +44,3 @@
 2,20,Heikki Kovalainen KOV,Caterham Renault,41,16:14:28,22.678,45.494
 2,21,Vitaly Petrov PET,Caterham Renault,42,16:16:46,21.367,42.735
 3,21,Vitaly Petrov PET,Caterham Renault,48,16:27:04,14.250,56.985
-

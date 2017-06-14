@@ -22,4 +22,3 @@
 22,22,Pedro de la Rosa DLR,HRT Cosworth,1:42.914
 23,23,Narain Karthikeyan KAR,HRT Cosworth,1:43.655
 24,20,Heikki Kovalainen KOV,Caterham Renault,1:39.306
-

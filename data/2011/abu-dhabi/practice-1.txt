@@ -22,4 +22,3 @@
 22,24,Timo Glock GLO,Virgin Cosworth,1:48.024,+7.761s,20
 23,25,Robert Wickens WIC,Virgin Cosworth,1:48.551,+8.288s,23
 24,11,Rubens Barrichello BAR,Williams Cosworth,,,3
-

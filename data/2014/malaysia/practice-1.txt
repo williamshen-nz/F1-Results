@@ -20,4 +20,3 @@
 20,11,Sergio Perez PER,Force India Mercedes,,,2
 21,13,Pastor Maldonado MAL,Lotus Renault,,,2
 22,8,Romain Grosjean GRO,Lotus Renault,,,4
-

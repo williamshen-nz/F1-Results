@@ -20,4 +20,3 @@ NC,23,Sakon Yamamoto YAM,Super Aguri Honda,23,DNF,0
 NC,20,Vitantonio Liuzzi LIU,STR Cosworth,12,DNF,0
 NC,3,Kimi Räikkönen RAI,McLaren Mercedes,1,DNF,0
 NC,18,Tiago Monteiro MON,MF1 Toyota,0,DNF,0
-

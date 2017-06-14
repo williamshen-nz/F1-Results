@@ -18,4 +18,3 @@
 18,17,Kazuki Nakajima NAK,Williams Toyota,1:22.043,+1.490s,19
 19,20,Adrian Sutil SUT,Force India Mercedes,1:22.232,+1.679s,19
 20,6,Nick Heidfeld HEI,Sauber BMW,1:23.457,+2.904s,8
-

@@ -80,4 +80,3 @@
 3,22,Narain Karthikeyan KAR,HRT Cosworth,45,16:17:26,24.474,1:16.789
 3,20,Heikki Kovalainen KOV,Lotus Renault,53,16:28:36,23.114,1:07.601
 4,19,Jaime Alguersuari ALG,STR Ferrari,55,16:30:31,21.931,1:28.456
-

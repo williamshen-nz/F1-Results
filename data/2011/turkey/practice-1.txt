@@ -22,4 +22,3 @@
 22,17,Sergio Perez PER,Sauber Ferrari,1:55.791,+17.121s,13
 23,4,Jenson Button BUT,McLaren Mercedes,2:00.666,+21.996s,4
 24,3,Lewis Hamilton HAM,McLaren Mercedes,,,1
-

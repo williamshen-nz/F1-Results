@@ -21,4 +21,3 @@
 21,23,Vitantonio Liuzzi LIU,HRT Cosworth,1:27.809,,,9
 22,22,Narain Karthikeyan KAR,HRT Cosworth,1:27.908,,,9
 23,25,Jerome d'Ambrosio DAM,Virgin Cosworth,1:28.556,,,5
-

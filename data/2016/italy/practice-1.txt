@@ -20,4 +20,3 @@
 20,94,Pascal Wehrlein WEH,MRT Mercedes,1:26.762,+3.803s,28
 21,30,Jolyon Palmer PAL,Renault,1:26.811,+3.852s,35
 22,20,Kevin Magnussen MAG,Renault,1:26.956,+3.997s,32
-

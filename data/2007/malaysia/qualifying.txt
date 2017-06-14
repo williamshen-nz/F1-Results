@@ -20,4 +20,3 @@
 20,17,Alexander Wurz WUR,Williams Toyota,1:37.326,,,5
 21,21,Christijan Albers ALB,Spyker Ferrari,1:38.279,,,6
 22,20,Adrian Sutil SUT,Spyker Ferrari,1:38.415,,,6
-

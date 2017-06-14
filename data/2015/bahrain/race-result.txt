@@ -18,4 +18,3 @@
 NC,33,Max Verstappen VER,STR Renault,34,DNF,0
 NC,55,Carlos Sainz SAI,STR Renault,29,DNF,0
 NC,22,Jenson Button BUT,McLaren Honda,0,DNS,0
-

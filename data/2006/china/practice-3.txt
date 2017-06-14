@@ -20,4 +20,3 @@
 20,23,Sakon Yamamoto YAM,Super Aguri Honda,1:46.850,+6.657s,10
 21,17,Robert Kubica KUB,Sauber BMW,,,1
 22,3,Kimi Räikkönen RAI,McLaren Mercedes,,,2
-

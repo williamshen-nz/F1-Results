@@ -20,4 +20,3 @@
 NC,18,Jean-Eric Vergne VER,STR Ferrari,22,DNF,0
 NC,22,Jules Bianchi BIA,Marussia Cosworth,21,DNF,0
 NC,4,Felipe Massa MAS,Ferrari,3,DNF,0
-

@@ -31,4 +31,3 @@
 2,17,Rubens Barrichello BAR,Honda,40,16:10:12,27.203,55.314
 2,15,Sebastian Vettel VET,STR Ferrari,41,16:11:37,28.163,58.997
 2,16,Jenson Button BUT,Honda,43,16:15:28,26.226,54.884
-

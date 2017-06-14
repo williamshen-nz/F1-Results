@@ -19,4 +19,3 @@
 19,22,Jenson Button BUT,McLaren Honda,1:45.804
 20,9,Marcus Ericsson ERI,Sauber Ferrari,1:46.231
 21,30,Jolyon Palmer PAL,Renault,1:46.394
-

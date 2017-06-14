@@ -20,4 +20,3 @@
 20,14,David Coulthard COU,Red Bull Renault,1:36.513,+3.351s,7
 21,20,Adrian Sutil SUT,Spyker Ferrari,1:37.084,+3.922s,27
 22,21,Christijan Albers ALB,Spyker Ferrari,1:38.258,+5.096s,29
-

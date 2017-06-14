@@ -20,4 +20,3 @@
 20,4,Max Chilton CHI,Marussia Ferrari,1:28.579,+3.060s,19
 21,9,Marcus Ericsson ERI,Caterham Renault,1:29.251,+3.732s,22
 22,6,Nico Rosberg ROS,Mercedes,,,3
-

@@ -63,4 +63,3 @@
 3,7,Michael Schumacher MSC,Mercedes,41,16:15:04,20.879,1:04.116
 3,8,Nico Rosberg ROS,Mercedes,41,16:15:25,20.809,1:02.049
 3,12,Pastor Maldonado MAL,Williams Cosworth,41,16:15:38,21.012,1:03.426
-

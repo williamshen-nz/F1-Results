@@ -20,4 +20,3 @@
 20,23,Max Chilton CHI,Marussia Cosworth,1:27.869,+2.304s,20
 21,21,Heikki Kovalainen KOV,Caterham Renault,1:28.192,+2.627s,21
 22,22,Rodolfo Gonzalez GON,Marussia Cosworth,1:29.526,+3.961s,26
-

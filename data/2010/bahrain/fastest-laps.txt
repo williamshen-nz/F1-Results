@@ -21,4 +21,3 @@
 21,24,Timo Glock GLO,Virgin Cosworth,11,2:07.062,178.467
 22,21,Bruno Senna SEN,HRT Cosworth,14,2:09.127,175.613
 23,25,Lucas di Grassi DIG,Virgin Cosworth,2,2:09.361,175.295
-

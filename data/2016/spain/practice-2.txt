@@ -20,4 +20,3 @@
 20,12,Felipe Nasr NAS,Sauber Ferrari,1:27.812,+3.890s,40
 21,21,Esteban Gutierrez GUT,Haas Ferrari,1:28.205,+4.283s,9
 22,9,Marcus Ericsson ERI,Sauber Ferrari,1:28.501,+4.579s,42
-

@@ -37,4 +37,3 @@
 2,23,Rubens Barrichello BAR,Brawn Mercedes,51,18:24:44,22.194,58.018
 2,7,Fernando Alonso ALO,Renault,51,18:24:57,20.679,55.380
 4,4,Kimi Räikkönen RAI,Ferrari,55,18:32:09,23.410,1:44.055
-

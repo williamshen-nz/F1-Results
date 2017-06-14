@@ -22,4 +22,3 @@ NC,17,Jaime Alguersuari ALG,STR Ferrari,44,DNF,0
 NC,22,Pedro de la Rosa DLR,Sauber Ferrari,29,DNF,0
 NC,11,Robert Kubica KUB,Renault,19,DNF,0
 NC,25,Lucas di Grassi DIG,Virgin Cosworth,9,DNF,0
-

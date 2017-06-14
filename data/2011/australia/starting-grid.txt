@@ -20,4 +20,3 @@
 20,21,Jarno Trulli TRU,Lotus Renault,1:29.342
 21,24,Timo Glock GLO,Virgin Cosworth,1:29.858
 22,25,Jerome d'Ambrosio DAM,Virgin Cosworth,1:30.822
-

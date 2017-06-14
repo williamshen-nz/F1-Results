@@ -22,4 +22,3 @@ DQ,18,Sebastien Buemi BUE,STR Ferrari,1:33.635,1:33.546,,11
 21,25,Jerome d'Ambrosio DAM,Virgin Cosworth,1:36.641,,,12
 22,23,Vitantonio Liuzzi LIU,HRT Cosworth,1:37.011,,,11
 23,22,Daniel Ricciardo RIC,HRT Cosworth,1:37.036,,,11
-

@@ -18,4 +18,3 @@ NC,16,Nick Heidfeld HEI,Sauber BMW,9,DNF,0
 NC,4,Pedro de la Rosa DLR,McLaren Mercedes,2,DNF,0
 NC,23,Sakon Yamamoto YAM,Super Aguri Honda,1,DNF,0
 NC,10,Nico Rosberg ROS,Williams Cosworth,0,DNF,0
-

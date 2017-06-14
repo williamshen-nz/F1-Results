@@ -18,4 +18,3 @@
 18,16,Nico Rosberg ROS,Williams Toyota,1:24.121,,,12
 19,12,Sebastien Buemi BUE,STR Ferrari,1:24.220,,,12
 20,11,Jaime Alguersuari ALG,STR Ferrari,1:24.951,,,11
-

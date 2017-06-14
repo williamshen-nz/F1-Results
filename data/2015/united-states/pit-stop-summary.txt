@@ -45,4 +45,3 @@
 3,13,Pastor Maldonado MAL,Lotus Mercedes,43,15:30:33,25.054,1:18.351
 3,22,Jenson Button BUT,McLaren Honda,44,15:32:44,24.862,1:16.837
 3,3,Daniel Ricciardo RIC,Red Bull Racing Renault,50,15:44:54,24.495,1:16.746
-

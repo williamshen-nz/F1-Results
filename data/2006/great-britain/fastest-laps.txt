@@ -17,4 +17,3 @@
 17,12,Jenson Button BUT,Honda,8,1:25.207,217.207
 18,22,Takuma Sato SAT,Super Aguri Honda,23,1:26.520,213.911
 19,23,Franck Montagny MON,Super Aguri Honda,26,1:27.167,212.323
-

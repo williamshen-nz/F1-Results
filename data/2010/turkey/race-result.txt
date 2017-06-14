@@ -22,4 +22,3 @@ NC,21,Bruno Senna SEN,HRT Cosworth,46,DNF,0
 NC,5,Sebastian Vettel VET,RBR Renault,39,DNF,0
 NC,19,Heikki Kovalainen KOV,Lotus Cosworth,33,DNF,0
 NC,18,Jarno Trulli TRU,Lotus Cosworth,32,DNF,0
-

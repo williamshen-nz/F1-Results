@@ -20,4 +20,3 @@
 20,94,Pascal Wehrlein WEH,MRT Mercedes,1:42.483,+4.356s,21
 21,88,Rio Haryanto HAR,MRT Mercedes,1:42.687,+4.560s,8
 22,34,Alfonso Celis CEL,Force India Mercedes,1:43.432,+5.305s,23
-

@@ -27,4 +27,3 @@
 27,7,Ralf Schumacher RSC,Toyota,1:15.063,+3.050s,10
 28,41,Sakon Yamamoto YAM,Super Aguri Honda,1:15.120,+3.107s,33
 29,23,Franck Montagny MON,Super Aguri Honda,,,2
-

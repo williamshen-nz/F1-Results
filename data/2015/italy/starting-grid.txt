@@ -18,4 +18,3 @@
 18,26,Daniil Kvyat KVY,Red Bull Racing Renault,1:25.796
 19,3,Daniel Ricciardo RIC,Red Bull Racing Renault,
 20,33,Max Verstappen VER,STR Renault,
-

@@ -22,4 +22,3 @@
 22,22,Narain Karthikeyan KAR,HRT Cosworth,1:31.564
 23,25,Jerome d'Ambrosio DAM,Virgin Cosworth,1:30.445
 24,16,Kamui Kobayashi KOB,Sauber Ferrari,
-

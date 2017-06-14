@@ -22,4 +22,3 @@
 22,25,Jerome d'Ambrosio DAM,Virgin Cosworth,1:36.894,+5.978s,23
 23,21,Karun Chandhok CHD,Lotus Renault,1:36.959,+6.043s,18
 24,22,Daniel Ricciardo RIC,HRT Cosworth,1:37.554,+6.638s,22
-

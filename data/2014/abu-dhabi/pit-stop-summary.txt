@@ -39,4 +39,3 @@
 3,25,Jean-Eric Vergne VER,STR Renault,44,18:24:19,22.348,1:08.028
 2,1,Sebastian Vettel VET,Red Bull Racing Renault,46,18:27:33,21.611,44.705
 2,3,Daniel Ricciardo RIC,Red Bull Racing Renault,47,18:28:55,21.582,43.329
-

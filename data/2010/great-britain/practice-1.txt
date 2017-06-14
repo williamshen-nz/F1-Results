@@ -22,4 +22,3 @@
 22,20,Karun Chandhok CHD,HRT Cosworth,1:38.735,+6.455s,21
 23,18,Fairuz Fauzy FAU,Lotus Cosworth,1:39.510,+7.230s,11
 24,21,Sakon Yamamoto YAM,HRT Cosworth,1:39.673,+7.393s,27
-

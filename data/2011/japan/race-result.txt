@@ -22,4 +22,3 @@
 22,22,Daniel Ricciardo RIC,HRT Cosworth,51,+2 laps,0
 23,23,Vitantonio Liuzzi LIU,HRT Cosworth,50,+3 laps,0
 NC,18,Sebastien Buemi BUE,STR Ferrari,11,DNF,0
-

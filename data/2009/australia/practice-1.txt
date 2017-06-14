@@ -18,4 +18,3 @@
 18,8,Nelson Piquet PIQ,Renault,1:29.461,+2.774s,25
 19,11,Sebastien Bourdais BOU,STR Ferrari,1:29.499,+2.812s,21
 20,15,Sebastian Vettel VET,RBR Renault,1:32.784,+6.097s,4
-

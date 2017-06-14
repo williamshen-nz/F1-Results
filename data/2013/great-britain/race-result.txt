@@ -20,4 +20,3 @@
 20,6,Sergio Perez PER,McLaren Mercedes,46,DNF,0
 NC,1,Sebastian Vettel VET,Red Bull Racing Renault,41,DNF,0
 NC,18,Jean-Eric Vergne VER,STR Ferrari,35,DNF,0
-

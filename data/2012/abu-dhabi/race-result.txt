@@ -22,4 +22,3 @@ NC,4,Lewis Hamilton HAM,McLaren Mercedes,19,DNF,0
 NC,23,Narain Karthikeyan KAR,HRT Cosworth,7,DNF,0
 NC,8,Nico Rosberg ROS,Mercedes,7,DNF,0
 NC,12,Nico Hulkenberg HUL,Force India Mercedes,0,DNF,0
-

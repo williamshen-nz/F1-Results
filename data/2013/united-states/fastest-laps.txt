@@ -19,4 +19,3 @@
 19,23,Max Chilton CHI,Marussia Cosworth,48,1:43.775,191.248
 20,21,Giedo van der Garde VDG,Caterham Renault,45,1:43.933,190.957
 21,20,Charles Pic PIC,Caterham Renault,48,1:43.968,190.893
-

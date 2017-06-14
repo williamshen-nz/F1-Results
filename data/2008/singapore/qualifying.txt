@@ -18,4 +18,3 @@
 18,17,Rubens Barrichello BAR,Honda,1:46.583,,,7
 19,20,Adrian Sutil SUT,Force India Ferrari,1:47.940,,,10
 20,21,Giancarlo Fisichella FIS,Force India Ferrari,DNF,,,2
-

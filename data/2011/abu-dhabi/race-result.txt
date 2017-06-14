@@ -22,4 +22,3 @@ NC,22,Daniel Ricciardo RIC,HRT Cosworth,48,DNF,0
 NC,18,Sebastien Buemi BUE,STR Ferrari,19,DNF,0
 NC,25,Jerome d'Ambrosio DAM,Virgin Cosworth,18,DNF,0
 NC,1,Sebastian Vettel VET,Red Bull Racing Renault,1,DNF,0
-

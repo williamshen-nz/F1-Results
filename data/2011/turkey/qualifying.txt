@@ -22,4 +22,3 @@
 22,24,Timo Glock GLO,Virgin Cosworth,1:30.813,,,8
 23,22,Narain Karthikeyan KAR,HRT Cosworth,1:31.564,,,8
 NC,16,Kamui Kobayashi KOB,Sauber Ferrari,DNF,,,2
-

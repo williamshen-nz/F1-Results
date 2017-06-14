@@ -41,4 +41,3 @@
 2,14,Kamui Kobayashi KOB,Sauber Ferrari,37,14:04:36,39.208,1:06.053
 2,8,Nico Rosberg ROS,Mercedes,37,14:04:48,33.529,58.718
 2,24,Timo Glock GLO,Marussia Cosworth,38,14:07:52,25.241,51.406
-

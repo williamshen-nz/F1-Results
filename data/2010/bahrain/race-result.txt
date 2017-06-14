@@ -22,4 +22,3 @@ NC,12,Vitaly Petrov PET,Renault,13,DNF,0
 NC,23,Kamui Kobayashi KOB,Sauber Ferrari,11,DNF,0
 NC,25,Lucas di Grassi DIG,Virgin Cosworth,2,DNF,0
 NC,20,Karun Chandhok CHD,HRT Cosworth,1,DNF,0
-

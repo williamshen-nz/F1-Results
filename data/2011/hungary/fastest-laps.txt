@@ -22,4 +22,3 @@
 22,7,Michael Schumacher MSC,Mercedes,19,1:29.781,175.667
 23,9,Nick Heidfeld HEI,Renault,19,1:30.826,173.646
 24,21,Jarno Trulli TRU,Lotus Renault,16,1:35.252,165.577
-

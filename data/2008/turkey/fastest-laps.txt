@@ -16,4 +16,3 @@
 16,12,Timo Glock GLO,Toyota,28,1:28.303,217.623
 17,14,Sebastien Bourdais BOU,STR Ferrari,19,1:28.745,216.539
 18,20,Adrian Sutil SUT,Force India Ferrari,35,1:28.780,216.454
-

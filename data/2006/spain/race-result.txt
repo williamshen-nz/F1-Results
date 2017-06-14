@@ -20,4 +20,3 @@ NC,21,Scott Speed SPE,STR Cosworth,47,DNF,0
 NC,7,Ralf Schumacher RSC,Toyota,31,DNF,0
 NC,4,Juan Pablo Montoya MOY,McLaren Mercedes,17,DNF,0
 NC,23,Franck Montagny MON,Super Aguri Honda,10,DNF,0
-

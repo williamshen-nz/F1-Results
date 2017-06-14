@@ -18,4 +18,3 @@
 18,53,Alexander Rossi RSI,Marussia Ferrari,2:05.607,+6.090s,10
 19,12,Felipe Nasr NAS,Sauber Ferrari,2:06.792,+7.275s,10
 20,33,Max Verstappen VER,STR Renault,2:09.994,+10.477s,7
-

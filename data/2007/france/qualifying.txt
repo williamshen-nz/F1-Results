@@ -20,4 +20,3 @@
 20,23,Anthony Davidson DAV,Super Aguri Honda,1:16.366,,,5
 21,21,Christijan Albers ALB,Spyker Ferrari,1:17.826,,,6
 22,20,Adrian Sutil SUT,Spyker Ferrari,1:17.915,,,5
-

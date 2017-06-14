@@ -20,4 +20,3 @@ NC,2,Felipe Massa MAS,Ferrari,30,DNF,0
 NC,20,Adrian Sutil SUT,Force India Ferrari,5,DNF,0
 NC,12,Timo Glock GLO,Toyota,1,DNF,0
 NC,14,Sebastien Bourdais BOU,STR Ferrari,0,DNF,0
-

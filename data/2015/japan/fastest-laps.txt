@@ -18,4 +18,3 @@
 18,22,Jenson Button BUT,McLaren Honda,31,14:57:01,1:40.121,208.799
 19,28,Will Stevens STE,Marussia Ferrari,44,15:21:34,1:41.452,206.060
 20,53,Alexander Rossi RSI,Marussia Ferrari,35,15:05:20,1:41.467,206.029
-

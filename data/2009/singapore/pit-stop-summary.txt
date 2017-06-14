@@ -36,4 +36,3 @@
 2,22,Jenson Button BUT,Brawn Mercedes,51,21:41:34,22.408,48.253
 2,9,Jarno Trulli TRU,Toyota,51,21:42:11,22.055,45.169
 2,4,Kimi Räikkönen RAI,Ferrari,52,21:43:49,22.061,47.689
-

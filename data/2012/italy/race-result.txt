@@ -22,4 +22,3 @@
 22,1,Sebastian Vettel VET,Red Bull Racing Renault,47,DNF,0
 NC,3,Jenson Button BUT,McLaren Mercedes,32,DNF,0
 NC,17,Jean-Eric Vergne VER,STR Ferrari,8,DNF,0
-

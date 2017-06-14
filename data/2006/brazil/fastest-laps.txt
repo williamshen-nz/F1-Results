@@ -18,4 +18,3 @@
 18,8,Jarno Trulli TRU,Toyota,9,1:14.882,207.157
 19,14,David Coulthard COU,RBR Ferrari,12,1:16.045,203.989
 20,7,Ralf Schumacher RSC,Toyota,8,1:16.835,201.892
-

@@ -22,4 +22,3 @@
 22,19,Bruno Senna SEN,Williams Renault,1:44.548,+6.423s,29
 23,22,Pedro de la Rosa DLR,HRT Cosworth,1:46.917,+8.792s,13
 24,23,Qing Hua Ma QIN,HRT Cosworth,1:48.559,+10.434s,19
-

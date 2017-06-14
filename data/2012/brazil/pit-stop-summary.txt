@@ -67,4 +67,3 @@
 3,12,Nico Hulkenberg HUL,Force India Mercedes,58,15:28:20,14.128,57.725
 5,20,Heikki Kovalainen KOV,Caterham Renault,59,15:31:24,21.849,2:09.292
 5,16,Daniel Ricciardo RIC,STR Ferrari,61,15:33:59,21.973,1:50.360
-

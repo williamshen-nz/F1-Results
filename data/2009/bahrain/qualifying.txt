@@ -18,4 +18,3 @@
 18,21,Giancarlo Fisichella FIS,Force India Mercedes,1:33.910,,,9
 19,14,Mark Webber WEB,RBR Renault,1:34.038,,,8
 20,11,Sebastien Bourdais BOU,STR Ferrari,1:34.159,,,9
-

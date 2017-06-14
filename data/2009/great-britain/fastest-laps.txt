@@ -18,4 +18,3 @@
 18,1,Lewis Hamilton HAM,McLaren Mercedes,24,1:22.576,224.128
 19,12,Sebastien Buemi BUE,STR Ferrari,24,1:22.711,223.762
 20,20,Adrian Sutil SUT,Force India Mercedes,50,1:23.475,221.714
-

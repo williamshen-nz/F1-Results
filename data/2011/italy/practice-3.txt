@@ -22,4 +22,3 @@
 22,23,Vitantonio Liuzzi LIU,HRT Cosworth,1:28.441,+5.271s,22
 23,24,Timo Glock GLO,Virgin Cosworth,1:28.962,+5.792s,17
 24,22,Daniel Ricciardo RIC,HRT Cosworth,1:30.316,+7.146s,16
-

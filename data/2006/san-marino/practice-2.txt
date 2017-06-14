@@ -26,4 +26,3 @@
 26,39,Giorgio Mondini MOD,MF1 Toyota,1:28.833,+3.790s,27
 27,22,Takuma Sato SAT,Super Aguri Honda,1:29.870,+4.827s,23
 28,23,Yuji Ide IDE,Super Aguri Honda,1:31.042,+5.999s,20
-

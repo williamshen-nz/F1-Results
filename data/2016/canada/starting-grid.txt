@@ -20,4 +20,3 @@
 20,55,Carlos Sainz SAI,Toro Rosso Ferrari,1:21.956
 21,9,Marcus Ericsson ERI,Sauber Ferrari,1:15.635
 22,20,Kevin Magnussen MAG,Renault,
-

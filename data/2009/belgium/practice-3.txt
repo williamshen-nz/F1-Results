@@ -18,4 +18,3 @@
 18,3,Luca Badoer BAD,Ferrari,1:47.055,+1.667s,20
 19,17,Kazuki Nakajima NAK,Williams Toyota,1:47.078,+1.690s,19
 20,14,Mark Webber WEB,RBR Renault,,,3
-

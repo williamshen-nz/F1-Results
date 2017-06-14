@@ -20,4 +20,3 @@
 20,9,Marcus Ericsson ERI,Sauber Ferrari,1:34.224,+3.223s,31
 21,12,Felipe Nasr NAS,Sauber Ferrari,1:34.477,+3.476s,34
 22,88,Rio Haryanto HAR,MRT-Mercedes,1:34.562,+3.561s,33
-

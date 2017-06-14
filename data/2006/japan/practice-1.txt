@@ -25,4 +25,3 @@
 25,8,Jarno Trulli TRU,Toyota,,,1
 26,7,Ralf Schumacher RSC,Toyota,,,1
 27,12,Jenson Button BUT,Honda,,,1
-

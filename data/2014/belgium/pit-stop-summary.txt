@@ -44,4 +44,3 @@
 3,1,Sebastian Vettel VET,Red Bull Racing Renault,34,15:10:16,23.190,1:08.721
 3,99,Adrian Sutil SUT,Sauber Ferrari,34,15:10:53,23.732,1:11.266
 3,19,Felipe Massa MAS,Williams Mercedes,35,15:12:42,23.224,1:11.252
-

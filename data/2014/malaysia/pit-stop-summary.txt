@@ -53,4 +53,3 @@
 3,1,Sebastian Vettel VET,Red Bull Racing Renault,49,17:32:08,25.186,1:14.346
 3,6,Nico Rosberg ROS,Mercedes,50,17:33:47,24.654,1:14.664
 3,44,Lewis Hamilton HAM,Mercedes,51,17:35:18,24.484,1:14.384
-

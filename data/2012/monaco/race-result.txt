@@ -22,4 +22,3 @@ NC,14,Kamui Kobayashi KOB,Sauber Ferrari,5,DNF,0
 NC,10,Romain Grosjean GRO,Lotus Renault,0,DNF,0
 NC,22,Pedro de la Rosa DLR,HRT Cosworth,0,DNF,0
 NC,18,Pastor Maldonado MAL,Williams Renault,0,DNF,0
-

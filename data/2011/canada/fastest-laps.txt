@@ -22,4 +22,3 @@
 22,5,Fernando Alonso ALO,Ferrari,14,1:34.223,166.621
 23,3,Lewis Hamilton HAM,McLaren Mercedes,7,1:37.761,160.591
 24,20,Heikki Kovalainen KOV,Lotus Renault,16,1:38.460,159.451
-

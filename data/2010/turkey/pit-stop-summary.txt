@@ -25,4 +25,3 @@
 2,6,Mark Webber WEB,RBR Renault,42,16:07:55,26.004,48.745
 2,16,Sebastien Buemi BUE,STR Ferrari,44,16:12:51,23.714,55.787
 2,12,Vitaly Petrov PET,Renault,54,16:27:38,27.230,49.984
-

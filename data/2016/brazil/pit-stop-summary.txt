@@ -60,4 +60,3 @@
 5,3,Daniel Ricciardo RIC,Red Bull Racing TAG Heuer,52,16:41:54,24.521,59:32.090
 3,94,Pascal Wehrlein WEH,MRT Mercedes,52,16:42:00,25.509,58:38.952
 5,33,Max Verstappen VER,Red Bull Racing TAG Heuer,54,16:45:53,24.041,59:23.738
-

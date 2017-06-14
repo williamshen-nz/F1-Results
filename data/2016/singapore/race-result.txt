@@ -20,4 +20,3 @@ NC,22,Jenson Button BUT,McLaren Honda,43,DNF,0
 NC,77,Valtteri Bottas BOT,Williams Mercedes,35,DNF,0
 NC,27,Nico Hulkenberg HUL,Force India Mercedes,0,DNF,0
 NC,8,Romain Grosjean GRO,Haas Ferrari,0,DNS,0
-

@@ -22,4 +22,3 @@
 22,24,Timo Glock GLO,Virgin Cosworth,1:19.338,+4.215s,35
 23,22,Narain Karthikeyan KAR,HRT Cosworth,1:22.066,+6.943s,33
 24,23,Vitantonio Liuzzi LIU,HRT Cosworth,,,0
-

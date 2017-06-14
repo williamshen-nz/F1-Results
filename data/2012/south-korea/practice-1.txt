@@ -22,4 +22,3 @@
 22,21,Giedo van der Garde VDG,Caterham Renault,1:42.820,+3.672s,19
 23,22,Pedro de la Rosa DLR,HRT Cosworth,1:44.517,+5.369s,23
 24,23,Dani Clos CLO,HRT Cosworth,1:45.735,+6.587s,22
-

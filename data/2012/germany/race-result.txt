@@ -22,4 +22,3 @@
 22,24,Timo Glock GLO,Marussia Cosworth,64,+3 laps,0
 23,23,Narain Karthikeyan KAR,HRT Cosworth,64,+3 laps,0
 NC,4,Lewis Hamilton HAM,McLaren Mercedes,56,DNF,0
-

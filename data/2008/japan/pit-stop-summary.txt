@@ -26,4 +26,3 @@
 2,15,Sebastian Vettel VET,STR Ferrari,51,14:42:27,32.674,1:07.913
 2,6,Nelson Piquet PIQ,Renault,52,14:43:30,32.581,1:06.485
 3,2,Felipe Massa MAS,Ferrari,53,14:45:36,32.780,1:33.839
-

@@ -28,4 +28,3 @@
 3,11,Paul di Resta DIR,Force India Mercedes,39,18:19:26,20.265,1:06.764
 2,7,Michael Schumacher MSC,Mercedes,41,18:24:11,21.270,40.971
 3,15,Sergio Perez PER,Sauber Ferrari,44,18:30:24,26.858,1:19.775
-

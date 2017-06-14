@@ -20,4 +20,3 @@
 20,27,Nico Hulkenberg HUL,Force India Mercedes,14,14:30:34,1:41.151,155.921
 21,8,Romain Grosjean GRO,Lotus Renault,7,14:16:03,1:46.312,148.352
 22,9,Marcus Ericsson ERI,Caterham Renault,6,14:14:32,1:48.459,145.415
-

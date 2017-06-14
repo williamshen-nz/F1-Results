@@ -22,4 +22,3 @@ NC,22,Pedro de la Rosa DLR,HRT Cosworth,16,DNF,0
 NC,14,Kamui Kobayashi KOB,Sauber Ferrari,16,DNF,0
 NC,8,Nico Rosberg ROS,Mercedes,1,DNF,0
 NC,3,Jenson Button BUT,McLaren Mercedes,0,DNF,0
-

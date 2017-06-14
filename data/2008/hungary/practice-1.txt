@@ -18,4 +18,3 @@
 18,20,Adrian Sutil SUT,Force India Ferrari,1:23.353,+2.372s,25
 19,21,Giancarlo Fisichella FIS,Force India Ferrari,1:23.459,+2.478s,28
 20,15,Sebastian Vettel VET,STR Ferrari,1:23.923,+2.942s,4
-

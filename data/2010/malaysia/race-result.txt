@@ -22,4 +22,3 @@ NC,3,Michael Schumacher MSC,Mercedes,9,DNF,0
 NC,23,Kamui Kobayashi KOB,Sauber Ferrari,8,DNF,0
 NC,24,Timo Glock GLO,Virgin Cosworth,2,DNF,0
 NC,22,Pedro de la Rosa DLR,Sauber Ferrari,,DNS,0
-

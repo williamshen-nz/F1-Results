@@ -18,4 +18,3 @@
 18,3,Nick Heidfeld HEI,Sauber BMW,1:17.766,+1.211s,17
 19,16,Jenson Button BUT,Honda,1:18.178,+1.623s,19
 20,20,Adrian Sutil SUT,Force India Ferrari,1:18.424,+1.869s,21
-

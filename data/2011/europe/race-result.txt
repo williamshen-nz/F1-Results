@@ -22,4 +22,3 @@
 22,25,Jerome d'Ambrosio DAM,Virgin Cosworth,55,+2 laps,0
 23,23,Vitantonio Liuzzi LIU,HRT Cosworth,54,+3 laps,0
 24,22,Narain Karthikeyan KAR,HRT Cosworth,54,+3 laps,0
-

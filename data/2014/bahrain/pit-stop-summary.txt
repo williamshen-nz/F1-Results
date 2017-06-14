@@ -55,4 +55,3 @@
 3,7,Kimi Räikkönen RAI,Ferrari,41,19:15:09,24.453,1:14.877
 5,17,Jules Bianchi BIA,Marussia Ferrari,40,19:16:59,25.383,2:05.723
 4,13,Pastor Maldonado MAL,Lotus Renault,47,19:27:48,32.874,1:58.958
-

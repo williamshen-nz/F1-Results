@@ -20,4 +20,3 @@
 NC,20,Adrian Sutil SUT,Spyker Ferrari,53,DNF,0
 NC,15,Mark Webber WEB,Red Bull Renault,17,DNF,0
 NC,18,Vitantonio Liuzzi LIU,STR Ferrari,1,DNF,0
-

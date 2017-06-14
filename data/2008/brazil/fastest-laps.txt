@@ -16,4 +16,3 @@
 16,17,Rubens Barrichello BAR,Honda,35,1:15.414,205.696
 17,20,Adrian Sutil SUT,Force India Ferrari,60,1:15.773,204.721
 18,8,Kazuki Nakajima NAK,Williams Toyota,50,1:15.865,204.473
-

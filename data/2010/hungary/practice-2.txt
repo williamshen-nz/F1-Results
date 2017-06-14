@@ -22,4 +22,3 @@
 22,21,Bruno Senna SEN,HRT Cosworth,1:26.745,+6.658s,33
 23,20,Sakon Yamamoto YAM,HRT Cosworth,1:26.798,+6.711s,32
 24,19,Heikki Kovalainen KOV,Lotus Cosworth,1:27.705,+7.618s,5
-

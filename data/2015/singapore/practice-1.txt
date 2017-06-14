@@ -18,4 +18,3 @@
 18,26,Daniil Kvyat KVY,Red Bull Racing Renault,1:51.188,+3.193s,8
 19,28,Will Stevens STE,Marussia Ferrari,1:53.903,+5.908s,20
 20,53,Alexander Rossi RSI,Marussia Ferrari,1:53.918,+5.923s,18
-

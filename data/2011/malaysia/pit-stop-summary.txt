@@ -57,4 +57,3 @@
 4,5,Fernando Alonso ALO,Ferrari,46,17:24:24,27.182,1:38.040
 3,23,Vitantonio Liuzzi LIU,HRT Cosworth,44,17:25:07,38.823,1:33.192
 4,3,Lewis Hamilton HAM,McLaren Mercedes,52,17:34:48,22.466,1:33.011
-

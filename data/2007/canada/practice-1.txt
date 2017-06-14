@@ -20,4 +20,3 @@
 20,21,Christijan Albers ALB,Spyker Ferrari,1:21.251,+3.492s,17
 21,20,Adrian Sutil SUT,Spyker Ferrari,1:21.630,+3.871s,25
 22,10,Robert Kubica KUB,Sauber BMW,,,2
-

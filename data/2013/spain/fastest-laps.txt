@@ -20,4 +20,3 @@
 20,17,Valtteri Bottas BOT,Williams Renault,27,1:29.747,186.724
 21,21,Giedo van der Garde VDG,Caterham Renault,11,1:30.597,184.973
 22,8,Romain Grosjean GRO,Lotus Renault,5,1:31.136,183.879
-

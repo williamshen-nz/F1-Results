@@ -20,4 +20,3 @@
 20,3,Fernando Alonso ALO,Ferrari,,,2
 21,5,Jenson Button BUT,McLaren Mercedes,,,1
 22,4,Felipe Massa MAS,Ferrari,,,2
-

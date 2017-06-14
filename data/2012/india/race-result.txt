@@ -22,4 +22,3 @@
 22,7,Michael Schumacher MSC,Mercedes,55,DNF,0
 NC,22,Pedro de la Rosa DLR,HRT Cosworth,42,DNF,0
 NC,15,Sergio Perez PER,Sauber Ferrari,20,DNF,0
-

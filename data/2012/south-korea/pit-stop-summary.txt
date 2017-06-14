@@ -39,4 +39,3 @@
 2,25,Charles Pic PIC,Marussia Cosworth,34,16:06:00,22.019,43.321
 2,17,Jean-Eric Vergne VER,STR Ferrari,38,16:11:27,21.188,42.053
 3,4,Lewis Hamilton HAM,McLaren Mercedes,42,16:18:28,19.447,59.862
-

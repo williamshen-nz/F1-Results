@@ -17,4 +17,3 @@
 17,26,Daniil Kvyat KVY,Red Bull Racing TAG Heuer,44,16:23:19,1:42.344,205.706
 18,21,Esteban Gutierrez GUT,Haas Ferrari,52,16:37:20,1:42.378,205.637
 19,30,Jolyon Palmer PAL,Renault,37,16:10:55,1:42.660,205.073
-

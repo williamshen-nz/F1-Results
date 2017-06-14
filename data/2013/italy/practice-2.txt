@@ -20,4 +20,3 @@
 20,20,Charles Pic PIC,Caterham Renault,1:27.696,+3.243s,37
 21,21,Giedo van der Garde VDG,Caterham Renault,1:27.771,+3.318s,38
 22,22,Jules Bianchi BIA,Marussia Cosworth,1:28.057,+3.604s,32
-

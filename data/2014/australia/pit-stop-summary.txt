@@ -32,4 +32,3 @@
 2,6,Nico Rosberg ROS,Mercedes,38,18:10:59,23.673,48.004
 2,4,Max Chilton CHI,Marussia Ferrari,41,18:18:13,23.493,47.702
 2,17,Jules Bianchi BIA,Marussia Ferrari,35,18:19:32,22.656,46.477
-

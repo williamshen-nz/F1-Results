@@ -18,4 +18,3 @@ NC,10,Robert Kubica KUB,Sauber BMW,26,DNF,0
 NC,20,Adrian Sutil SUT,Spyker Ferrari,21,DNF,0
 NC,19,Scott Speed SPE,STR Ferrari,8,DNF,0
 NC,7,Jenson Button BUT,Honda,0,DNF,0
-

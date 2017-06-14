@@ -15,4 +15,3 @@
 15,21,Esteban Gutierrez GUT,Sauber Ferrari,1:39.555
 16,8,Romain Grosjean GRO,Lotus Renault,1:39.679
 17,26,Daniil Kvyat KVY,STR Renault,1:38.699
-

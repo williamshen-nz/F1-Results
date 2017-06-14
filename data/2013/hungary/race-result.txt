@@ -20,4 +20,3 @@
 NC,17,Valtteri Bottas BOT,Williams Renault,42,DNF,0
 NC,12,Esteban Gutierrez GUT,Sauber Ferrari,28,DNF,0
 NC,15,Adrian Sutil SUT,Force India Mercedes,19,DNF,0
-

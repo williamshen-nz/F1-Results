@@ -20,4 +20,3 @@
 20,18,Jarno Trulli TRU,Lotus Cosworth,1:29.111
 21,21,Bruno Senna SEN,HRT Cosworth,1:30.526
 22,20,Karun Chandhok CHD,HRT Cosworth,1:30.613
-

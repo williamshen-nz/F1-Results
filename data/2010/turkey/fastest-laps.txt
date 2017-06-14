@@ -22,4 +22,3 @@
 22,19,Heikki Kovalainen KOV,Lotus Cosworth,26,1:34.363,203.647
 23,18,Jarno Trulli TRU,Lotus Cosworth,26,1:34.463,203.432
 24,20,Karun Chandhok CHD,HRT Cosworth,37,1:34.585,203.169
-

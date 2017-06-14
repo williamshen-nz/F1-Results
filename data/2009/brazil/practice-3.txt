@@ -18,4 +18,3 @@
 18,3,Giancarlo Fisichella FIS,Ferrari,1:29.285,+6.103s,4
 19,5,Robert Kubica KUB,Sauber BMW,1:29.895,+6.713s,3
 20,10,Kamui Kobayashi KOB,Toyota,1:30.259,+7.077s,4
-

@@ -20,4 +20,3 @@
 20,14,Fernando Alonso ALO,Ferrari,,,4
 21,6,Nico Rosberg ROS,Mercedes,,,4
 22,44,Lewis Hamilton HAM,Mercedes,,,5
-

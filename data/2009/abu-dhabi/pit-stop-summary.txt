@@ -29,4 +29,3 @@
 2,15,Sebastian Vettel VET,RBR Renault,42,18:15:08,24.247,49.897
 2,22,Jenson Button BUT,Brawn Mercedes,42,18:15:32,22.369,48.787
 2,9,Jarno Trulli TRU,Toyota,42,18:15:48,22.388,47.576
-

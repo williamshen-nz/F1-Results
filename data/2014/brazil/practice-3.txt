@@ -16,4 +16,3 @@
 16,21,Esteban Gutierrez GUT,Sauber Ferrari,1:12.286,+1.840s,24
 17,27,Nico Hulkenberg HUL,Force India Mercedes,1:12.324,+1.878s,17
 18,11,Sergio Perez PER,Force India Mercedes,1:12.942,+2.496s,25
-

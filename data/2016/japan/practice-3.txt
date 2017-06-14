@@ -20,4 +20,3 @@
 20,31,Esteban Ocon OCO,MRT Mercedes,1:35.230,+3.138s,13
 21,94,Pascal Wehrlein WEH,MRT Mercedes,1:37.256,+5.164s,10
 22,55,Carlos Sainz SAI,Toro Rosso Ferrari,1:56.323,+24.231s,3
-

@@ -20,4 +20,3 @@
 20,19,Sebastian Vettel VET,STR Ferrari,1:25.439,+2.993s,25
 21,21,Sakon Yamamoto YAM,Spyker Ferrari,1:25.448,+3.002s,25
 22,18,Vitantonio Liuzzi LIU,STR Ferrari,1:25.762,+3.316s,25
-

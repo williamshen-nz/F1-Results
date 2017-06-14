@@ -18,4 +18,3 @@
 18,4,Kimi Räikkönen RAI,Ferrari,4,1:36.080,192.889
 19,12,Sebastien Buemi BUE,STR Ferrari,24,1:36.279,192.490
 20,11,Sebastien Bourdais BOU,STR Ferrari,10,1:37.498,190.083
-

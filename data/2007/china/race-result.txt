@@ -20,4 +20,3 @@ NC,2,Lewis Hamilton HAM,McLaren Mercedes,30,DNF,0
 NC,11,Ralf Schumacher RSC,Toyota,25,DNF,0
 NC,20,Adrian Sutil SUT,Spyker Ferrari,24,DNF,0
 NC,23,Anthony Davidson DAV,Super Aguri Honda,11,DNF,0
-

@@ -24,4 +24,3 @@
 2,25,Lucas di Grassi DIG,Virgin Cosworth,41,21:28:05,32.496,1:06.335
 2,11,Robert Kubica KUB,Renault,45,21:32:48,31.814,1:02.255
 2,16,Sebastien Buemi BUE,STR Ferrari,52,21:46:24,32.989,1:05.127
-

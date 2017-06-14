@@ -18,4 +18,3 @@
 18,21,Giancarlo Fisichella FIS,Force India Mercedes,1:32.402
 19,10,Timo Glock GLO,Toyota,1:32.423
 20,11,Sebastien Bourdais BOU,STR Ferrari,1:33.559
-

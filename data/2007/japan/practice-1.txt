@@ -20,4 +20,3 @@
 20,19,Sebastian Vettel VET,STR Ferrari,1:21.854,+2.735s,18
 21,14,David Coulthard COU,Red Bull Renault,1:22.436,+3.317s,18
 22,21,Sakon Yamamoto YAM,Spyker Ferrari,1:22.902,+3.783s,17
-

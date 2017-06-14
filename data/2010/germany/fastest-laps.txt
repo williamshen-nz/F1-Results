@@ -21,4 +21,3 @@
 21,21,Bruno Senna SEN,HRT Cosworth,57,1:20.861,203.638
 22,20,Sakon Yamamoto YAM,HRT Cosworth,16,1:23.541,197.105
 23,18,Jarno Trulli TRU,Lotus Cosworth,2,2:14.452,122.470
-

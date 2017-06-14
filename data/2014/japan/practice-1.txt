@@ -20,4 +20,3 @@
 20,45,Roberto Merhi MER,Caterham Renault,1:41.472,+6.011s,24
 21,17,Jules Bianchi BIA,Marussia Ferrari,1:41.580,+6.119s,10
 22,4,Max Chilton CHI,Marussia Ferrari,1:41.757,+6.296s,15
-

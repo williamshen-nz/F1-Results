@@ -20,4 +20,3 @@
 20,4,Max Chilton CHI,Marussia Ferrari,1:41.794,+4.292s,20
 21,46,Robin Frijns FRI,Caterham Renault,1:42.417,+4.915s,35
 22,9,Marcus Ericsson ERI,Caterham Renault,1:42.711,+5.209s,21
-

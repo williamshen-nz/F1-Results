@@ -20,4 +20,3 @@
 20,22,Takuma Sato SAT,Super Aguri Honda,1:33.666
 21,18,Tiago Monteiro MON,MF1 Toyota,1:33.709
 22,23,Sakon Yamamoto YAM,Super Aguri Honda,
-

@@ -18,4 +18,3 @@ NC,8,Romain Grosjean GRO,Lotus Mercedes,0,DNF,0
 NC,13,Pastor Maldonado MAL,Lotus Mercedes,0,DNF,0
 NC,22,Jenson Button BUT,McLaren Honda,0,DNF,0
 NC,12,Felipe Nasr NAS,Sauber Ferrari,0,DNS,0
-

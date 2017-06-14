@@ -22,4 +22,3 @@
 22,24,Timo Glock GLO,Virgin Cosworth,1:55.549,+5.582s,10
 23,22,Daniel Ricciardo RIC,HRT Cosworth,1:55.828,+5.861s,10
 24,23,Vitantonio Liuzzi LIU,HRT Cosworth,1:56.037,+6.070s,6
-

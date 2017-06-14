@@ -19,4 +19,3 @@
 19,20,Charles Pic PIC,Caterham Renault,55,1:32.261,206.921
 20,21,Giedo van der Garde VDG,Caterham Renault,39,1:32.636,206.084
 21,16,Pastor Maldonado MAL,Williams Renault,12,1:32.915,205.465
-

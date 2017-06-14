@@ -18,4 +18,3 @@
 18,12,Felipe Nasr NAS,Sauber Ferrari,1:24.997,,,8
 19,98,Roberto Merhi MER,Marussia Ferrari,1:27.416,,,8
 20,28,Will Stevens STE,Marussia Ferrari,1:27.949,,,6
-

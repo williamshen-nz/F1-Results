@@ -22,4 +22,3 @@ NC,23,Narain Karthikeyan KAR,HRT Cosworth,32,DNF,0
 NC,15,Sergio Perez PER,Sauber Ferrari,18,DNF,0
 NC,5,Fernando Alonso ALO,Ferrari,0,DNF,0
 NC,8,Nico Rosberg ROS,Mercedes,0,DNF,0
-

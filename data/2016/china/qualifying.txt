@@ -21,5 +21,4 @@
 NC,94,Pascal Wehrlein WEH,MRT-Mercedes,DNF,,,2
 NC,44,Lewis Hamilton HAM,Mercedes,DNF,,,3
 Q1 107% time - 1:43.791
-
 Note - Wehrlein and Hamilton failed to set qualifying times within the Q1 107% requirement - race at the stewards' discretion.

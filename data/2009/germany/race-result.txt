@@ -18,4 +18,3 @@
 18,1,Lewis Hamilton HAM,McLaren Mercedes,59,+1 lap,0
 NC,4,Kimi Räikkönen RAI,Ferrari,34,DNF,0
 NC,11,Sebastien Bourdais BOU,STR Ferrari,18,DNF,0
-

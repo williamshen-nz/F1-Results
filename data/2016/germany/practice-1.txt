@@ -20,4 +20,3 @@
 20,45,Esteban Ocon OCO,Renault,1:18.981,+3.464s,30
 21,88,Rio Haryanto HAR,MRT Mercedes,1:19.167,+3.650s,34
 22,94,Pascal Wehrlein WEH,MRT Mercedes,1:19.975,+4.458s,33
-

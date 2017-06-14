@@ -18,4 +18,3 @@
 18,22,Takuma Sato SAT,Super Aguri Honda,23,1:36.359,202.193
 19,20,Adrian Sutil SUT,Spyker Ferrari,45,1:36.772,201.330
 20,21,Christijan Albers ALB,Spyker Ferrari,40,1:37.184,200.477
-

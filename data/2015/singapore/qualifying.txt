@@ -18,4 +18,3 @@
 18,13,Pastor Maldonado MAL,Lotus Mercedes,1:47.323,,,6
 19,28,Will Stevens STE,Marussia Ferrari,1:51.021,,,8
 20,53,Alexander Rossi RSI,Marussia Ferrari,1:51.523,,,8
-

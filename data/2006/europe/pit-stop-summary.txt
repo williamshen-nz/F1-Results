@@ -35,4 +35,3 @@
 2,16,Nick Heidfeld HEI,Sauber BMW,45,15:17:10,23.546,48.169
 2,4,Juan Pablo Montoya MOY,McLaren Mercedes,48,15:21:35,24.857,50.548
 2,10,Nico Rosberg ROS,Williams Cosworth,49,15:23:10,23.175,46.676
-

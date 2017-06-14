@@ -37,4 +37,3 @@
 2,16,Nick Heidfeld HEI,Sauber BMW,50,15:10:06,21.449,44.606
 2,15,Christian Klien KLI,RBR Ferrari,50,15:10:41,22.288,45.913
 2,14,David Coulthard COU,RBR Ferrari,53,15:14:52,21.187,44.859
-

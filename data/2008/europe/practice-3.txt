@@ -18,4 +18,3 @@
 18,21,Giancarlo Fisichella FIS,Force India Ferrari,1:40.059,+1.305s,21
 19,17,Rubens Barrichello BAR,Honda,1:40.512,+1.758s,20
 20,11,Jarno Trulli TRU,Toyota,,,2
-

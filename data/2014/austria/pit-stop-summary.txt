@@ -39,4 +39,3 @@
 2,11,Sergio Perez PER,Force India Mercedes,55,15:11:39,21.960,45.730
 2,13,Pastor Maldonado MAL,Lotus Renault,56,15:13:32,22.612,45.955
 2,22,Jenson Button BUT,McLaren Mercedes,58,15:15:32,21.242,42.747
-

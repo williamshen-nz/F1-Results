@@ -20,4 +20,3 @@
 20,30,Jolyon Palmer PAL,Renault,1:24.230,,,9
 21,20,Kevin Magnussen MAG,Renault,1:24.436,,,9
 NC,31,Esteban Ocon OCO,MRT Mercedes,DNF,,,2
-

@@ -25,4 +25,3 @@
 25,21,Scott Speed SPE,STR Cosworth,1:19.232,+3.007s,12
 26,22,Takuma Sato SAT,Super Aguri Honda,1:19.365,+3.140s,8
 27,23,Sakon Yamamoto YAM,Super Aguri Honda,,,2
-

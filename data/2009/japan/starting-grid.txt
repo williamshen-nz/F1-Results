@@ -16,4 +16,3 @@
 16,7,Fernando Alonso ALO,Renault,1:31.638
 17,8,Romain Grosjean GRO,Renault,1:32.073
 18,21,Vitantonio Liuzzi LIU,Force India Mercedes,1:32.087
-

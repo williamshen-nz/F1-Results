@@ -18,4 +18,3 @@
 18,53,Alexander Rossi RSI,Marussia Ferrari,51,+2 laps,0
 19,28,Will Stevens STE,Marussia Ferrari,50,+3 laps,0
 20,12,Felipe Nasr NAS,Sauber Ferrari,49,DNF,0
-

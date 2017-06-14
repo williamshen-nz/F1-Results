@@ -14,4 +14,3 @@
 14,7,Fernando Alonso ALO,Renault,23,1:48.634,232.104
 15,3,Luca Badoer BAD,Ferrari,41,1:49.803,229.633
 16,9,Jarno Trulli TRU,Toyota,16,1:50.029,229.161
-

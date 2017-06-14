@@ -17,4 +17,3 @@
 17,18,Vitantonio Liuzzi LIU,STR Ferrari,64,1:15.426,200.079
 18,21,Christijan Albers ALB,Spyker Ferrari,65,1:15.902,198.824
 19,22,Takuma Sato SAT,Super Aguri Honda,8,1:16.680,196.807
-

@@ -20,4 +20,3 @@
 20,20,Adrian Sutil SUT,Spyker Ferrari,13,1:15.202,206.276
 21,21,Sakon Yamamoto YAM,Spyker Ferrari,2,1:50.404,140.505
 22,3,Giancarlo Fisichella FIS,Renault,2,2:02.680,126.446
-

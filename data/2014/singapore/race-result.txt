@@ -20,4 +20,3 @@ NC,99,Adrian Sutil SUT,Sauber Ferrari,40,DNF,0
 NC,21,Esteban Gutierrez GUT,Sauber Ferrari,17,DNF,0
 NC,6,Nico Rosberg ROS,Mercedes,13,DNF,0
 NC,10,Kamui Kobayashi KOB,Caterham Renault,,DNS,0
-

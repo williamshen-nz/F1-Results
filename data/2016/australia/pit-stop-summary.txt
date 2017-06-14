@@ -43,4 +43,3 @@
 3,94,Pascal Wehrlein WEH,MRT-Mercedes,32,17:18:12,23.895,18:52.241
 3,5,Sebastian Vettel VET,Ferrari,35,17:21:50,24.548,18:55.199
 3,3,Daniel Ricciardo RIC,Red Bull Racing TAG Heuer,42,17:32:47,21.981,18:54.048
-

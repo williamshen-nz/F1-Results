@@ -56,4 +56,3 @@
 3,20,Heikki Kovalainen KOV,Caterham Renault,56,15:30:55,20.567,1:03.202
 3,1,Sebastian Vettel VET,Red Bull Racing Renault,58,15:31:43,18.964,57.675
 4,17,Jean-Eric Vergne VER,STR Ferrari,64,15:42:01,19.600,1:19.465
-

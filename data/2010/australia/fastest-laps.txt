@@ -18,4 +18,3 @@
 18,12,Vitaly Petrov PET,Renault,6,1:43.132,185.110
 19,14,Adrian Sutil SUT,Force India Mercedes,6,1:43.223,184.947
 20,21,Bruno Senna SEN,HRT Cosworth,4,2:27.276,129.626
-

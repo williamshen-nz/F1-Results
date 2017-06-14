@@ -77,4 +77,3 @@
 5,16,Pastor Maldonado MAL,Williams Renault,53,15:25:17,19.723,1:37.133
 6,11,Nico Hulkenberg HUL,Sauber Ferrari,53,15:25:37,20.314,2:15.005
 4,12,Esteban Gutierrez GUT,Sauber Ferrari,54,15:26:28,19.324,1:21.538
-

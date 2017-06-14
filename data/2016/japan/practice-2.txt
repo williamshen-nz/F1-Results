@@ -20,4 +20,3 @@
 20,94,Pascal Wehrlein WEH,MRT Mercedes,1:35.292,+3.042s,30
 21,31,Esteban Ocon OCO,MRT Mercedes,1:35.400,+3.150s,37
 22,9,Marcus Ericsson ERI,Sauber Ferrari,1:36.318,+4.068s,26
-

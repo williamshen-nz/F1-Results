@@ -19,4 +19,3 @@ NC,16,Jenson Button BUT,Honda,0,DNF,0
 NC,10,Mark Webber WEB,Red Bull Renault,0,DNF,0
 NC,21,Giancarlo Fisichella FIS,Force India Ferrari,0,DNF,0
 NC,19,Anthony Davidson DAV,Super Aguri Honda,0,DNF,0
-

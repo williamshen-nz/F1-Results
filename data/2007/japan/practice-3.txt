@@ -19,4 +19,3 @@
 19,8,Rubens Barrichello BAR,Honda,,,2
 20,2,Lewis Hamilton HAM,McLaren Mercedes,,,1
 21,5,Felipe Massa MAS,Ferrari,,,1
-

@@ -40,4 +40,3 @@
 2,24,Timo Glock GLO,Virgin Cosworth,44,18:24:59,20.561,42.353
 2,8,Nico Rosberg ROS,Mercedes,48,18:29:04,19.907,39.692
 3,2,Mark Webber WEB,Red Bull Racing Renault,54,18:39:14,19.525,1:04.707
-

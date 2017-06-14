@@ -17,4 +17,3 @@
 17,20,Adrian Sutil SUT,Force India Ferrari,1:19.108,,,12
 18,21,Giancarlo Fisichella FIS,Force India Ferrari,1:19.165,,,12
 19,16,Jenson Button BUT,Honda,1:23.565,,,3
-

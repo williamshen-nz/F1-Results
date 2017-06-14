@@ -18,4 +18,3 @@
 18,21,Giancarlo Fisichella FIS,Force India Ferrari,69,+1 lap,0
 19,20,Adrian Sutil SUT,Force India Ferrari,69,+1 lap,0
 NC,16,Jenson Button BUT,Honda,16,DNF,0
-

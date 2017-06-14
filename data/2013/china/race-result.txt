@@ -20,4 +20,3 @@ NC,9,Nico Rosberg ROS,Mercedes,21,DNF,0
 NC,2,Mark Webber WEB,Red Bull Racing Renault,15,DNF,0
 NC,15,Adrian Sutil SUT,Force India Mercedes,5,DNF,0
 NC,12,Esteban Gutierrez GUT,Sauber Ferrari,4,DNF,0
-

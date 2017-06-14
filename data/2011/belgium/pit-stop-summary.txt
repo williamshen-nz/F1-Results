@@ -50,4 +50,3 @@
 4,24,Timo Glock GLO,Virgin Cosworth,35,15:15:37,21.721,1:34.931
 2,25,Jerome d'Ambrosio DAM,Virgin Cosworth,36,15:17:29,22.114,45.053
 3,11,Rubens Barrichello BAR,Williams Cosworth,40,15:24:23,47.753,1:31.049
-

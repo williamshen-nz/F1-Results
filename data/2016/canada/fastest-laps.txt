@@ -20,4 +20,3 @@
 20,88,Rio Haryanto HAR,MRT Mercedes,57,15:21:03,1:18.658,199.593
 21,22,Jenson Button BUT,McLaren Honda,5,14:10:16,1:19.456,197.588
 22,30,Jolyon Palmer PAL,Renault,6,14:11:43,1:19.879,196.542
-

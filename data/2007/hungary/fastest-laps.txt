@@ -20,4 +20,3 @@
 20,18,Vitantonio Liuzzi LIU,STR Ferrari,35,1:22.410,191.379
 21,7,Jenson Button BUT,Honda,25,1:22.906,190.234
 22,21,Sakon Yamamoto YAM,Spyker Ferrari,4,1:26.741,181.824
-

@@ -39,4 +39,3 @@
 2,8,Kazuki Nakajima NAK,Williams Toyota,42,15:24:16,36.578,1:05.250
 2,16,Jenson Button BUT,Honda,42,15:24:34,28.341,58.329
 3,5,Fernando Alonso ALO,Renault,43,15:24:46,29.612,1:26.687
-

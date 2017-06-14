@@ -20,4 +20,3 @@
 20,18,Tiago Monteiro MON,MF1 Toyota,27,1:35.260,219.454
 21,23,Sakon Yamamoto YAM,Super Aguri Honda,22,1:35.594,218.687
 22,19,Christijan Albers ALB,MF1 Toyota,19,1:36.036,217.680
-

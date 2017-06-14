@@ -20,4 +20,3 @@
 20,20,Charles Pic PIC,Caterham Renault,1:39.614
 21,21,Giedo van der Garde VDG,Caterham Renault,1:39.660
 22,2,Mark Webber WEB,Red Bull Racing Renault,
-

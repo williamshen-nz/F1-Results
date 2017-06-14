@@ -19,4 +19,3 @@
 19,21,Esteban Gutierrez GUT,Haas Ferrari,4,16:13:55,1:32.998,205.281
 20,88,Rio Haryanto HAR,MRT-Mercedes,15,16:31:45,1:33.847,203.424
 21,9,Marcus Ericsson ERI,Sauber Ferrari,15,16:31:32,1:33.892,203.327
-

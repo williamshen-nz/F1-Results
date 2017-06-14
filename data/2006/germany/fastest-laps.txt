@@ -18,4 +18,3 @@
 18,16,Nick Heidfeld HEI,Sauber BMW,3,1:19.264,207.741
 19,22,Takuma Sato SAT,Super Aguri Honda,26,1:19.413,207.351
 20,4,Pedro de la Rosa DLR,McLaren Mercedes,2,1:19.649,206.737
-

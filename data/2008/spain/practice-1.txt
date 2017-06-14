@@ -20,4 +20,3 @@
 20,15,Sebastian Vettel VET,STR Ferrari,1:24.082,+3.433s,15
 21,18,Takuma Sato SAT,Super Aguri Honda,1:24.278,+3.629s,14
 22,19,Anthony Davidson DAV,Super Aguri Honda,1:25.068,+4.419s,10
-

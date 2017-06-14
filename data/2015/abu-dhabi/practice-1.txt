@@ -18,4 +18,3 @@
 18,30,Jolyon Palmer PAL,Lotus Mercedes,1:46.501,+2.747s,9
 19,28,Will Stevens STE,Marussia Ferrari,1:48.836,+5.082s,19
 20,98,Roberto Merhi MER,Marussia Ferrari,1:49.888,+6.134s,20
-

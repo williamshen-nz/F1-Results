@@ -20,4 +20,3 @@
 20,20,Kevin Magnussen MAG,Renault,4,17:11:29,1:48.601,184.108
 21,26,Daniil Kvyat KVY,Toro Rosso Ferrari,13,17:27:47,1:48.752,183.853
 22,22,Jenson Button BUT,McLaren Honda,4,17:10:57,1:48.753,183.851
-

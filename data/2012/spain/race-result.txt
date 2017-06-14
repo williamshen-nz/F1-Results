@@ -22,4 +22,3 @@ NC,25,Charles Pic PIC,Marussia Cosworth,35,DNF,0
 NC,23,Narain Karthikeyan KAR,HRT Cosworth,22,DNF,0
 NC,19,Bruno Senna SEN,Williams Renault,12,DNF,0
 NC,7,Michael Schumacher MSC,Mercedes,12,DNF,0
-

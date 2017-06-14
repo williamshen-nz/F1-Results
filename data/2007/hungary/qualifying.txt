@@ -20,4 +20,3 @@
 20,19,Sebastian Vettel VET,STR Ferrari,1:22.177,,,7
 21,20,Adrian Sutil SUT,Spyker Ferrari,1:22.737,,,9
 22,21,Sakon Yamamoto YAM,Spyker Ferrari,1:23.774,,,7
-

@@ -19,4 +19,3 @@
 19,4,Max Chilton CHI,Marussia Ferrari,50,15:16:25,1:23.035,198.306
 20,9,Marcus Ericsson ERI,Caterham Renault,49,15:15:16,1:23.230,197.842
 21,8,Romain Grosjean GRO,Lotus Renault,26,14:41:31,1:24.137,195.709
-

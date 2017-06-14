@@ -20,4 +20,3 @@
 20,21,Sakon Yamamoto YAM,Spyker Ferrari,52,+1 lap,0
 NC,5,Felipe Massa MAS,Ferrari,10,DNF,0
 NC,14,David Coulthard COU,Red Bull Renault,1,DNF,0
-

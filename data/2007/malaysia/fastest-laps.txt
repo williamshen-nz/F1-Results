@@ -19,4 +19,3 @@
 19,11,Ralf Schumacher RSC,Toyota,52,1:39.243,201.070
 20,23,Anthony Davidson DAV,Super Aguri Honda,32,1:39.566,200.417
 21,21,Christijan Albers ALB,Spyker Ferrari,5,1:41.495,196.608
-

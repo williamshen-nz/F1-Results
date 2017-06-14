@@ -54,4 +54,3 @@
 3,17,Jean-Eric Vergne VER,STR Ferrari,41,16:15:32,22.531,1:08.989
 3,25,Charles Pic PIC,Marussia Cosworth,48,16:28:45,13.981,59.866
 4,20,Heikki Kovalainen KOV,Caterham Renault,47,16:29:43,1:25.796,2:48.863
-

@@ -20,4 +20,3 @@
 20,10,Kamui Kobayashi KOB,Caterham Renault,1:14.611,+3.316s,24
 21,99,Adrian Sutil SUT,Sauber Ferrari,1:14.691,+3.396s,9
 22,9,Marcus Ericsson ERI,Caterham Renault,1:17.501,+6.206s,8
-

@@ -20,4 +20,3 @@
 20,18,Tiago Monteiro MON,MF1 Toyota,1:17.836,,,6
 21,23,Sakon Yamamoto YAM,Super Aguri Honda,1:20.444,,,5
 22,21,Scott Speed SPE,STR Cosworth,DNF,,,2
-

@@ -22,4 +22,3 @@ NC,25,Jerome d'Ambrosio DAM,Virgin Cosworth,2:11.601,,,9
 NC,23,Vitantonio Liuzzi LIU,HRT Cosworth,2:11.616,,,9
 NC,22,Daniel Ricciardo RIC,HRT Cosworth,2:13.077,,,9
 NC,7,Michael Schumacher MSC,Mercedes,DNS,,,1
-

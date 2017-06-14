@@ -20,4 +20,3 @@
 20,94,Pascal Wehrlein WEH,MRT Mercedes,1:38.548
 21,12,Felipe Nasr NAS,Sauber Ferrari,1:38.583
 22,31,Esteban Ocon OCO,MRT Mercedes,1:38.806
-

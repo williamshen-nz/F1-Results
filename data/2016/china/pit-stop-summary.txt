@@ -64,4 +64,3 @@
 3,22,Jenson Button BUT,McLaren Honda,44,15:23:28,22.510,1:09.611
 4,8,Romain Grosjean GRO,Haas Ferrari,44,15:24:06,23.284,2:09.804
 4,27,Nico Hulkenberg HUL,Force India Mercedes,46,15:27:09,22.790,1:43.910
-

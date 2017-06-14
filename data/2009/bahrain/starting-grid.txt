@@ -18,4 +18,3 @@
 18,14,Mark Webber WEB,RBR Renault,1:34.038
 19,20,Adrian Sutil SUT,Force India Mercedes,1:33.722
 20,11,Sebastien Bourdais BOU,STR Ferrari,1:34.159
-

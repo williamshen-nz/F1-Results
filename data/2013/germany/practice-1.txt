@@ -20,4 +20,3 @@
 20,21,Giedo van der Garde VDG,Caterham Renault,1:36.078,+4.324s,23
 21,22,Rodolfo Gonzalez GON,Marussia Cosworth,1:37.459,+5.705s,21
 22,3,Fernando Alonso ALO,Ferrari,,,2
-

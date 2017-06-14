@@ -26,4 +26,3 @@
 2,2,Lewis Hamilton HAM,McLaren Mercedes,34,18:01:19,24.027,52.975
 2,20,Karun Chandhok CHD,HRT Cosworth,46,18:25:25,26.768,54.294
 3,6,Mark Webber WEB,RBR Renault,56,18:34:53,29.584,1:17.087
-

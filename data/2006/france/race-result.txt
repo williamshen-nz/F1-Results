@@ -20,4 +20,3 @@ NC,8,Jarno Trulli TRU,Toyota,39,DNF,0
 NC,11,Rubens Barrichello BAR,Honda,18,DNF,0
 NC,18,Tiago Monteiro MON,MF1 Toyota,11,DNF,0
 NC,22,Takuma Sato SAT,Super Aguri Honda,0,DNF,0
-

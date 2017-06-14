@@ -22,4 +22,3 @@
 22,22,Daniel Ricciardo RIC,HRT Cosworth,1:26.479
 23,18,Sebastien Buemi BUE,STR Ferrari,1:24.070
 24,25,Jerome d'Ambrosio DAM,Virgin Cosworth,1:26.510
-

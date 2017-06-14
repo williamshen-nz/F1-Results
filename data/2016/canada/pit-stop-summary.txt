@@ -34,4 +34,3 @@
 2,55,Carlos Sainz SAI,Toro Rosso Ferrari,48,15:07:17,24.445,47.962
 2,6,Nico Rosberg ROS,Mercedes,51,15:10:35,22.728,45.194
 2,27,Nico Hulkenberg HUL,Force India Mercedes,51,15:11:06,23.111,45.987
-

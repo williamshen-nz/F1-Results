@@ -20,4 +20,3 @@
 20,11,Ralf Schumacher RSC,Toyota,25,1:44.062,188.576
 21,20,Adrian Sutil SUT,Spyker Ferrari,22,1:47.603,182.370
 22,23,Anthony Davidson DAV,Super Aguri Honda,9,1:51.765,175.579
-

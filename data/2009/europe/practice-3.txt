@@ -18,4 +18,3 @@
 18,15,Sebastian Vettel VET,RBR Renault,1:40.916,+1.773s,6
 19,11,Jaime Alguersuari ALG,STR Ferrari,1:41.125,+1.982s,12
 20,3,Luca Badoer BAD,Ferrari,1:42.198,+3.055s,14
-

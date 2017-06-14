@@ -17,4 +17,3 @@
 17,19,Felipe Massa MAS,Williams Mercedes,1:17.886,,,9
 18,98,Roberto Merhi MER,Marussia Ferrari,1:19.133,,,11
 19,28,Will Stevens STE,Marussia Ferrari,1:19.157,,,10
-

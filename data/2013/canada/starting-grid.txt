@@ -20,4 +20,3 @@
 20,23,Max Chilton CHI,Marussia Cosworth,1:27.062
 21,21,Giedo van der Garde VDG,Caterham Renault,1:27.110
 22,8,Romain Grosjean GRO,Lotus Renault,1:25.716
-

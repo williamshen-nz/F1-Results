@@ -20,4 +20,3 @@ NC,7,Jenson Button BUT,Honda,20,DNF,0
 NC,15,Mark Webber WEB,Red Bull Renault,14,DNF,0
 NC,21,Sakon Yamamoto YAM,Spyker Ferrari,2,DNF,0
 NC,3,Giancarlo Fisichella FIS,Renault,2,DNF,0
-

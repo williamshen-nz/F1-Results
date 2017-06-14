@@ -65,4 +65,3 @@
 3,24,Timo Glock GLO,Marussia Cosworth,47,15:16:42,20.669,1:02.653
 3,10,Romain Grosjean GRO,Lotus Renault,51,15:20:41,21.035,1:02.473
 4,22,Pedro de la Rosa DLR,HRT Cosworth,51,15:24:24,21.471,1:27.424
-

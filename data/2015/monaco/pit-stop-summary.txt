@@ -29,4 +29,3 @@
 2,12,Felipe Nasr NAS,Sauber Ferrari,64,15:30:55,26.420,52.152
 2,3,Daniel Ricciardo RIC,Red Bull Racing Renault,65,15:31:26,24.244,48.745
 3,9,Marcus Ericsson ERI,Sauber Ferrari,69,15:40:15,25.234,1:16.250
-

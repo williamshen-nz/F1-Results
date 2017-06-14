@@ -18,4 +18,3 @@
 18,14,Fernando Alonso ALO,McLaren Honda,1:39.280
 19,28,Will Stevens STE,Marussia Ferrari,1:42.091
 20,98,Roberto Merhi MER,Marussia Ferrari,1:42.842
-

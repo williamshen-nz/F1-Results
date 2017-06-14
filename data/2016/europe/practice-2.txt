@@ -20,4 +20,3 @@
 20,30,Jolyon Palmer PAL,Renault,1:47.794,+3.571s,35
 21,94,Pascal Wehrlein WEH,MRT Mercedes,1:48.018,+3.795s,36
 22,12,Felipe Nasr NAS,Sauber Ferrari,1:48.081,+3.858s,38
-

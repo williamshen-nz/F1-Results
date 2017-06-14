@@ -27,4 +27,3 @@
 2,21,Bruno Senna SEN,HRT Cosworth,37,15:12:57,40.482,1:03.436
 1,25,Lucas di Grassi DIG,Virgin Cosworth,42,15:21:04,21.946,21.946
 1,23,Kamui Kobayashi KOB,Sauber Ferrari,53,15:37:42,21.584,21.584
-

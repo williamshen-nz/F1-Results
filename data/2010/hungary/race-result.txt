@@ -22,4 +22,3 @@ NC,11,Robert Kubica KUB,Renault,23,DNF,0
 NC,4,Nico Rosberg ROS,Mercedes,15,DNF,0
 NC,14,Adrian Sutil SUT,Force India Mercedes,15,DNF,0
 NC,17,Jaime Alguersuari ALG,STR Ferrari,1,DNF,0
-

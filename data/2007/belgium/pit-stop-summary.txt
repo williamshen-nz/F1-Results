@@ -32,4 +32,3 @@
 2,22,Takuma Sato SAT,Super Aguri Honda,33,15:06:28,25.777,52.385
 2,9,Nick Heidfeld HEI,Sauber BMW,34,15:06:56,26.276,53.564
 2,2,Lewis Hamilton HAM,McLaren Mercedes,37,15:12:05,26.032,55.410
-

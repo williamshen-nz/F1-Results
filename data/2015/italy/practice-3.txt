@@ -18,4 +18,3 @@
 18,55,Carlos Sainz SAI,STR Renault,1:28.628,+4.084s,23
 19,98,Roberto Merhi MER,Marussia Ferrari,1:29.117,+4.573s,11
 20,3,Daniel Ricciardo RIC,Red Bull Racing Renault,1:29.900,+5.356s,7
-

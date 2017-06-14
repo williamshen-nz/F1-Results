@@ -33,4 +33,3 @@
 2,11,Rubens Barrichello BAR,Honda,38,15:11:43,20.396,40.063
 2,14,David Coulthard COU,RBR Ferrari,38,15:11:44,19.899,40.424
 3,22,Takuma Sato SAT,Super Aguri Honda,47,15:29:20,19.486,1:04.528
-

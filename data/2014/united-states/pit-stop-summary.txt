@@ -34,4 +34,3 @@
 4,1,Sebastian Vettel VET,Red Bull Racing Renault,48,15:31:17,23.948,1:35.882
 3,26,Daniil Kvyat KVY,STR Renault,51,15:36:52,26.541,1:15.725
 3,7,Kimi Räikkönen RAI,Ferrari,52,15:38:29,24.226,1:12.229
-

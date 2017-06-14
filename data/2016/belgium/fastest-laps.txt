@@ -17,4 +17,3 @@
 17,12,Felipe Nasr NAS,Sauber Ferrari,31,15:25:19,1:56.152,217.081
 18,20,Kevin Magnussen MAG,Renault,4,14:11:52,1:56.588,216.269
 19,9,Marcus Ericsson ERI,Sauber Ferrari,2,14:08:06,2:15.255,186.421
-

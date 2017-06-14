@@ -22,4 +22,3 @@
 22,22,Pedro de la Rosa DLR,HRT Cosworth,51,1:30.398,230.699
 23,23,Narain Karthikeyan KAR,HRT Cosworth,44,1:31.086,228.957
 24,17,Jean-Eric Vergne VER,STR Ferrari,6,1:31.962,226.776
-

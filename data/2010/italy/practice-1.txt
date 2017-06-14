@@ -22,4 +22,3 @@
 22,21,Bruno Senna SEN,HRT Cosworth,1:28.256,+4.563s,8
 23,9,Rubens Barrichello BAR,Williams Cosworth,1:28.516,+4.823s,4
 24,20,Sakon Yamamoto YAM,HRT Cosworth,1:29.870,+6.177s,17
-

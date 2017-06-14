@@ -40,4 +40,3 @@
 2,15,Mark Webber WEB,Red Bull Renault,54,14:23:43,27.663,58.154
 4,12,Jarno Trulli TRU,Toyota,58,14:30:41,27.693,1:51.854
 2,8,Rubens Barrichello BAR,Honda,63,14:38:39,27.460,55.940
-

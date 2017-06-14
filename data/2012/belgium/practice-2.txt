@@ -16,4 +16,3 @@
 16,3,Jenson Button BUT,McLaren Mercedes,,,2
 17,6,Felipe Massa MAS,Ferrari,,,2
 18,19,Bruno Senna SEN,Williams Renault,,,3
-

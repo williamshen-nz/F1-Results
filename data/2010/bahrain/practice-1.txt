@@ -21,4 +21,3 @@
 21,18,Jarno Trulli TRU,Lotus Cosworth,2:03.970,+7.387s,15
 22,25,Lucas di Grassi DIG,Virgin Cosworth,,,2
 23,21,Bruno Senna SEN,HRT Cosworth,,,3
-

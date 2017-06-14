@@ -18,4 +18,3 @@
 18,21,Giancarlo Fisichella FIS,Force India Mercedes,37,1:56.239,168.821
 19,3,Felipe Massa MAS,Ferrari,16,1:56.484,168.466
 20,9,Jarno Trulli TRU,Toyota,14,2:00.330,163.081
-

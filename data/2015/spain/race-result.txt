@@ -18,4 +18,3 @@
 18,98,Roberto Merhi MER,Marussia Ferrari,62,+4 laps,0
 NC,13,Pastor Maldonado MAL,Lotus Mercedes,45,DNF,0
 NC,14,Fernando Alonso ALO,McLaren Honda,26,DNF,0
-

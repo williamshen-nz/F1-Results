@@ -22,4 +22,3 @@
 2,1,Sebastian Vettel VET,Red Bull Racing Renault,33,14:59:34,28.787,57.345
 2,26,Daniil Kvyat KVY,STR Renault,35,15:03:28,28.575,57.275
 2,44,Lewis Hamilton HAM,Mercedes,41,15:12:01,29.291,58.970
-

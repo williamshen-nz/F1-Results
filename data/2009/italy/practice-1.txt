@@ -18,4 +18,3 @@
 18,15,Sebastian Vettel VET,RBR Renault,1:25.951,+2.015s,8
 19,9,Jarno Trulli TRU,Toyota,1:26.020,+2.084s,23
 20,10,Timo Glock GLO,Toyota,1:26.325,+2.389s,17
-

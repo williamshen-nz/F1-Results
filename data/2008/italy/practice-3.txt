@@ -18,4 +18,3 @@
 18,1,Kimi Räikkönen RAI,Ferrari,1:41.164,+5.700s,3
 19,23,Heikki Kovalainen KOV,McLaren Mercedes,1:42.683,+7.219s,6
 20,22,Lewis Hamilton HAM,McLaren Mercedes,1:46.325,+10.861s,8
-

@@ -20,4 +20,3 @@
 20,42,Alexander Rossi RSI,Marussia Ferrari,1:57.232,+5.655s,20
 21,45,Andre Lotterer LOT,Caterham Renault,1:57.886,+6.309s,24
 22,9,Marcus Ericsson ERI,Caterham Renault,1:57.977,+6.400s,24
-

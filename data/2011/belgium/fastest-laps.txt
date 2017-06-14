@@ -21,4 +21,3 @@
 21,18,Sebastien Buemi BUE,STR Ferrari,4,1:56.790,215.895
 22,23,Vitantonio Liuzzi LIU,HRT Cosworth,42,1:58.061,213.570
 23,22,Daniel Ricciardo RIC,HRT Cosworth,10,1:59.831,210.416
-

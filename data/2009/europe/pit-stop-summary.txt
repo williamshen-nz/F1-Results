@@ -39,4 +39,3 @@
 2,6,Nick Heidfeld HEI,Sauber BMW,43,15:16:28,18.505,39.254
 3,3,Luca Badoer BAD,Ferrari,43,15:18:12,19.507,47.709
 3,10,Timo Glock GLO,Toyota,49,15:27:12,16.941,1:00.235
-

@@ -18,4 +18,3 @@
 18,10,Kamui Kobayashi KOB,Caterham Renault,1:47.971,+4.495s,24
 19,37,Adderly Fong FON,Sauber Ferrari,1:48.269,+4.793s,25
 20,46,Will Stevens STE,Caterham Renault,1:50.684,+7.208s,14
-

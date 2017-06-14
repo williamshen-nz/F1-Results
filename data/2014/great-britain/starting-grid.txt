@@ -20,4 +20,3 @@
 20,13,Pastor Maldonado MAL,Lotus Renault,
 21,9,Marcus Ericsson ERI,Caterham Renault,1:49.421
 22,10,Kamui Kobayashi KOB,Caterham Renault,1:49.625
-

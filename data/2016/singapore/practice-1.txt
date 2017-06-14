@@ -20,4 +20,3 @@
 20,9,Marcus Ericsson ERI,Sauber Ferrari,1:51.479,+5.656s,16
 21,31,Esteban Ocon OCO,MRT Mercedes,1:52.379,+6.556s,33
 22,8,Romain Grosjean GRO,Haas Ferrari,,,2
-

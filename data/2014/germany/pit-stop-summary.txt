@@ -53,4 +53,3 @@
 3,7,Kimi Räikkönen RAI,Ferrari,53,15:19:04,19.740,59.344
 3,14,Fernando Alonso ALO,Ferrari,55,15:21:01,19.308,57.514
 3,22,Jenson Button BUT,McLaren Mercedes,61,15:29:41,19.221,1:00.741
-

@@ -15,4 +15,3 @@
 15,3,Giancarlo Fisichella FIS,Ferrari,1:49.553,+2.292s,5
 16,16,Nico Rosberg ROS,Williams Toyota,1:49.872,+2.611s,8
 17,6,Nick Heidfeld HEI,Sauber BMW,1:50.179,+2.918s,10
-

@@ -26,4 +26,3 @@
 26,18,Tiago Monteiro MON,MF1 Toyota,1:39.416,+4.375s,20
 27,22,Takuma Sato SAT,Super Aguri Honda,1:41.549,+6.508s,22
 28,23,Yuji Ide IDE,Super Aguri Honda,1:43.164,+8.123s,16
-

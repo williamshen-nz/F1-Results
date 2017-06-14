@@ -20,4 +20,3 @@
 20,21,Giedo van der Garde VDG,Caterham Renault,1:40.563,+3.258s,35
 21,23,Max Chilton CHI,Marussia Cosworth,1:46.226,+8.921s,31
 22,22,Jules Bianchi BIA,Marussia Cosworth,1:47.009,+9.704s,20
-

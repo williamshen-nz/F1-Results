@@ -37,4 +37,3 @@
 2,21,Giancarlo Fisichella FIS,Force India Ferrari,54,15:15:06,25.161,50.032
 2,17,Rubens Barrichello BAR,Honda,56,15:17:35,23.550,48.317
 2,8,Kazuki Nakajima NAK,Williams Toyota,58,15:20:16,24.545,49.495
-

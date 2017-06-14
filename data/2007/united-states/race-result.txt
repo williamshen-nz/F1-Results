@@ -20,4 +20,3 @@ NC,22,Takuma Sato SAT,Super Aguri Honda,13,DNF,0
 NC,14,David Coulthard COU,Red Bull Renault,0,DNF,0
 NC,11,Ralf Schumacher RSC,Toyota,0,DNF,0
 NC,8,Rubens Barrichello BAR,Honda,0,DNF,0
-

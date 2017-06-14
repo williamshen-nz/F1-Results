@@ -16,4 +16,3 @@
 16,99,Adrian Sutil SUT,Sauber Ferrari,70,+1 lap,0
 17,8,Romain Grosjean GRO,Lotus Renault,63,DNF,0
 NC,3,Daniel Ricciardo RIC,Red Bull Racing Renault,39,DNF,0
-

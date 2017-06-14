@@ -19,4 +19,3 @@
 19,9,Marcus Ericsson ERI,Sauber Ferrari,37,14:59:27,1:28.552,235.509
 20,94,Pascal Wehrlein WEH,MRT Mercedes,18,14:30:53,1:28.723,235.055
 21,30,Jolyon Palmer PAL,Renault,4,14:10:25,1:31.361,228.268
-

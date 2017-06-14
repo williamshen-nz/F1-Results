@@ -17,4 +17,3 @@
 17,17,Kazuki Nakajima NAK,Williams Toyota,1:42.156,+1.531s,21
 18,8,Romain Grosjean GRO,Renault,1:42.213,+1.588s,19
 19,3,Giancarlo Fisichella FIS,Ferrari,1:42.351,+1.726s,23
-

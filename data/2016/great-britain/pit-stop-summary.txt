@@ -45,4 +45,3 @@
 3,19,Felipe Massa MAS,Williams Mercedes,38,14:13:29,29.346,1:27.992
 3,14,Fernando Alonso ALO,McLaren Honda,39,14:15:22,28.936,1:30.109
 3,20,Kevin Magnussen MAG,Renault,40,14:17:42,28.450,1:28.455
-

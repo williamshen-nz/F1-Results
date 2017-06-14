@@ -18,4 +18,3 @@ NC,8,Romain Grosjean GRO,Lotus Mercedes,11,DNF,0
 NC,6,Nico Rosberg ROS,Mercedes,7,DNF,0
 NC,27,Nico Hulkenberg HUL,Force India Mercedes,0,DNF,0
 NC,9,Marcus Ericsson ERI,Sauber Ferrari,0,DNF,0
-

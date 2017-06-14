@@ -21,4 +21,3 @@
 21,7,Ralf Schumacher RSC,Toyota,,,2
 22,14,David Coulthard COU,RBR Ferrari,,,1
 23,15,Robert Doornbos DOO,RBR Ferrari,,,2
-

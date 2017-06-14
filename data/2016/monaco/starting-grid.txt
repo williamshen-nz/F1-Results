@@ -18,4 +18,3 @@
 18,30,Jolyon Palmer PAL,Renault,1:16.586
 19,88,Rio Haryanto HAR,MRT Mercedes,1:17.295
 20,94,Pascal Wehrlein WEH,MRT Mercedes,1:17.452
-

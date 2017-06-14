@@ -18,4 +18,3 @@
 18,10,Timo Glock GLO,Toyota,1:17.207,+1.964s,45
 19,21,Giancarlo Fisichella FIS,Force India Mercedes,1:17.504,+2.261s,45
 20,5,Robert Kubica KUB,Sauber BMW,,,2
-

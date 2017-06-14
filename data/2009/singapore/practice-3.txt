@@ -18,4 +18,3 @@
 18,11,Jaime Alguersuari ALG,STR Ferrari,1:49.399,+1.767s,17
 19,8,Romain Grosjean GRO,Renault,1:49.641,+2.009s,16
 20,3,Giancarlo Fisichella FIS,Ferrari,1:50.039,+2.407s,21
-

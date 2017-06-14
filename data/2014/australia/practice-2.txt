@@ -18,4 +18,3 @@
 18,8,Romain Grosjean GRO,Lotus Renault,1:33.646,+4.021s,12
 19,4,Max Chilton CHI,Marussia Ferrari,1:34.757,+5.132s,29
 20,9,Marcus Ericsson ERI,Caterham Renault,,,1
-

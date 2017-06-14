@@ -20,4 +20,3 @@
 20,12,Felipe Nasr NAS,Sauber Ferrari,1:16.326,+2.407s,24
 21,94,Pascal Wehrlein WEH,MRT Mercedes,1:16.622,+2.703s,18
 22,88,Rio Haryanto HAR,MRT Mercedes,1:16.901,+2.982s,15
-

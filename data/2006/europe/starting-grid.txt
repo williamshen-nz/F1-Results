@@ -20,4 +20,3 @@
 20,22,Takuma Sato SAT,Super Aguri Honda,1:35.239
 21,23,Franck Montagny MON,Super Aguri Honda,1:46.505
 22,10,Nico Rosberg ROS,Williams Cosworth,1:31.194
-

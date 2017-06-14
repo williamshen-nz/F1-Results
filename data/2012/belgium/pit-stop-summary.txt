@@ -36,4 +36,3 @@
 2,7,Michael Schumacher MSC,Mercedes,35,15:16:18,20.835,42.499
 2,8,Nico Rosberg ROS,Mercedes,36,15:18:36,20.534,41.596
 2,19,Bruno Senna SEN,Williams Renault,39,15:24:25,22.030,43.720
-

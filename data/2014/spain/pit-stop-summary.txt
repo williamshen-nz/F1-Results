@@ -46,4 +46,3 @@
 3,21,Esteban Gutierrez GUT,Sauber Ferrari,52,15:25:31,23.025,1:10.868
 3,14,Fernando Alonso ALO,Ferrari,53,15:25:53,21.664,1:05.648
 3,26,Daniil Kvyat KVY,STR Renault,53,15:26:38,22.984,1:08.528
-

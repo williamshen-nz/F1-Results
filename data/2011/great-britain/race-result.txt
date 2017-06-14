@@ -22,4 +22,3 @@ NC,18,Sebastien Buemi BUE,STR Ferrari,25,DNF,0
 NC,16,Kamui Kobayashi KOB,Sauber Ferrari,23,DNF,0
 NC,21,Jarno Trulli TRU,Lotus Renault,10,DNF,0
 NC,20,Heikki Kovalainen KOV,Lotus Renault,2,DNF,0
-

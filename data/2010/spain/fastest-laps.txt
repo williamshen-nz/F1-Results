@@ -20,4 +20,3 @@
 20,25,Lucas di Grassi DIG,Virgin Cosworth,47,1:29.904,186.398
 21,22,Pedro de la Rosa DLR,Sauber Ferrari,9,1:30.411,185.353
 22,20,Karun Chandhok CHD,HRT Cosworth,26,1:32.041,182.071
-

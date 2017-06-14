@@ -18,4 +18,3 @@ NC,14,Fernando Alonso ALO,McLaren Honda,33,DNF,0
 NC,44,Lewis Hamilton HAM,Mercedes,32,DNF,0
 NC,19,Felipe Massa MAS,Williams Mercedes,30,DNF,0
 NC,27,Nico Hulkenberg HUL,Force India Mercedes,12,DNF,0
-

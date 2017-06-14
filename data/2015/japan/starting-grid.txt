@@ -17,4 +17,3 @@
 17,33,Max Verstappen VER,STR Renault,
 18,28,Will Stevens STE,Marussia Ferrari,1:38.783
 19,53,Alexander Rossi RSI,Marussia Ferrari,1:47.114
-

@@ -27,4 +27,3 @@
 2,23,Anthony Davidson DAV,Super Aguri Honda,53,14:11:32,25.331,50.629
 2,12,Jarno Trulli TRU,Toyota,56,14:14:03,24.351,50.690
 2,15,Mark Webber WEB,Red Bull Renault,59,14:17:49,24.272,50.718
-

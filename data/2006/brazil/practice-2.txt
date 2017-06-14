@@ -27,4 +27,3 @@
 27,40,Neel Jani JAN,STR Cosworth,1:15.868,+3.321s,22
 28,15,Robert Doornbos DOO,RBR Ferrari,1:16.251,+3.704s,8
 29,23,Sakon Yamamoto YAM,Super Aguri Honda,1:18.321,+5.774s,9
-

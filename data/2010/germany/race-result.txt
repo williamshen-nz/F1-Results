@@ -22,4 +22,3 @@ NC,25,Lucas di Grassi DIG,Virgin Cosworth,50,DNF,0
 NC,20,Sakon Yamamoto YAM,HRT Cosworth,19,DNF,0
 NC,18,Jarno Trulli TRU,Lotus Cosworth,3,DNF,0
 NC,16,Sebastien Buemi BUE,STR Ferrari,1,DNF,0
-

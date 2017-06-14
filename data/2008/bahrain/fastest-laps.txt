@@ -19,4 +19,3 @@
 19,22,Lewis Hamilton HAM,McLaren Mercedes,25,1:35.520,203.969
 20,18,Takuma Sato SAT,Super Aguri Honda,56,1:35.891,203.180
 21,16,Jenson Button BUT,Honda,11,1:36.125,202.686
-

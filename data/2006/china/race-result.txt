@@ -19,4 +19,3 @@ NC,6,Felipe Massa MAS,Ferrari,44,DNF,0
 NC,8,Jarno Trulli TRU,Toyota,38,DNF,0
 NC,18,Tiago Monteiro MON,MF1 Toyota,37,DNF,0
 NC,3,Kimi Räikkönen RAI,McLaren Mercedes,18,DNF,0
-

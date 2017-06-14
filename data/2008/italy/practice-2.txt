@@ -18,4 +18,3 @@
 18,5,Fernando Alonso ALO,Renault,1:25.481,+1.620s,22
 19,11,Jarno Trulli TRU,Toyota,1:25.753,+1.892s,29
 20,6,Nelson Piquet PIQ,Renault,1:26.195,+2.334s,23
-

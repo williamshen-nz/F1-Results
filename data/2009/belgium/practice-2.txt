@@ -18,4 +18,3 @@
 18,23,Rubens Barrichello BAR,Brawn Mercedes,1:48.130,+0.929s,37
 19,16,Nico Rosberg ROS,Williams Toyota,1:48.360,+1.159s,29
 20,3,Luca Badoer BAD,Ferrari,1:49.211,+2.010s,30
-

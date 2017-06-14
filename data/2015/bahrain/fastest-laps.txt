@@ -17,4 +17,3 @@
 17,55,Carlos Sainz SAI,STR Renault,13,18:26:33,1:40.651,193.571
 18,28,Will Stevens STE,Marussia Ferrari,36,19:07:22,1:41.759,191.464
 19,98,Roberto Merhi MER,Marussia Ferrari,36,19:07:54,1:42.033,190.949
-

@@ -23,4 +23,3 @@
 2,5,Sebastian Vettel VET,RBR Renault,31,14:49:28,13.272,33.972
 1,6,Mark Webber WEB,RBR Renault,43,15:06:13,20.688,20.688
 1,9,Rubens Barrichello BAR,Williams Cosworth,55,15:24:23,20.837,20.837
-

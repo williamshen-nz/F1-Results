@@ -21,4 +21,3 @@
 21,21,Bruno Senna SEN,HRT Cosworth,61,1:28.093,179.033
 22,14,Adrian Sutil SUT,Force India Mercedes,12,1:28.177,178.862
 23,20,Sakon Yamamoto YAM,HRT Cosworth,59,1:29.278,176.657
-

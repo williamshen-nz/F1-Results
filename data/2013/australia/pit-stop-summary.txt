@@ -51,4 +51,3 @@
 3,18,Jean-Eric Vergne VER,STR Ferrari,44,18:13:03,23.160,1:10.922
 2,15,Adrian Sutil SUT,Force India Mercedes,46,18:15:28,22.749,45.442
 3,22,Jules Bianchi BIA,Marussia Cosworth,50,18:23:42,22.669,1:09.427
-

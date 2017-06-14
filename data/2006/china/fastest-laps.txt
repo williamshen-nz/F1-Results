@@ -20,4 +20,3 @@
 20,3,Kimi Räikkönen RAI,McLaren Mercedes,14,1:44.094,188.518
 21,8,Jarno Trulli TRU,Toyota,24,1:44.787,187.271
 22,18,Tiago Monteiro MON,MF1 Toyota,35,1:45.356,186.259
-

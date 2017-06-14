@@ -22,4 +22,3 @@
 22,23,Vitantonio Liuzzi LIU,HRT Cosworth,1:57.450,+7.129s,19
 23,22,Daniel Ricciardo RIC,HRT Cosworth,1:57.612,+7.291s,24
 24,10,Vitaly Petrov PET,Renault,2:02.234,+11.913s,12
-

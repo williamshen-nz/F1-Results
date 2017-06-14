@@ -40,4 +40,3 @@
 2,17,Kazuki Nakajima NAK,Williams Toyota,61,15:21:00,28.706,1:02.907
 2,11,Ralf Schumacher RSC,Toyota,61,15:21:01,27.982,1:02.690
 3,12,Jarno Trulli TRU,Toyota,63,15:23:01,25.879,1:18.668
-

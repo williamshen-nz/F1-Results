@@ -18,4 +18,3 @@
 18,28,Will Stevens STE,Marussia Ferrari,1:13.937,+3.536s,29
 19,98,Roberto Merhi MER,Marussia Ferrari,1:15.459,+5.058s,11
 20,5,Sebastian Vettel VET,Ferrari,1:15.684,+5.283s,4
-

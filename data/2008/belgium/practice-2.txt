@@ -18,4 +18,3 @@
 18,17,Rubens Barrichello BAR,Honda,1:51.238,+2.784s,22
 19,6,Nelson Piquet PIQ,Renault,1:51.334,+2.880s,19
 20,10,Mark Webber WEB,Red Bull Renault,1:51.640,+3.186s,7
-

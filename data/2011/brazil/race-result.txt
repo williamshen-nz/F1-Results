@@ -22,4 +22,3 @@ NC,23,Vitantonio Liuzzi LIU,HRT Cosworth,61,DNF,0
 NC,3,Lewis Hamilton HAM,McLaren Mercedes,46,DNF,0
 NC,12,Pastor Maldonado MAL,Williams Cosworth,26,DNF,0
 NC,24,Timo Glock GLO,Virgin Cosworth,21,DNF,0
-

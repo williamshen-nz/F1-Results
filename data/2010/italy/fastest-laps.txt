@@ -20,4 +20,3 @@
 20,20,Sakon Yamamoto YAM,HRT Cosworth,45,1:28.875,234.653
 21,18,Jarno Trulli TRU,Lotus Cosworth,30,1:29.017,234.278
 22,21,Bruno Senna SEN,HRT Cosworth,10,1:30.880,229.476
-

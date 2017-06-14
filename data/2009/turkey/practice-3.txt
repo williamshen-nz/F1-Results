@@ -18,4 +18,3 @@
 18,12,Sebastien Buemi BUE,STR Ferrari,1:29.167,+1.184s,21
 19,7,Fernando Alonso ALO,Renault,1:29.261,+1.278s,15
 20,21,Giancarlo Fisichella FIS,Force India Mercedes,1:29.421,+1.438s,17
-

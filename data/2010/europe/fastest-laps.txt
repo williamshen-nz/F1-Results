@@ -22,4 +22,3 @@
 22,20,Karun Chandhok CHD,HRT Cosworth,51,1:43.820,187.905
 23,6,Mark Webber WEB,RBR Renault,5,1:44.064,187.465
 24,19,Heikki Kovalainen KOV,Lotus Cosworth,8,1:46.130,183.816
-

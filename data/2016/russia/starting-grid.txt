@@ -20,4 +20,3 @@
 20,94,Pascal Wehrlein WEH,MRT Mercedes,1:39.399
 21,88,Rio Haryanto HAR,MRT Mercedes,1:39.463
 22,9,Marcus Ericsson ERI,Sauber Ferrari,1:39.519
-

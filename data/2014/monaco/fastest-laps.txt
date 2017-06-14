@@ -18,4 +18,3 @@
 18,26,Daniil Kvyat KVY,STR Renault,8,14:15:50,1:22.011,146.614
 19,10,Kamui Kobayashi KOB,Caterham Renault,16,14:27:04,1:22.425,145.878
 20,1,Sebastian Vettel VET,Red Bull Racing Renault,3,14:08:49,1:59.505,100.615
-

@@ -18,4 +18,3 @@
 18,28,Will Stevens STE,Marussia Ferrari,1:38.713
 19,98,Roberto Merhi MER,Marussia Ferrari,1:39.722
 20,22,Jenson Button BUT,McLaren Honda,
-

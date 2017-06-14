@@ -20,4 +20,3 @@
 20,7,Jenson Button BUT,Honda,1:39.331,+4.359s,17
 21,23,Anthony Davidson DAV,Super Aguri Honda,1:39.357,+4.385s,9
 22,21,Christijan Albers ALB,Spyker Ferrari,1:40.074,+5.102s,25
-

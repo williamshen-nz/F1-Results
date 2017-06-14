@@ -18,4 +18,3 @@
 18,7,Michael Schumacher MSC,Mercedes,4,1:34.021,203.048
 19,24,Timo Glock GLO,Marussia Cosworth,43,1:34.253,202.548
 20,25,Charles Pic PIC,Marussia Cosworth,45,1:35.011,200.932
-

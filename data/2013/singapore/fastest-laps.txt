@@ -20,4 +20,3 @@
 20,22,Jules Bianchi BIA,Marussia Cosworth,45,1:52.898,161.508
 21,23,Max Chilton CHI,Marussia Cosworth,50,1:53.041,161.304
 22,19,Daniel Ricciardo RIC,STR Ferrari,23,1:53.052,161.288
-

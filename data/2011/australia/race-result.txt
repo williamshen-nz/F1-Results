@@ -20,4 +20,3 @@ NC,8,Nico Rosberg ROS,Mercedes,22,DNF,0
 NC,20,Heikki Kovalainen KOV,Lotus Renault,19,DNF,0
 NC,7,Michael Schumacher MSC,Mercedes,19,DNF,0
 NC,12,Pastor Maldonado MAL,Williams Cosworth,9,DNF,0
-

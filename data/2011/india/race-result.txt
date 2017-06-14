@@ -22,4 +22,3 @@ NC,18,Sebastien Buemi BUE,STR Ferrari,24,DNF,0
 NC,12,Pastor Maldonado MAL,Williams Cosworth,12,DNF,0
 NC,24,Timo Glock GLO,Virgin Cosworth,2,DNF,0
 NC,16,Kamui Kobayashi KOB,Sauber Ferrari,0,DNF,0
-

@@ -19,4 +19,3 @@
 19,10,Kamui Kobayashi KOB,Caterham Renault,1:43.166
 20,4,Max Chilton CHI,Marussia Ferrari,1:43.649
 21,13,Pastor Maldonado MAL,Lotus Renault,1:43.205
-

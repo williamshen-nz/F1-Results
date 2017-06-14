@@ -33,4 +33,3 @@
 2,18,Vitantonio Liuzzi LIU,STR Ferrari,44,14:09:41,24.458,51.138
 2,14,David Coulthard COU,Red Bull Renault,45,14:10:37,25.178,50.880
 2,22,Takuma Sato SAT,Super Aguri Honda,45,14:11:26,25.258,50.833
-

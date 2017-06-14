@@ -20,4 +20,3 @@
 20,21,Sakon Yamamoto YAM,Spyker Ferrari,56,+2 laps,0
 21,20,Adrian Sutil SUT,Spyker Ferrari,53,DNF,0
 NC,15,Mark Webber WEB,Red Bull Renault,9,DNF,0
-

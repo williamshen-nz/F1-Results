@@ -22,4 +22,3 @@
 22,24,Timo Glock GLO,Marussia Cosworth,1:21.638,+5.373s,9
 23,22,Pedro de la Rosa DLR,HRT Cosworth,1:22.423,+6.158s,15
 24,9,Kimi Räikkönen RAI,Lotus Renault,,,1
-

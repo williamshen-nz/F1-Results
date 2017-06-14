@@ -44,4 +44,3 @@
 2,15,Christian Klien KLI,RBR Ferrari,53,15:14:25,22.264,43.556
 3,5,Michael Schumacher MSC,Ferrari,55,15:15:07,19.423,59.255
 3,10,Nico Rosberg ROS,Williams Cosworth,56,15:18:56,19.951,1:05.129
-

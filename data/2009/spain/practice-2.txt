@@ -17,4 +17,3 @@
 17,6,Nick Heidfeld HEI,Sauber BMW,1:23.173,+1.585s,39
 18,10,Timo Glock GLO,Toyota,1:23.360,+1.772s,46
 19,9,Jarno Trulli TRU,Toyota,1:23.623,+2.035s,47
-

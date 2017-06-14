@@ -26,4 +26,3 @@
 2,7,Felipe Massa MAS,Ferrari,39,14:08:48,35.041,1:01.884
 2,12,Vitaly Petrov PET,Renault,40,14:10:18,21.378,40.898
 3,8,Fernando Alonso ALO,Ferrari,49,14:24:29,23.620,55.540
-

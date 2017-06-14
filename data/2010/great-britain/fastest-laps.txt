@@ -22,4 +22,3 @@
 22,21,Sakon Yamamoto YAM,HRT Cosworth,50,1:38.309,215.723
 23,20,Karun Chandhok CHD,HRT Cosworth,40,1:38.798,214.656
 24,25,Lucas di Grassi DIG,Virgin Cosworth,7,1:40.641,210.725
-

@@ -20,4 +20,3 @@
 20,30,Jolyon Palmer PAL,Renault,26,14:52:54,1:42.232,191.951
 21,20,Kevin Magnussen MAG,Renault,22,14:45:37,1:42.311,191.803
 22,9,Marcus Ericsson ERI,Sauber Ferrari,41,15:18:36,1:43.269,190.024
-

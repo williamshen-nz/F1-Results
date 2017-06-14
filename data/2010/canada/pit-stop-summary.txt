@@ -59,4 +59,3 @@
 4,10,Nico Hulkenberg HUL,Williams Cosworth,58,13:22:51,22.356,1:26.237
 3,11,Robert Kubica KUB,Renault,59,13:23:18,22.174,1:06.852
 4,7,Felipe Massa MAS,Ferrari,63,13:29:36,26.657,1:50.456
-

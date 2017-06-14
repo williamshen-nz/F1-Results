@@ -20,4 +20,3 @@
 20,19,Felipe Massa MAS,Williams Mercedes,31,14:46:59,1:21.476,202.101
 21,20,Kevin Magnussen MAG,Renault,42,15:01:42,1:21.649,201.673
 22,88,Rio Haryanto HAR,MRT Mercedes,56,15:22:22,1:21.845,201.190
-

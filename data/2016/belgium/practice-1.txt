@@ -20,4 +20,3 @@
 20,20,Kevin Magnussen MAG,Renault,1:53.053,+4.705s,20
 21,30,Jolyon Palmer PAL,Renault,1:53.089,+4.741s,20
 22,14,Fernando Alonso ALO,McLaren Honda,,,3
-

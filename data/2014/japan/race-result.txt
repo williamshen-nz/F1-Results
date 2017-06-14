@@ -20,4 +20,3 @@
 20,17,Jules Bianchi BIA,Marussia Ferrari,41,DNF,0
 21,99,Adrian Sutil SUT,Sauber Ferrari,40,DNF,0
 NC,14,Fernando Alonso ALO,Ferrari,2,DNF,0
-

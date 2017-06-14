@@ -18,4 +18,3 @@
 18,11,Sebastien Bourdais BOU,STR Ferrari,57,+1 lap,0
 NC,23,Rubens Barrichello BAR,Brawn Mercedes,47,DNF,0
 NC,21,Giancarlo Fisichella FIS,Force India Mercedes,4,DNF,0
-

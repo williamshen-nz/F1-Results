@@ -94,4 +94,3 @@
 6,13,Pastor Maldonado MAL,Lotus Mercedes,58,15:37:12,16.446,1:57.642
 5,3,Daniel Ricciardo RIC,Red Bull Racing Renault,64,15:45:08,31.037,1:51.897
 5,6,Nico Rosberg ROS,Mercedes,64,15:45:42,24.575,1:42.771
-

@@ -20,4 +20,3 @@ NC,22,Takuma Sato SAT,Super Aguri Honda,34,DNF,0
 NC,18,Vitantonio Liuzzi LIU,STR Ferrari,26,DNF,0
 NC,7,Jenson Button BUT,Honda,0,DNF,0
 NC,19,Scott Speed SPE,STR Ferrari,0,DNF,0
-

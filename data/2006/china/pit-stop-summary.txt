@@ -43,4 +43,3 @@
 2,16,Nick Heidfeld HEI,Sauber BMW,40,15:14:29,24.271,47.558
 2,2,Giancarlo Fisichella FIS,Renault,41,15:15:38,23.403,47.162
 3,17,Robert Kubica KUB,Sauber BMW,40,15:15:55,23.625,1:16.515
-

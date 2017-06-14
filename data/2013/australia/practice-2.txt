@@ -20,4 +20,3 @@
 20,20,Charles Pic PIC,Caterham Renault,1:30.165,+4.257s,37
 21,23,Max Chilton CHI,Marussia Cosworth,1:30.600,+4.692s,36
 22,21,Giedo van der Garde VDG,Caterham Renault,1:32.450,+6.542s,11
-

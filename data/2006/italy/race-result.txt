@@ -20,4 +20,3 @@ NC,1,Fernando Alonso ALO,Renault,43,DNF,0
 NC,4,Pedro de la Rosa DLR,McLaren Mercedes,20,DNF,0
 NC,23,Sakon Yamamoto YAM,Super Aguri Honda,18,DNF,0
 NC,10,Nico Rosberg ROS,Williams Cosworth,9,DNF,0
-

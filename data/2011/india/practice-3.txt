@@ -22,4 +22,3 @@
 22,22,Narain Karthikeyan KAR,HRT Cosworth,1:30.900,+6.076s,25
 23,25,Jerome d'Ambrosio DAM,Virgin Cosworth,1:32.851,+8.027s,19
 24,23,Daniel Ricciardo RIC,HRT Cosworth,1:33.246,+8.422s,16
-

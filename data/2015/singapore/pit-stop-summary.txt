@@ -40,4 +40,3 @@
 2,28,Will Stevens STE,Marussia Ferrari,37,21:20:15,37.847,1:08.245
 3,22,Jenson Button BUT,McLaren Honda,41,21:28:16,37.822,2:13.245
 3,13,Pastor Maldonado MAL,Lotus Mercedes,54,21:53:08,29.996,1:28.981
-

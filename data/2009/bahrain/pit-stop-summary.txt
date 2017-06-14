@@ -40,4 +40,3 @@
 2,16,Nico Rosberg ROS,Williams Toyota,45,16:17:00,25.525,52.779
 3,3,Felipe Massa MAS,Ferrari,46,16:19:19,26.169,1:25.863
 3,23,Rubens Barrichello BAR,Brawn Mercedes,47,16:20:05,25.197,1:19.197
-

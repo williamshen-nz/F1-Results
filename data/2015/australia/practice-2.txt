@@ -14,4 +14,3 @@
 14,33,Max Verstappen VER,STR Renault,1:31.395,+3.698s,6
 15,9,Marcus Ericsson ERI,Sauber Ferrari,1:32.303,+4.606s,14
 16,20,Kevin Magnussen MAG,McLaren Honda,1:33.289,+5.592s,4
-

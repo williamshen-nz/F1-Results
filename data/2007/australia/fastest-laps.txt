@@ -20,4 +20,3 @@
 20,20,Adrian Sutil SUT,Spyker Ferrari,40,1:28.687,215.260
 21,19,Scott Speed SPE,STR Ferrari,22,1:28.953,214.616
 22,21,Christijan Albers ALB,Spyker Ferrari,9,1:30.899,210.022
-

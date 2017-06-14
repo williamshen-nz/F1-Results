@@ -20,4 +20,3 @@
 1,19,Heikki Kovalainen KOV,Lotus Cosworth,41,18:21:05,21.537,21.537
 1,11,Robert Kubica KUB,Renault,46,18:27:56,20.188,20.188
 1,14,Adrian Sutil SUT,Force India Mercedes,47,18:29:56,20.276,20.276
-

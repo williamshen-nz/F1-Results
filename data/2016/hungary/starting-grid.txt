@@ -19,4 +19,3 @@
 19,20,Kevin Magnussen MAG,Renault,1:44.543
 20,94,Pascal Wehrlein WEH,MRT Mercedes,1:47.343
 21,88,Rio Haryanto HAR,MRT Mercedes,1:50.189
-

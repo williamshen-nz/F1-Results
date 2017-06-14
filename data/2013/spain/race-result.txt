@@ -20,4 +20,3 @@
 NC,18,Jean-Eric Vergne VER,STR Ferrari,52,DNF,0
 NC,21,Giedo van der Garde VDG,Caterham Renault,21,DNF,0
 NC,8,Romain Grosjean GRO,Lotus Renault,8,DNF,0
-

@@ -17,4 +17,3 @@
 17,19,Scott Speed SPE,STR Ferrari,51,1:17.934,203.757
 18,20,Adrian Sutil SUT,Spyker Ferrari,27,1:18.091,203.347
 19,21,Christijan Albers ALB,Spyker Ferrari,27,1:18.955,201.122
-

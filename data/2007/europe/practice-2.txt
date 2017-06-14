@@ -20,4 +20,3 @@
 20,18,Vitantonio Liuzzi LIU,STR Ferrari,1:35.653,+2.314s,24
 21,20,Adrian Sutil SUT,Spyker Ferrari,1:36.527,+3.188s,25
 22,21,Markus Winkelhock WIN,Spyker Ferrari,1:37.319,+3.980s,19
-

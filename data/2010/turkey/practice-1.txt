@@ -22,4 +22,3 @@
 22,25,Lucas di Grassi DIG,Virgin Cosworth,1:35.137,+6.484s,21
 23,24,Timo Glock GLO,Virgin Cosworth,1:35.583,+6.930s,15
 24,21,Sakon Yamamoto YAM,HRT Cosworth,1:36.137,+7.484s,26
-

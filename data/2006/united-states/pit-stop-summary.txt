@@ -19,4 +19,3 @@
 2,7,Ralf Schumacher RSC,Toyota,53,14:13:25,22.160,45.179
 2,5,Michael Schumacher MSC,Ferrari,54,14:14:01,22.901,47.184
 2,1,Fernando Alonso ALO,Renault,55,14:15:54,24.784,47.931
-

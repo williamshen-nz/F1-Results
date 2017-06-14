@@ -18,4 +18,3 @@
 18,20,Adrian Sutil SUT,Force India Ferrari,1:17.813,+2.061s,37
 19,16,Jenson Button BUT,Honda,1:17.842,+2.090s,39
 20,6,Nelson Piquet PIQ,Renault,1:18.076,+2.324s,17
-

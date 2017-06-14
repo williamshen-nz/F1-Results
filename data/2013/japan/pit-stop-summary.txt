@@ -46,4 +46,3 @@
 3,2,Mark Webber WEB,Red Bull Racing Renault,42,16:12:42,23.094,1:09.485
 3,6,Sergio Perez PER,McLaren Mercedes,42,16:14:05,25.585,1:19.715
 3,19,Daniel Ricciardo RIC,STR Ferrari,44,16:17:21,24.178,1:06.587
-

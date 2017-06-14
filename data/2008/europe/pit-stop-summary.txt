@@ -30,4 +30,3 @@
 2,3,Nick Heidfeld HEI,Sauber BMW,41,15:13:10,20.440,42.362
 2,1,Kimi Räikkönen RAI,Ferrari,43,15:15:54,29.702,53.827
 2,23,Heikki Kovalainen KOV,McLaren Mercedes,43,15:15:54,22.809,45.640
-

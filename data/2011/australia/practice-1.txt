@@ -20,4 +20,3 @@
 20,25,Jerome d'Ambrosio DAM,Virgin Cosworth,1:35.282,+8.451s,17
 21,24,Timo Glock GLO,Virgin Cosworth,1:35.289,+8.458s,15
 22,21,Karun Chandhok CHD,Lotus Renault,,,1
-

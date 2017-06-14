@@ -22,4 +22,3 @@
 22,24,Timo Glock GLO,Marussia Cosworth,1:42.062,+4.420s,15
 23,23,Narain Karthikeyan KAR,HRT Cosworth,1:42.845,+5.203s,15
 24,22,Pedro de la Rosa DLR,HRT Cosworth,1:42.882,+5.240s,14
-

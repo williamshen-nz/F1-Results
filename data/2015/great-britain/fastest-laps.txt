@@ -14,4 +14,3 @@
 14,28,Will Stevens STE,Marussia Ferrari,28,13:53:19,1:41.919,208.082
 15,98,Roberto Merhi MER,Marussia Ferrari,26,13:50:06,1:42.324,207.259
 16,33,Max Verstappen VER,STR Renault,3,13:10:19,2:20.776,150.647
-

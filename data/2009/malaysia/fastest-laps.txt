@@ -16,4 +16,3 @@
 16,10,Timo Glock GLO,Toyota,18,1:39.406,200.740
 17,21,Giancarlo Fisichella FIS,Force India Mercedes,16,1:39.407,200.738
 18,20,Adrian Sutil SUT,Force India Mercedes,17,1:39.464,200.623
-

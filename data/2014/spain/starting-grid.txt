@@ -20,4 +20,3 @@
 20,10,Kamui Kobayashi KOB,Caterham Renault,1:30.375
 21,25,Jean-Eric Vergne VER,STR Renault,
 22,13,Pastor Maldonado MAL,Lotus Renault,
-

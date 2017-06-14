@@ -42,4 +42,3 @@
 3,3,Daniel Ricciardo RIC,Red Bull Racing Renault,54,15:32:30,22.273,1:08.219
 3,6,Nico Rosberg ROS,Mercedes,56,15:35:44,22.001,1:08.692
 3,77,Valtteri Bottas BOT,Williams Mercedes,59,15:40:29,22.589,1:10.604
-

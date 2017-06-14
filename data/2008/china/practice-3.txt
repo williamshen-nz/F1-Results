@@ -18,4 +18,3 @@
 18,10,Mark Webber WEB,Red Bull Renault,1:37.566,+1.505s,12
 19,20,Adrian Sutil SUT,Force India Ferrari,1:37.648,+1.587s,19
 20,21,Giancarlo Fisichella FIS,Force India Ferrari,1:37.964,+1.903s,18
-

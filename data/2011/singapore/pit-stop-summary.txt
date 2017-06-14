@@ -67,4 +67,3 @@
 4,23,Vitantonio Liuzzi LIU,HRT Cosworth,46,21:41:47,42.920,2:21.058
 4,9,Bruno Senna SEN,Renault,48,21:42:01,30.987,2:14.073
 4,16,Kamui Kobayashi KOB,Sauber Ferrari,53,21:51:26,30.869,1:57.650
-

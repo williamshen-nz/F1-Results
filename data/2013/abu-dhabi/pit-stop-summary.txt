@@ -39,4 +39,3 @@
 2,3,Fernando Alonso ALO,Ferrari,44,18:23:20,21.453,42.983
 2,17,Valtteri Bottas BOT,Williams Renault,45,18:25:31,26.680,50.041
 2,18,Jean-Eric Vergne VER,STR Ferrari,51,18:36:34,23.608,45.538
-

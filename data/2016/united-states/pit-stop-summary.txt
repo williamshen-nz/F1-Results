@@ -41,4 +41,3 @@
 3,31,Esteban Ocon OCO,MRT Mercedes,44,15:24:27,24.665,1:17.413
 3,5,Sebastian Vettel VET,Ferrari,53,15:37:10,24.156,1:12.401
 3,19,Felipe Massa MAS,Williams Mercedes,54,15:39:55,23.464,1:11.460
-

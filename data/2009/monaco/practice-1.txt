@@ -18,4 +18,3 @@
 18,20,Adrian Sutil SUT,Force India Mercedes,1:19.600,+2.411s,24
 19,10,Timo Glock GLO,Toyota,1:19.698,+2.509s,24
 20,9,Jarno Trulli TRU,Toyota,1:19.831,+2.642s,28
-

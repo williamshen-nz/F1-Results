@@ -20,4 +20,3 @@
 20,9,Marcus Ericsson ERI,Caterham Renault,1:37.875
 21,4,Max Chilton CHI,Marussia Ferrari,1:37.913
 22,99,Adrian Sutil SUT,Sauber Ferrari,1:36.840
-

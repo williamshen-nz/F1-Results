@@ -22,4 +22,3 @@
 22,22,Pedro de la Rosa DLR,HRT Cosworth,1:30.592,,,8
 23,23,Narain Karthikeyan KAR,HRT Cosworth,1:30.593,,,10
 24,25,Charles Pic PIC,Marussia Cosworth,1:30.662,,,11
-

@@ -27,4 +27,3 @@
 2,9,Jarno Trulli TRU,Toyota,65,15:28:13,21.592,43.876
 2,7,Fernando Alonso ALO,Renault,66,15:28:37,21.348,45.754
 2,17,Kazuki Nakajima NAK,Williams Toyota,71,15:35:40,21.865,47.135
-

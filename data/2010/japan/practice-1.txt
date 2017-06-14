@@ -22,4 +22,3 @@
 22,25,Jerome d'Ambrosio DAM,Virgin Cosworth,1:37.778,+5.193s,23
 23,21,Bruno Senna SEN,HRT Cosworth,1:38.814,+6.229s,28
 24,20,Sakon Yamamoto YAM,HRT Cosworth,1:39.443,+6.858s,26
-

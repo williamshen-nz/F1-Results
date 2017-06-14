@@ -45,4 +45,3 @@
 3,26,Daniil Kvyat KVY,Toro Rosso Ferrari,51,15:23:51,22.769,1:08.280
 3,20,Kevin Magnussen MAG,Renault,55,15:30:33,22.122,1:08.130
 4,3,Daniel Ricciardo RIC,Red Bull Racing TAG Heuer,65,15:43:55,23.133,1:28.658
-

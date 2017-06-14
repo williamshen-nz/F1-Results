@@ -20,4 +20,3 @@
 NC,6,Nelson Piquet PIQ,Renault,40,DNF,0
 NC,16,Jenson Button BUT,Honda,19,DNF,0
 NC,15,Sebastian Vettel VET,STR Ferrari,0,DNF,0
-

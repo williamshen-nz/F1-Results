@@ -18,4 +18,3 @@
 18,11,Sebastien Bourdais BOU,STR Ferrari,1:37.278,+1.571s,30
 19,21,Giancarlo Fisichella FIS,Force India Mercedes,1:37.432,+1.725s,27
 20,6,Nick Heidfeld HEI,Sauber BMW,1:37.930,+2.223s,37
-

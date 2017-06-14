@@ -16,4 +16,3 @@
 16,10,Kamui Kobayashi KOB,Caterham Renault,1:44.540
 17,46,Will Stevens STE,Caterham Renault,1:45.095
 18,8,Romain Grosjean GRO,Lotus Renault,1:42.768
-

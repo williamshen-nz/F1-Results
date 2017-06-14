@@ -18,4 +18,3 @@
 18,17,Rubens Barrichello BAR,Honda,1:17.189,+1.568s,20
 19,21,Giancarlo Fisichella FIS,Force India Ferrari,1:17.312,+1.691s,22
 20,4,Robert Kubica KUB,Sauber BMW,1:17.469,+1.848s,15
-

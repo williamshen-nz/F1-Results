@@ -22,4 +22,3 @@
 22,22,Narain Karthikeyan KAR,HRT Cosworth,1:27.908
 23,25,Jerome d'Ambrosio DAM,Virgin Cosworth,1:28.556
 24,9,Nick Heidfeld HEI,Renault,
-

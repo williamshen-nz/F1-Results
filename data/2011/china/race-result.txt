@@ -22,4 +22,3 @@
 22,23,Vitantonio Liuzzi LIU,HRT Cosworth,54,+2 laps,0
 23,22,Narain Karthikeyan KAR,HRT Cosworth,54,+2 laps,0
 NC,19,Jaime Alguersuari ALG,STR Ferrari,9,DNF,0
-

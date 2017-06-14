@@ -20,4 +20,3 @@
 20,42,Jordan King KIN,MRT Mercedes,1:42.012,+4.584s,29
 21,30,Jolyon Palmer PAL,Renault,1:42.332,+4.904s,31
 22,31,Esteban Ocon OCO,MRT Mercedes,1:43.874,+6.446s,27
-

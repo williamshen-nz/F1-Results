@@ -24,4 +24,3 @@
 2,3,Daniel Ricciardo RIC,Red Bull Racing TAG Heuer,29,15:57:02,31.205,1:18.968
 2,94,Pascal Wehrlein WEH,MRT Mercedes,39,16:14:54,57.151,1:28.584
 2,19,Felipe Massa MAS,Williams Mercedes,46,16:25:17,30.065,59.616
-

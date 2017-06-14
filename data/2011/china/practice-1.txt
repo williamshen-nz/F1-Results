@@ -22,4 +22,3 @@
 22,24,Timo Glock GLO,Virgin Cosworth,1:44.438,+5.699s,11
 23,21,Luiz Razia RAZ,Lotus Renault,1:44.542,+5.803s,9
 24,22,Narain Karthikeyan KAR,HRT Cosworth,1:45.019,+6.280s,23
-

@@ -20,4 +20,3 @@ NC,14,David Coulthard COU,Red Bull Renault,48,DNF,0
 NC,10,Robert Kubica KUB,Sauber BMW,36,DNF,0
 NC,19,Scott Speed SPE,STR Ferrari,28,DNF,0
 NC,21,Christijan Albers ALB,Spyker Ferrari,10,DNF,0
-

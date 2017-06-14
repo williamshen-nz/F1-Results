@@ -20,4 +20,3 @@
 20,22,Jules Bianchi BIA,Marussia Cosworth,1:24.713
 21,23,Max Chilton CHI,Marussia Cosworth,1:24.996
 22,20,Charles Pic PIC,Caterham Renault,1:25.070
-

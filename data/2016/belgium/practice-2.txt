@@ -20,4 +20,3 @@
 20,30,Jolyon Palmer PAL,Renault,1:50.562,+2.477s,32
 21,31,Esteban Ocon OCO,MRT Mercedes,1:50.659,+2.574s,25
 22,12,Felipe Nasr NAS,Sauber Ferrari,1:50.719,+2.634s,24
-

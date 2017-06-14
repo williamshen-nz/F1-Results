@@ -18,4 +18,3 @@
 18,21,Giancarlo Fisichella FIS,Force India Ferrari,1:48.906,+3.388s,25
 19,11,Jarno Trulli TRU,Toyota,1:49.064,+3.546s,29
 20,10,Mark Webber WEB,Red Bull Renault,1:53.703,+8.185s,4
-

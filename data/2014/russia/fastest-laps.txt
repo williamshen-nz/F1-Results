@@ -19,4 +19,3 @@
 19,8,Romain Grosjean GRO,Lotus Renault,49,16:31:17,1:44.461,201.537
 20,10,Kamui Kobayashi KOB,Caterham Renault,17,15:34:55,1:47.407,196.009
 21,4,Max Chilton CHI,Marussia Ferrari,8,15:19:10,1:48.268,194.450
-

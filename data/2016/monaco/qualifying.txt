@@ -21,5 +21,4 @@
 NC,33,Max Verstappen VER,Red Bull Racing TAG Heuer,1:22.467,,,3
 NC,12,Felipe Nasr NAS,Sauber Ferrari,DNS,,,1
 Q1 107% Time: 1:19.832
-
-Note - Verstappen and Nasr failed to set a Q1 time within the 107% requirement so race at stewards' discretion. 
+Note - Verstappen and Nasr failed to set a Q1 time within the 107% requirement so race at stewards' discretion.

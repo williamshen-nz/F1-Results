@@ -22,4 +22,3 @@
 NC,12,Pastor Maldonado MAL,Williams Cosworth,30,DNF,0
 NC,10,Vitaly Petrov PET,Renault,16,DNF,0
 NC,7,Michael Schumacher MSC,Mercedes,15,DNF,0
-

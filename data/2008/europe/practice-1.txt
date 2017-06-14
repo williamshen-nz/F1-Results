@@ -18,4 +18,3 @@
 18,21,Giancarlo Fisichella FIS,Force India Ferrari,1:43.075,+2.579s,25
 19,9,David Coulthard COU,Red Bull Renault,1:43.312,+2.816s,23
 20,10,Mark Webber WEB,Red Bull Renault,1:43.524,+3.028s,24
-

@@ -22,4 +22,3 @@
 22,22,Pedro de la Rosa DLR,HRT Cosworth,1:37.342,+4.849s,30
 23,23,Narain Karthikeyan KAR,HRT Cosworth,1:37.701,+5.208s,35
 24,11,Paul di Resta DIR,Force India Mercedes,,,2
-

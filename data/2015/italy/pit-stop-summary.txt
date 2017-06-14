@@ -21,4 +21,3 @@
 2,55,Carlos Sainz SAI,STR Renault,30,14:48:54,24.736,55.094
 3,33,Max Verstappen VER,STR Renault,33,14:53:32,24.938,1:09.074
 2,14,Fernando Alonso ALO,McLaren Honda,46,15:13:37,19.374,43.704
-

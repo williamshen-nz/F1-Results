@@ -18,4 +18,3 @@
 18,21,Giancarlo Fisichella FIS,Force India Ferrari,33,1:32.849,129.500
 19,14,Sebastien Bourdais BOU,STR Ferrari,7,1:41.150,118.872
 20,9,David Coulthard COU,Red Bull Renault,7,1:42.112,117.753
-

@@ -17,4 +17,3 @@
 17,22,Takuma Sato SAT,Super Aguri Honda,54,1:30.574,210.775
 18,23,Yuji Ide IDE,Super Aguri Honda,49,1:33.737,203.663
 19,15,Christian Klien KLI,RBR Ferrari,4,1:41.351,188.363
-

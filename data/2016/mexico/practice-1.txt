@@ -20,4 +20,3 @@
 20,31,Esteban Ocon OCO,MRT Mercedes,1:24.083,+3.169s,30
 21,30,Jolyon Palmer PAL,Renault,1:24.097,+3.183s,35
 22,94,Pascal Wehrlein WEH,MRT Mercedes,1:24.350,+3.436s,28
-

@@ -20,4 +20,3 @@
 20,11,Ralf Schumacher RSC,Toyota,1:40.677,+4.065s,17
 21,18,Vitantonio Liuzzi LIU,STR Ferrari,1:41.108,+4.496s,8
 22,12,Jarno Trulli TRU,Toyota,1:43.417,+6.805s,22
-

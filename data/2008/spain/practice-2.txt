@@ -20,4 +20,3 @@
 20,12,Timo Glock GLO,Toyota,1:23.883,+1.948s,40
 21,18,Takuma Sato SAT,Super Aguri Honda,1:25.110,+3.175s,30
 22,19,Anthony Davidson DAV,Super Aguri Honda,1:25.163,+3.228s,31
-

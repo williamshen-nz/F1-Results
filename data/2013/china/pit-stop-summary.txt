@@ -55,4 +55,3 @@
 3,1,Sebastian Vettel VET,Red Bull Racing Renault,51,16:32:06,20.191,59.598
 3,17,Valtteri Bottas BOT,Williams Renault,51,16:33:18,21.490,1:05.321
 3,14,Paul di Resta DIR,Force India Mercedes,53,16:35:54,19.831,1:00.749
-

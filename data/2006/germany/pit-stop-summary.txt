@@ -36,4 +36,3 @@
 2,20,Vitantonio Liuzzi LIU,STR Cosworth,49,15:08:34,20.442,42.534
 2,8,Jarno Trulli TRU,Toyota,51,15:10:30,20.795,44.448
 3,3,Kimi Räikkönen RAI,McLaren Mercedes,55,15:15:28,20.425,1:10.754
-

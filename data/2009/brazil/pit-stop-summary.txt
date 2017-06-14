@@ -31,4 +31,3 @@
 2,10,Kamui Kobayashi KOB,Toyota,56,15:17:15,28.423,53.103
 3,2,Heikki Kovalainen KOV,McLaren Mercedes,59,15:21:02,22.903,1:37.486
 3,23,Rubens Barrichello BAR,Brawn Mercedes,63,15:25:54,25.547,1:14.523
-

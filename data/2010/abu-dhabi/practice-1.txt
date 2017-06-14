@@ -22,4 +22,3 @@
 22,21,Bruno Senna SEN,HRT Cosworth,1:49.590,+6.830s,18
 23,20,Christian Klien KLI,HRT Cosworth,1:50.274,+7.514s,17
 24,19,Fairuz Fauzy FAU,Lotus Cosworth,1:51.705,+8.945s,18
-

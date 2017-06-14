@@ -54,4 +54,3 @@
 3,23,Max Chilton CHI,Marussia Cosworth,50,15:21:06,23.257,1:07.881
 3,1,Sebastian Vettel VET,Red Bull Racing Renault,55,15:24:30,21.666,1:04.872
 3,2,Mark Webber WEB,Red Bull Racing Renault,59,15:30:24,22.022,1:06.133
-

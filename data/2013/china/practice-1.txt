@@ -20,4 +20,3 @@
 20,23,Max Chilton CHI,Marussia Cosworth,1:42.056,+5.339s,18
 21,21,Giedo van der Garde VDG,Caterham Renault,1:42.083,+5.366s,21
 22,20,Qing Hua Ma QIN,Caterham Renault,1:43.545,+6.828s,20
-

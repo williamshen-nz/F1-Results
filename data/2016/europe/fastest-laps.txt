@@ -20,4 +20,3 @@
 20,94,Pascal Wehrlein WEH,MRT Mercedes,33,18:06:23,1:50.571,195.447
 21,88,Rio Haryanto HAR,MRT Mercedes,27,17:55:12,1:51.365,194.053
 22,26,Daniil Kvyat KVY,Toro Rosso Ferrari,2,17:07:37,1:53.167,190.963
-

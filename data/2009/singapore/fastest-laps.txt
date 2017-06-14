@@ -18,4 +18,3 @@
 18,11,Jaime Alguersuari ALG,STR Ferrari,32,1:52.483,162.360
 19,20,Adrian Sutil SUT,Force India Mercedes,15,1:52.623,162.158
 20,8,Romain Grosjean GRO,Renault,2,1:57.192,155.836
-

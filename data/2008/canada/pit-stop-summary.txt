@@ -28,4 +28,3 @@
 2,23,Heikki Kovalainen KOV,McLaren Mercedes,53,14:17:18,27.746,1:06.469
 3,16,Jenson Button BUT,Honda,53,14:17:20,27.363,1:23.979
 2,10,Mark Webber WEB,Red Bull Renault,53,14:17:23,27.575,56.268
-

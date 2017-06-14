@@ -17,4 +17,3 @@
 17,19,Felipe Massa MAS,Williams Mercedes,22,14:48:12,1:48.231,183.374
 18,8,Romain Grosjean GRO,Lotus Mercedes,8,14:21:42,1:59.612,165.926
 19,77,Valtteri Bottas BOT,Williams Mercedes,3,14:11:38,2:31.939,130.623
-

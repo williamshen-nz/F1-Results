@@ -17,4 +17,3 @@
 17,20,Adrian Sutil SUT,Force India Mercedes,1:21.868
 18,5,Robert Kubica KUB,Sauber BMW,1:21.901
 19,11,Jaime Alguersuari ALG,STR Ferrari,1:22.359
-

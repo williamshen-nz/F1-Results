@@ -53,4 +53,3 @@
 4,15,Sebastian Vettel VET,STR Ferrari,66,16:40:33,26.810,1:47.053
 3,2,Felipe Massa MAS,Ferrari,67,16:41:17,27.234,1:25.391
 4,17,Rubens Barrichello BAR,Honda,67,16:43:49,28.370,1:53.445
-

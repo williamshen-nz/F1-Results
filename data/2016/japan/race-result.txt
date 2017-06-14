@@ -20,4 +20,3 @@
 20,21,Esteban Gutierrez GUT,Haas Ferrari,52,+1 lap,0
 21,31,Esteban Ocon OCO,MRT Mercedes,52,+1 lap,0
 22,94,Pascal Wehrlein WEH,MRT Mercedes,52,+1 lap,0
-

@@ -66,4 +66,3 @@
 4,3,Daniel Ricciardo RIC,Red Bull Racing TAG Heuer,47,21:33:41,28.662,1:52.398
 4,31,Esteban Ocon OCO,MRT Mercedes,45,21:34:04,42.368,3:21.708
 4,55,Carlos Sainz SAI,Toro Rosso Ferrari,48,21:37:18,29.377,1:54.516
-

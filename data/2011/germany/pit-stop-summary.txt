@@ -48,4 +48,3 @@
 3,7,Michael Schumacher MSC,Mercedes,56,15:35:53,19.930,1:00.997
 3,6,Felipe Massa MAS,Ferrari,59,15:39:43,21.903,1:02.432
 3,1,Sebastian Vettel VET,Red Bull Racing Renault,59,15:39:44,20.110,1:00.778
-

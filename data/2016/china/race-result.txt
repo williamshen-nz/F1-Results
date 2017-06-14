@@ -20,4 +20,3 @@
 20,12,Felipe Nasr NAS,Sauber Ferrari,55,+1 lap,0
 21,88,Rio Haryanto HAR,MRT Mercedes,55,+1 lap,0
 22,30,Jolyon Palmer PAL,Renault,55,+1 lap,0
-

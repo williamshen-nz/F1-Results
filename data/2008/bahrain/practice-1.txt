@@ -20,4 +20,3 @@
 20,20,Adrian Sutil SUT,Force India Ferrari,1:35.429,+3.196s,22
 21,19,Anthony Davidson DAV,Super Aguri Honda,1:36.145,+3.912s,6
 22,18,Takuma Sato SAT,Super Aguri Honda,1:36.536,+4.303s,6
-

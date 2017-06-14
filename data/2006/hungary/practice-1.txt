@@ -20,4 +20,3 @@
 20,15,Christian Klien KLI,RBR Ferrari,,,1
 21,14,David Coulthard COU,RBR Ferrari,,,1
 22,2,Giancarlo Fisichella FIS,Renault,,,1
-

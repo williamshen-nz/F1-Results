@@ -22,4 +22,3 @@
 22,25,Lucas di Grassi DIG,Virgin Cosworth,1:26.682,+4.184s,19
 23,21,Bruno Senna SEN,HRT Cosworth,1:27.471,+4.973s,18
 24,20,Sakon Yamamoto YAM,HRT Cosworth,1:28.730,+6.232s,14
-

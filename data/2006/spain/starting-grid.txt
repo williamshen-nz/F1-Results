@@ -20,4 +20,3 @@
 20,23,Franck Montagny MON,Super Aguri Honda,1:20.763
 21,14,David Coulthard COU,RBR Ferrari,
 22,17,Jacques Villeneuve VIL,Sauber BMW,1:15.847
-

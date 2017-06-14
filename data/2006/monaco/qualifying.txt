@@ -19,4 +19,3 @@
 19,22,Takuma Sato SAT,Super Aguri Honda,1:17.276,,,6
 20,23,Franck Montagny MON,Super Aguri Honda,1:17.502,,,7
 21,6,Felipe Massa MAS,Ferrari,DNF,,,2
-

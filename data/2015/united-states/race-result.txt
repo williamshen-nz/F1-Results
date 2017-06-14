@@ -18,4 +18,3 @@ NC,19,Felipe Massa MAS,Williams Mercedes,23,DNF,0
 NC,8,Romain Grosjean GRO,Lotus Mercedes,10,DNF,0
 NC,77,Valtteri Bottas BOT,Williams Mercedes,5,DNF,0
 NC,28,Will Stevens STE,Marussia Ferrari,1,DNF,0
-

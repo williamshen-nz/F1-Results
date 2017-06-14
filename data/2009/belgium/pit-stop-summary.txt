@@ -27,4 +27,3 @@
 2,16,Nico Rosberg ROS,Williams Toyota,33,15:08:30,23.380,47.246
 3,14,Mark Webber WEB,RBR Renault,34,15:10:20,23.936,1:05.104
 2,15,Sebastian Vettel VET,RBR Renault,35,15:11:42,23.333,50.426
-

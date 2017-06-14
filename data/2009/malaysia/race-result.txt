@@ -18,4 +18,3 @@
 18,21,Giancarlo Fisichella FIS,Force India Mercedes,29,DNF,0
 NC,5,Robert Kubica KUB,Sauber BMW,1,DNF,0
 NC,2,Heikki Kovalainen KOV,McLaren Mercedes,0,DNF,0
-

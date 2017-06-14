@@ -18,4 +18,3 @@
 18,11,Jaime Alguersuari ALG,STR Ferrari,1:22.391,+1.382s,20
 19,21,Giancarlo Fisichella FIS,Force India Mercedes,1:22.684,+1.675s,23
 20,20,Adrian Sutil SUT,Force India Mercedes,1:23.231,+2.222s,16
-

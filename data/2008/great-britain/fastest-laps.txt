@@ -16,4 +16,3 @@
 16,7,Nico Rosberg ROS,Williams Toyota,21,1:34.797,195.234
 17,21,Giancarlo Fisichella FIS,Force India Ferrari,21,1:34.930,194.960
 18,20,Adrian Sutil SUT,Force India Ferrari,5,1:38.160,188.545
-

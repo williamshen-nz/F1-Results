@@ -22,4 +22,3 @@ NC,24,Timo Glock GLO,Marussia Cosworth,56,DNF,0
 NC,7,Michael Schumacher MSC,Mercedes,43,DNF,0
 NC,22,Pedro de la Rosa DLR,HRT Cosworth,24,DNF,0
 NC,23,Narain Karthikeyan KAR,HRT Cosworth,22,DNF,0
-

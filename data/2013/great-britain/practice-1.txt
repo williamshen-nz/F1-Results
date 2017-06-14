@@ -19,4 +19,3 @@
 19,6,Sergio Perez PER,McLaren Mercedes,,,1
 20,20,Charles Pic PIC,Caterham Renault,,,3
 21,1,Sebastian Vettel VET,Red Bull Racing Renault,,,4
-

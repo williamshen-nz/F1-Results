@@ -41,4 +41,3 @@
 2,7,Kimi Räikkönen RAI,Ferrari,40,19:10:55,24.547,49.320
 3,13,Pastor Maldonado MAL,Lotus Mercedes,41,19:13:31,1:47.394,2:42.130
 3,12,Felipe Nasr NAS,Sauber Ferrari,41,19:13:54,26.210,1:17.567
-

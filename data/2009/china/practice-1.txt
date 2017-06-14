@@ -18,4 +18,3 @@
 18,5,Robert Kubica KUB,Sauber BMW,1:38.463,+1.129s,18
 19,17,Kazuki Nakajima NAK,Williams Toyota,1:38.730,+1.396s,25
 20,8,Nelson Piquet PIQ,Renault,1:38.825,+1.491s,20
-

@@ -20,4 +20,3 @@
 20,12,Esteban Gutierrez GUT,Sauber Ferrari,1:38.034
 21,23,Max Chilton CHI,Marussia Cosworth,1:41.401
 22,20,Charles Pic PIC,Caterham Renault,1:40.596
-

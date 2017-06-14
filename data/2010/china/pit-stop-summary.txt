@@ -65,4 +65,3 @@
 4,21,Bruno Senna SEN,HRT Cosworth,41,16:26:40,25.644,1:47.213
 4,20,Karun Chandhok CHD,HRT Cosworth,41,16:28:59,28.359,2:04.719
 6,17,Jaime Alguersuari ALG,STR Ferrari,46,16:32:37,24.292,2:27.257
-

@@ -20,4 +20,3 @@
 20,14,Sebastien Bourdais BOU,STR Ferrari,1:29.605,+3.046s,11
 21,18,Takuma Sato SAT,Super Aguri Honda,1:30.663,+4.104s,16
 22,19,Anthony Davidson DAV,Super Aguri Honda,1:31.527,+4.968s,8
-

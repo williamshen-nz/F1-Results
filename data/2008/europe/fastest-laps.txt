@@ -17,4 +17,3 @@
 17,20,Adrian Sutil SUT,Force India Ferrari,28,1:40.661,193.802
 18,16,Jenson Button BUT,Honda,21,1:40.763,193.606
 19,9,David Coulthard COU,Red Bull Renault,13,1:40.978,193.194
-

@@ -20,4 +20,3 @@ NC,16,Nico Rosberg ROS,Williams Toyota,42,DNF,0
 NC,14,David Coulthard COU,Red Bull Renault,36,DNF,0
 NC,21,Christijan Albers ALB,Spyker Ferrari,7,DNF,0
 NC,20,Adrian Sutil SUT,Spyker Ferrari,0,DNF,0
-

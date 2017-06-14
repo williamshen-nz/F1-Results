@@ -21,4 +21,3 @@
 21,10,Romain Grosjean GRO,Lotus Renault,,,1
 22,16,Daniel Ricciardo RIC,STR Ferrari,,,2
 23,2,Mark Webber WEB,Red Bull Racing Renault,,,1
-

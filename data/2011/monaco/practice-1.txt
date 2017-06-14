@@ -22,4 +22,3 @@
 22,23,Vitantonio Liuzzi LIU,HRT Cosworth,1:22.840,+6.221s,13
 23,22,Narain Karthikeyan KAR,HRT Cosworth,1:23.885,+7.266s,37
 24,2,Mark Webber WEB,Red Bull Racing Renault,,,3
-

@@ -16,4 +16,3 @@
 16,9,Marcus Ericsson ERI,Sauber Ferrari,1:26.831,+2.882s,29
 17,98,Roberto Merhi MER,Marussia Ferrari,1:29.113,+5.164s,29
 18,28,Will Stevens STE,Marussia Ferrari,1:29.115,+5.166s,28
-

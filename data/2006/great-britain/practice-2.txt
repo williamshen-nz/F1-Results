@@ -27,4 +27,3 @@
 27,22,Takuma Sato SAT,Super Aguri Honda,1:25.870,+4.788s,26
 28,23,Franck Montagny MON,Super Aguri Honda,1:26.248,+5.166s,22
 29,41,Sakon Yamamoto YAM,Super Aguri Honda,1:27.908,+6.826s,27
-

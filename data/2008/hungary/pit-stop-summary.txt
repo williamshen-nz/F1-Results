@@ -35,4 +35,3 @@
 2,21,Giancarlo Fisichella FIS,Force India Ferrari,55,15:21:48,25.126,52.963
 2,7,Nico Rosberg ROS,Williams Toyota,58,15:25:56,25.126,1:00.910
 3,20,Adrian Sutil SUT,Force India Ferrari,60,15:30:40,33.834,1:26.864
-

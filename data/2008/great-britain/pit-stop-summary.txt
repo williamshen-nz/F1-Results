@@ -32,4 +32,3 @@
 3,17,Rubens Barrichello BAR,Honda,46,14:20:13,26.864,1:41.006
 2,11,Jarno Trulli TRU,Toyota,47,14:22:44,24.088,50.014
 3,2,Felipe Massa MAS,Ferrari,49,14:28:18,24.643,1:18.093
-

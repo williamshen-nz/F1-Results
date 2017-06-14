@@ -18,4 +18,3 @@
 18,5,Robert Kubica KUB,Sauber BMW,1:16.405,,,12
 19,9,Jarno Trulli TRU,Toyota,1:16.548,,,11
 20,10,Timo Glock GLO,Toyota,1:16.788,,,12
-

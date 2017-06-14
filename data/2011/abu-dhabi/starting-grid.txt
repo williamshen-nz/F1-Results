@@ -22,4 +22,3 @@
 22,23,Vitantonio Liuzzi LIU,HRT Cosworth,1:45.159
 23,12,Pastor Maldonado MAL,Williams Cosworth,1:41.760
 24,11,Rubens Barrichello BAR,Williams Cosworth,
-

@@ -18,4 +18,3 @@
 18,8,Romain Grosjean GRO,Renault,1:43.021,+1.714s,37
 19,11,Jaime Alguersuari ALG,STR Ferrari,1:43.022,+1.715s,39
 20,5,Robert Kubica KUB,Sauber BMW,1:43.708,+2.401s,13
-

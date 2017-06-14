@@ -22,4 +22,3 @@
 22,23,Narain Karthikeyan KAR,HRT Cosworth,53,1:32.161,200.193
 23,15,Sergio Perez PER,Sauber Ferrari,17,1:32.208,200.091
 24,22,Pedro de la Rosa DLR,HRT Cosworth,39,1:32.864,198.677
-

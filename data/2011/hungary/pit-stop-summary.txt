@@ -86,4 +86,3 @@
 6,3,Lewis Hamilton HAM,McLaren Mercedes,56,15:30:48,13.173,1:59.200
 4,6,Felipe Massa MAS,Ferrari,58,15:33:53,21.157,1:27.041
 3,16,Kamui Kobayashi KOB,Sauber Ferrari,62,15:40:56,21.258,1:07.835
-

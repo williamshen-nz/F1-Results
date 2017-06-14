@@ -20,4 +20,3 @@
 20,3,Daniel Ricciardo RIC,Red Bull Racing TAG Heuer,,,3
 21,44,Lewis Hamilton HAM,Mercedes,,,2
 22,9,Marcus Ericsson ERI,Sauber Ferrari,,,1
-

@@ -35,4 +35,3 @@
 2,6,Felipe Massa MAS,Ferrari,58,15:20:18,21.115,42.243
 2,16,Daniel Ricciardo RIC,STR Ferrari,58,15:20:40,21.558,43.247
 2,1,Sebastian Vettel VET,Red Bull Racing Renault,63,15:26:26,22.428,44.067
-

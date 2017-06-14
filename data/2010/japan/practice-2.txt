@@ -22,4 +22,3 @@
 22,24,Timo Glock GLO,Virgin Cosworth,1:36.834,+5.369s,28
 23,21,Bruno Senna SEN,HRT Cosworth,1:37.352,+5.887s,33
 24,20,Sakon Yamamoto YAM,HRT Cosworth,1:37.831,+6.366s,34
-

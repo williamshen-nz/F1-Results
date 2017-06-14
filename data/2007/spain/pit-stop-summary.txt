@@ -34,4 +34,3 @@
 3,7,Jenson Button BUT,Honda,48,15:16:11,26.345,1:32.610
 2,23,Anthony Davidson DAV,Super Aguri Honda,49,15:17:07,25.668,53.789
 3,3,Giancarlo Fisichella FIS,Renault,58,15:29:24,23.904,1:18.822
-

@@ -20,4 +20,3 @@ NC,88,Rio Haryanto HAR,MRT Mercedes,17,DNF,0
 NC,21,Esteban Gutierrez GUT,Haas Ferrari,16,DNF,0
 NC,14,Fernando Alonso ALO,McLaren Honda,16,DNF,0
 NC,26,Daniil Kvyat KVY,Red Bull Racing TAG Heuer,0,DNS,0
-

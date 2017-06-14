@@ -71,4 +71,3 @@
 4,4,Felipe Massa MAS,Ferrari,47,17:27:39,20.970,1:26.569
 4,12,Esteban Gutierrez GUT,Sauber Ferrari,51,17:35:38,22.542,1:31.908
 4,6,Sergio Perez PER,McLaren Mercedes,54,17:40:12,21.366,1:25.181
-

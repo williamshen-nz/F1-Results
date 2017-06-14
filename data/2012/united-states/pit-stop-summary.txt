@@ -22,4 +22,3 @@
 1,8,Nico Rosberg ROS,Mercedes,34,14:03:17,21.346,21.346
 1,3,Jenson Button BUT,McLaren Mercedes,35,14:04:36,21.445,21.445
 2,7,Michael Schumacher MSC,Mercedes,39,14:12:20,21.297,43.560
-

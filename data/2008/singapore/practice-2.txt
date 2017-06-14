@@ -18,4 +18,3 @@
 18,17,Rubens Barrichello BAR,Honda,1:48.009,+2.355s,25
 19,11,Jarno Trulli TRU,Toyota,1:48.059,+2.405s,28
 20,20,Adrian Sutil SUT,Force India Ferrari,1:48.311,+2.657s,36
-

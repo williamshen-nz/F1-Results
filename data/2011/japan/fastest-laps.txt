@@ -22,4 +22,3 @@
 22,25,Jerome d'Ambrosio DAM,Virgin Cosworth,45,1:41.794,205.367
 23,18,Sebastien Buemi BUE,STR Ferrari,6,1:42.107,204.738
 24,23,Vitantonio Liuzzi LIU,HRT Cosworth,37,1:42.409,204.134
-

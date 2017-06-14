@@ -20,4 +20,3 @@
 20,20,Kevin Magnussen MAG,Renault,,,6
 21,21,Esteban Gutierrez GUT,Haas Ferrari,,,2
 22,19,Felipe Massa MAS,Williams Mercedes,,,4
-

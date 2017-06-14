@@ -18,4 +18,3 @@
 18,12,Felipe Nasr NAS,Sauber Ferrari,1:48.932,+3.250s,20
 19,53,Alexander Rossi RSI,Marussia Ferrari,1:52.588,+6.906s,26
 20,28,Will Stevens STE,Marussia Ferrari,1:55.293,+9.611s,22
-

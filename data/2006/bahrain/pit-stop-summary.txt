@@ -43,4 +43,3 @@
 3,10,Nico Rosberg ROS,Williams Cosworth,43,15:42:19,26.178,1:30.504
 2,21,Scott Speed SPE,STR Cosworth,43,15:42:53,27.118,54.697
 2,4,Juan Pablo Montoya MOY,McLaren Mercedes,44,15:43:17,25.369,52.861
-

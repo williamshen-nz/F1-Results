@@ -25,4 +25,3 @@
 25,17,Robert Kubica KUB,Sauber BMW,,,1
 26,15,Christian Klien KLI,RBR Ferrari,,,1
 27,14,David Coulthard COU,RBR Ferrari,,,1
-

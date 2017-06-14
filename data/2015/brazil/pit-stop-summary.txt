@@ -47,4 +47,3 @@
 3,9,Marcus Ericsson ERI,Sauber Ferrari,53,15:13:28,25.102,1:18.949
 3,8,Romain Grosjean GRO,Lotus Mercedes,54,15:14:07,23.958,1:12.220
 3,19,Felipe Massa MAS,Williams Mercedes,55,15:15:12,23.401,1:11.215
-

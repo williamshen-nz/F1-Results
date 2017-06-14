@@ -20,4 +20,3 @@ NC,11,Sergio Perez PER,Force India Mercedes,22,DNF,0
 NC,27,Nico Hulkenberg HUL,Force India Mercedes,14,DNF,0
 NC,8,Romain Grosjean GRO,Lotus Renault,10,DNF,0
 NC,9,Marcus Ericsson ERI,Caterham Renault,7,DNF,0
-

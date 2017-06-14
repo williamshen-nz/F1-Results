@@ -25,4 +25,3 @@
 25,37,Robert Doornbos DOO,RBR Ferrari,1:26.058,+3.427s,31
 26,22,Takuma Sato SAT,Super Aguri Honda,1:26.118,+3.487s,21
 27,23,Sakon Yamamoto YAM,Super Aguri Honda,1:26.705,+4.074s,14
-

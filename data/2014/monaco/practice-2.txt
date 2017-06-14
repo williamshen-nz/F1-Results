@@ -20,4 +20,3 @@
 20,6,Nico Rosberg ROS,Mercedes,1:22.862,+4.380s,11
 21,9,Marcus Ericsson ERI,Caterham Renault,1:23.164,+4.682s,6
 22,7,Kimi Räikkönen RAI,Ferrari,1:45.509,+27.027s,4
-

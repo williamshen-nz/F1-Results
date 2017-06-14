@@ -18,4 +18,3 @@
 18,12,Sebastien Buemi BUE,STR Ferrari,59,+1 lap,0
 NC,11,Sebastien Bourdais BOU,STR Ferrari,37,DNF,0
 NC,2,Heikki Kovalainen KOV,McLaren Mercedes,36,DNF,0
-

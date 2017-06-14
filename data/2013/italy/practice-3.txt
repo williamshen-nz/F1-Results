@@ -20,4 +20,3 @@
 20,22,Jules Bianchi BIA,Marussia Cosworth,1:27.605,+3.245s,18
 21,23,Max Chilton CHI,Marussia Cosworth,1:27.665,+3.305s,18
 22,9,Nico Rosberg ROS,Mercedes,1:27.822,+3.462s,5
-

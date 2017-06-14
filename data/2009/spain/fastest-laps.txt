@@ -14,4 +14,3 @@
 14,8,Nelson Piquet PIQ,Renault,41,1:24.286,198.823
 15,4,Kimi Räikkönen RAI,Ferrari,16,1:24.490,198.342
 16,2,Heikki Kovalainen KOV,McLaren Mercedes,6,1:28.719,188.888
-

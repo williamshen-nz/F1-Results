@@ -19,4 +19,3 @@
 19,8,Jarno Trulli TRU,Toyota,4,1:28.039,202.778
 20,22,Takuma Sato SAT,Super Aguri Honda,40,1:29.100,200.363
 21,23,Yuji Ide IDE,Super Aguri Honda,15,1:31.032,196.111
-

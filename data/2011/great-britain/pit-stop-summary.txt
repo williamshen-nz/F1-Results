@@ -52,4 +52,3 @@
 3,4,Jenson Button BUT,McLaren Mercedes,39,14:11:08,23.292,1:12.649
 3,14,Adrian Sutil SUT,Force India Mercedes,40,14:13:32,27.240,1:17.054
 3,6,Felipe Massa MAS,Ferrari,41,14:14:35,23.238,1:11.326
-

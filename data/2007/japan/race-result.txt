@@ -19,4 +19,3 @@ NC,16,Nico Rosberg ROS,Williams Toyota,49,DNF,0
 NC,19,Sebastian Vettel VET,STR Ferrari,46,DNF,0
 NC,15,Mark Webber WEB,Red Bull Renault,45,DNF,0
 NC,1,Fernando Alonso ALO,McLaren Mercedes,41,DNF,0
-

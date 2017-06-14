@@ -18,4 +18,3 @@
 18,11,Sebastien Bourdais BOU,STR Ferrari,1:26.964,,,10
 EX,10,Timo Glock GLO,Toyota,,,,19
 EX,9,Jarno Trulli TRU,Toyota,,,,20
-

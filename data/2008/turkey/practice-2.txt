@@ -18,4 +18,3 @@
 18,14,Sebastien Bourdais BOU,STR Ferrari,1:29.630,+2.087s,32
 19,10,Mark Webber WEB,Red Bull Renault,1:29.633,+2.090s,4
 20,20,Adrian Sutil SUT,Force India Ferrari,1:30.832,+3.289s,9
-

@@ -18,4 +18,3 @@ NC,5,Robert Kubica KUB,Sauber BMW,28,DNF,0
 NC,15,Sebastian Vettel VET,RBR Renault,15,DNF,0
 NC,8,Nelson Piquet PIQ,Renault,10,DNF,0
 NC,12,Sebastien Buemi BUE,STR Ferrari,10,DNF,0
-

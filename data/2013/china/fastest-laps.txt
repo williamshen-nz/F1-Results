@@ -20,4 +20,3 @@
 20,2,Mark Webber WEB,Red Bull Racing Renault,12,1:43.416,189.754
 21,15,Adrian Sutil SUT,Force India Mercedes,3,1:44.257,188.223
 22,12,Esteban Gutierrez GUT,Sauber Ferrari,2,1:44.775,187.292
-

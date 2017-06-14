@@ -18,4 +18,3 @@
 18,17,Kazuki Nakajima NAK,Williams Toyota,1:46.307
 19,8,Romain Grosjean GRO,Renault,1:46.359
 20,3,Luca Badoer BAD,Ferrari,1:46.957
-

@@ -18,4 +18,3 @@
 18,7,Kimi Räikkönen RAI,Ferrari,1:12.867,,,10
 19,98,Roberto Merhi MER,Marussia Ferrari,1:14.071,,,12
 20,28,Will Stevens STE,Marussia Ferrari,1:15.368,,,11
-

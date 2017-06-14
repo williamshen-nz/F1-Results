@@ -19,4 +19,3 @@
 19,23,Narain Karthikeyan KAR,HRT Cosworth,44,1:20.286,149.764
 20,21,Vitaly Petrov PET,Caterham Renault,12,1:20.825,148.765
 21,14,Kamui Kobayashi KOB,Sauber Ferrari,4,1:25.480,140.664
-

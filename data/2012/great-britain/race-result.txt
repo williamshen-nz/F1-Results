@@ -22,4 +22,3 @@
 NC,15,Sergio Perez PER,Sauber Ferrari,11,DNF,0
 NC,11,Paul di Resta DIR,Force India Mercedes,2,DNF,0
 NC,21,Vitaly Petrov PET,Caterham Renault,,DNS,0
-

@@ -20,4 +20,3 @@
 20,18,Vitantonio Liuzzi LIU,STR Ferrari,1:51.628,+4.289s,12
 21,21,Sakon Yamamoto YAM,Spyker Ferrari,1:52.379,+5.040s,21
 22,5,Felipe Massa MAS,Ferrari,,,2
-

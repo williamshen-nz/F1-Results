@@ -27,4 +27,3 @@
 27,16,Nick Heidfeld HEI,Sauber BMW,1:31.526,+3.435s,10
 28,14,David Coulthard COU,RBR Ferrari,1:31.540,+3.449s,10
 29,19,Christijan Albers ALB,MF1 Toyota,1:32.102,+4.011s,7
-

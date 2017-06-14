@@ -22,4 +22,3 @@
 22,21,Vitaly Petrov PET,Caterham Renault,1:35.432
 23,7,Michael Schumacher MSC,Mercedes,1:32.469
 24,23,Narain Karthikeyan KAR,HRT Cosworth,1:36.734
-

@@ -18,4 +18,3 @@
 18,10,Kamui Kobayashi KOB,Caterham Renault,1:45.505,+3.392s,38
 19,46,Will Stevens STE,Caterham Renault,1:47.057,+4.944s,34
 20,14,Fernando Alonso ALO,Ferrari,,,2
-

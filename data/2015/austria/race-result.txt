@@ -18,4 +18,3 @@ NC,22,Jenson Button BUT,McLaren Honda,8,DNF,0
 NC,28,Will Stevens STE,Marussia Ferrari,1,DNF,0
 NC,7,Kimi Räikkönen RAI,Ferrari,0,DNF,0
 NC,14,Fernando Alonso ALO,McLaren Honda,0,DNF,0
-

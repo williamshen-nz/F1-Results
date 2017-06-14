@@ -20,4 +20,3 @@
 20,8,Rubens Barrichello BAR,Honda,1:22.596,+2.413s,18
 21,20,Adrian Sutil SUT,Spyker Ferrari,1:23.560,+3.377s,22
 22,21,Sakon Yamamoto YAM,Spyker Ferrari,1:24.062,+3.879s,24
-

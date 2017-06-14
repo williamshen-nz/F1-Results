@@ -16,4 +16,3 @@
 16,21,Esteban Gutierrez GUT,Sauber Ferrari,1:40.208,+3.101s,22
 17,25,Jean-Eric Vergne VER,STR Renault,1:41.443,+4.336s,12
 18,1,Sebastian Vettel VET,Red Bull Racing Renault,1:43.765,+6.658s,25
-

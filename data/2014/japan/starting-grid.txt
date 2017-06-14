@@ -20,4 +20,3 @@
 20,25,Jean-Eric Vergne VER,STR Renault,1:34.984
 21,4,Max Chilton CHI,Marussia Ferrari,1:37.481
 22,13,Pastor Maldonado MAL,Lotus Renault,1:35.917
-

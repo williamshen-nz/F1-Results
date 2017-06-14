@@ -20,4 +20,3 @@
 20,16,Nico Rosberg ROS,Williams Toyota,2,2:50.950,108.410
 21,19,Scott Speed SPE,STR Ferrari,2,3:01.900,101.884
 22,18,Vitantonio Liuzzi LIU,STR Ferrari,2,3:22.300,91.610
-

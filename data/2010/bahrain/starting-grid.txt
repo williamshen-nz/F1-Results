@@ -20,4 +20,3 @@
 20,18,Jarno Trulli TRU,Lotus Cosworth,1:59.852
 21,19,Heikki Kovalainen KOV,Lotus Cosworth,2:00.313
 22,25,Lucas di Grassi DIG,Virgin Cosworth,2:00.587
-

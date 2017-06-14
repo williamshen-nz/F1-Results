@@ -17,4 +17,3 @@
 17,17,Kazuki Nakajima NAK,Williams Toyota,1:24.074
 18,16,Nico Rosberg ROS,Williams Toyota,1:24.121
 19,12,Sebastien Buemi BUE,STR Ferrari,1:24.220
-

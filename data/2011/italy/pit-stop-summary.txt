@@ -33,4 +33,3 @@
 3,9,Bruno Senna SEN,Renault,40,15:06:27,22.273,1:07.952
 2,6,Felipe Massa MAS,Ferrari,41,15:07:06,22.148,43.969
 2,19,Jaime Alguersuari ALG,STR Ferrari,41,15:07:43,22.279,44.267
-

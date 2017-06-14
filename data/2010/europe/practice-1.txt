@@ -22,4 +22,3 @@
 22,18,Jarno Trulli TRU,Lotus Cosworth,1:47.285,+6.110s,18
 23,20,Christian Klien KLI,HRT Cosworth,1:47.343,+6.168s,14
 24,25,Lucas di Grassi DIG,Virgin Cosworth,1:47.356,+6.181s,24
-

@@ -27,4 +27,3 @@
 1,24,Timo Glock GLO,Virgin Cosworth,52,15:15:31,21.472,21.472
 2,22,Pedro de la Rosa DLR,Sauber Ferrari,58,15:21:07,25.089,44.050
 3,15,Vitantonio Liuzzi LIU,Force India Mercedes,62,15:27:06,18.693,1:11.868
-

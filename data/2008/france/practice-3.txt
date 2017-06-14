@@ -18,4 +18,3 @@
 18,3,Nick Heidfeld HEI,Sauber BMW,1:16.687,+0.937s,19
 19,21,Giancarlo Fisichella FIS,Force India Ferrari,1:17.365,+1.615s,23
 20,20,Adrian Sutil SUT,Force India Ferrari,1:17.612,+1.862s,21
-

@@ -53,4 +53,3 @@
 3,8,Romain Grosjean GRO,Lotus Renault,42,14:18:29,25.911,1:15.387
 3,14,Paul di Resta DIR,Force India Mercedes,42,14:18:34,33.401,1:23.504
 4,4,Felipe Massa MAS,Ferrari,42,14:18:38,24.872,1:49.162
-

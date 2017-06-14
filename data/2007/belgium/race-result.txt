@@ -20,4 +20,3 @@ NC,17,Alexander Wurz WUR,Williams Toyota,34,DNF,0
 NC,14,David Coulthard COU,Red Bull Renault,29,DNF,0
 NC,19,Sebastian Vettel VET,STR Ferrari,8,DNF,0
 NC,3,Giancarlo Fisichella FIS,Renault,1,DNF,0
-

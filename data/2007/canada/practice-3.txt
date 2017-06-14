@@ -20,4 +20,3 @@
 20,17,Alexander Wurz WUR,Williams Toyota,1:18.489,+2.418s,11
 21,4,Heikki Kovalainen KOV,Renault,1:18.758,+2.687s,10
 22,21,Christijan Albers ALB,Spyker Ferrari,1:18.933,+2.862s,13
-

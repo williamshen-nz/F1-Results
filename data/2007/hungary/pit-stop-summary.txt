@@ -41,4 +41,3 @@
 2,22,Takuma Sato SAT,Super Aguri Honda,55,15:20:26,22.396,46.700
 3,10,Robert Kubica KUB,Sauber BMW,56,15:20:34,21.833,1:06.757
 3,15,Mark Webber WEB,Red Bull Renault,58,15:23:45,21.444,1:07.789
-

@@ -52,4 +52,3 @@
 2,10,Lewis Hamilton HAM,Mercedes,43,21:30:03,30.085,59.117
 2,1,Sebastian Vettel VET,Red Bull Racing Renault,44,21:31:26,28.934,57.721
 3,20,Charles Pic PIC,Caterham Renault,54,21:52:04,31.546,1:35.395
-

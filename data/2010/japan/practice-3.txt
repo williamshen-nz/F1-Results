@@ -22,4 +22,3 @@
 22,14,Adrian Sutil SUT,Force India Mercedes,,,1
 23,11,Robert Kubica KUB,Renault,,,2
 24,2,Lewis Hamilton HAM,McLaren Mercedes,,,3
-

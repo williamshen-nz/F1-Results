@@ -20,4 +20,3 @@
 20,94,Pascal Wehrlein WEH,MRT Mercedes,47,15:13:35,1:26.524,182.280
 21,22,Jenson Button BUT,McLaren Honda,9,14:17:19,1:26.744,181.817
 22,88,Rio Haryanto HAR,MRT Mercedes,64,15:39:09,1:27.791,179.649
-

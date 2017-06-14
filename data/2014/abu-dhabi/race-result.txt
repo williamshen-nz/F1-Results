@@ -18,4 +18,3 @@
 NC,10,Kamui Kobayashi KOB,Caterham Renault,42,DNF,0
 NC,13,Pastor Maldonado MAL,Lotus Renault,26,DNF,0
 NC,26,Daniil Kvyat KVY,STR Renault,14,DNF,0
-

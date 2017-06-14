@@ -20,4 +20,3 @@
 20,20,Adrian Sutil SUT,Spyker Ferrari,1:50.399,+3.745s,24
 21,23,Anthony Davidson DAV,Super Aguri Honda,1:50.542,+3.888s,24
 22,18,Vitantonio Liuzzi LIU,STR Ferrari,1:50.865,+4.211s,9
-

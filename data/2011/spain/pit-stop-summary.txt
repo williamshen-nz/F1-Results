@@ -75,4 +75,3 @@
 4,12,Pastor Maldonado MAL,Williams Cosworth,53,15:25:26,22.077,1:31.161
 3,24,Timo Glock GLO,Virgin Cosworth,53,15:27:29,21.170,1:05.546
 4,11,Rubens Barrichello BAR,Williams Cosworth,54,15:27:32,20.637,1:32.449
-

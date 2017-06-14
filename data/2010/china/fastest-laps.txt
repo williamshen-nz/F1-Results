@@ -18,4 +18,3 @@
 18,20,Karun Chandhok CHD,HRT Cosworth,15,1:48.788,180.383
 19,18,Jarno Trulli TRU,Lotus Cosworth,14,1:49.675,178.925
 20,25,Lucas di Grassi DIG,Virgin Cosworth,7,1:53.185,173.376
-

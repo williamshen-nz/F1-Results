@@ -20,4 +20,3 @@
 20,22,Takuma Sato SAT,Super Aguri Honda,1:28.267,+4.480s,18
 21,23,Yuji Ide IDE,Super Aguri Honda,1:29.330,+5.543s,20
 22,4,Juan Pablo Montoya MOY,McLaren Mercedes,,,1
-

@@ -17,4 +17,3 @@
 17,9,Marcus Ericsson ERI,Sauber Ferrari,1:43.838
 18,8,Romain Grosjean GRO,Lotus Mercedes,
 19,28,Will Stevens STE,Marussia Ferrari,1:46.297
-

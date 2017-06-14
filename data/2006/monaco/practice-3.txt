@@ -20,4 +20,3 @@
 20,22,Takuma Sato SAT,Super Aguri Honda,1:17.148,+3.325s,24
 21,7,Ralf Schumacher RSC,Toyota,1:17.860,+4.037s,21
 22,23,Franck Montagny MON,Super Aguri Honda,1:17.934,+4.111s,21
-

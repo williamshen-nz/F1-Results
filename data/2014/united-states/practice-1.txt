@@ -16,4 +16,3 @@
 16,21,Esteban Gutierrez GUT,Sauber Ferrari,1:42.516,+2.575s,24
 17,3,Daniel Ricciardo RIC,Red Bull Racing Renault,1:42.598,+2.657s,5
 18,8,Romain Grosjean GRO,Lotus Renault,1:43.229,+3.288s,26
-

@@ -22,4 +22,3 @@
 22,25,Jerome d'Ambrosio DAM,Virgin Cosworth,60,1:19.902,194.142
 23,23,Vitantonio Liuzzi LIU,HRT Cosworth,60,1:20.648,192.346
 24,24,Timo Glock GLO,Virgin Cosworth,14,1:21.773,189.700
-

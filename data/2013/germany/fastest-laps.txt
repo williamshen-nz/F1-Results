@@ -20,4 +20,3 @@
 20,4,Felipe Massa MAS,Ferrari,3,1:38.890,187.408
 21,18,Jean-Eric Vergne VER,STR Ferrari,12,1:39.281,186.670
 22,22,Jules Bianchi BIA,Marussia Cosworth,20,1:39.844,185.617
-

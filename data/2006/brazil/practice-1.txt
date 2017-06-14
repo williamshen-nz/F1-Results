@@ -23,4 +23,3 @@
 23,15,Robert Doornbos DOO,RBR Ferrari,,,1
 24,2,Giancarlo Fisichella FIS,Renault,,,1
 25,1,Fernando Alonso ALO,Renault,,,1
-

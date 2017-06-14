@@ -20,4 +20,3 @@ NC,9,Marcus Ericsson ERI,Caterham Renault,11,DNF,0
 NC,21,Esteban Gutierrez GUT,Sauber Ferrari,9,DNF,0
 NC,19,Felipe Massa MAS,Williams Mercedes,0,DNF,0
 NC,7,Kimi Räikkönen RAI,Ferrari,0,DNF,0
-

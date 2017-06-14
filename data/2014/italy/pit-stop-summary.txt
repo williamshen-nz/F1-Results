@@ -21,4 +21,3 @@
 1,9,Marcus Ericsson ERI,Caterham Renault,30,14:50:45,28.685,28.685
 2,21,Esteban Gutierrez GUT,Sauber Ferrari,36,14:59:03,25.693,52.069
 3,21,Esteban Gutierrez GUT,Sauber Ferrari,49,15:19:29,26.849,1:18.918
-

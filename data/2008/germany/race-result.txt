@@ -18,4 +18,3 @@
 NC,17,Rubens Barrichello BAR,Honda,50,DNF,0
 NC,10,Mark Webber WEB,Red Bull Renault,40,DNF,0
 NC,12,Timo Glock GLO,Toyota,35,DNF,0
-

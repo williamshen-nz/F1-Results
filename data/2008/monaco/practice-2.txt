@@ -18,4 +18,3 @@
 18,14,Sebastien Bourdais BOU,STR Ferrari,1:17.581,+2.441s,38
 19,20,Adrian Sutil SUT,Force India Ferrari,1:18.176,+3.036s,31
 20,15,Sebastian Vettel VET,STR Ferrari,1:18.225,+3.085s,38
-

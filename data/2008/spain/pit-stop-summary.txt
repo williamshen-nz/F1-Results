@@ -32,4 +32,3 @@
 3,12,Timo Glock GLO,Toyota,53,15:24:30,27.655,1:20.451
 2,16,Jenson Button BUT,Honda,54,15:25:14,25.413,59.414
 3,9,David Coulthard COU,Red Bull Renault,54,15:26:17,32.360,1:27.345
-

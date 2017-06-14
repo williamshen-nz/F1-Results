@@ -20,4 +20,3 @@
 20,17,Jules Bianchi BIA,Marussia Ferrari,1:39.306,+4.228s,20
 21,4,Max Chilton CHI,Marussia Ferrari,1:39.333,+4.255s,24
 22,10,Kamui Kobayashi KOB,Caterham Renault,1:42.760,+7.682s,3
-

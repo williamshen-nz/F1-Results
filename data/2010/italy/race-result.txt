@@ -22,4 +22,3 @@ NC,18,Jarno Trulli TRU,Lotus Cosworth,46,DNF,0
 NC,21,Bruno Senna SEN,HRT Cosworth,11,DNF,0
 NC,2,Lewis Hamilton HAM,McLaren Mercedes,0,DNF,0
 NC,23,Kamui Kobayashi KOB,Sauber Ferrari,0,DNF,0
-

@@ -22,4 +22,3 @@
 22,21,Bruno Senna SEN,HRT Cosworth,1:26.847
 23,20,Sakon Yamamoto YAM,HRT Cosworth,1:27.020
 24,24,Timo Glock GLO,Virgin Cosworth,1:25.934
-

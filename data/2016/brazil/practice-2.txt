@@ -20,4 +20,3 @@
 20,21,Esteban Gutierrez GUT,Haas Ferrari,1:14.558,+2.287s,42
 21,9,Marcus Ericsson ERI,Sauber Ferrari,1:14.695,+2.424s,21
 22,94,Pascal Wehrlein WEH,MRT Mercedes,1:14.958,+2.687s,22
-

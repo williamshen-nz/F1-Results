@@ -20,4 +20,3 @@
 20,6,Felipe Massa MAS,Ferrari,1:45.970
 21,22,Takuma Sato SAT,Super Aguri Honda,1:50.326
 22,19,Christijan Albers ALB,MF1 Toyota,
-

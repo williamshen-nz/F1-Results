@@ -29,4 +29,3 @@
 1,22,Lewis Hamilton HAM,McLaren Mercedes,50,15:12:17,22.952,22.952
 2,3,Nick Heidfeld HEI,Sauber BMW,53,15:16:11,22.263,46.865
 3,16,Jenson Button BUT,Honda,54,15:19:06,23.000,1:12.472
-

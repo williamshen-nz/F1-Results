@@ -18,4 +18,3 @@
 18,22,Jenson Button BUT,Brawn Mercedes,1:43.318,+2.962s,17
 19,10,Kamui Kobayashi KOB,Toyota,1:43.407,+3.051s,16
 20,8,Romain Grosjean GRO,Renault,1:43.572,+3.216s,22
-

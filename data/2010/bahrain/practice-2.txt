@@ -21,4 +21,3 @@
 21,25,Lucas di Grassi DIG,Virgin Cosworth,2:02.188,+6.779s,21
 22,21,Bruno Senna SEN,HRT Cosworth,2:06.968,+11.559s,17
 23,16,Sebastien Buemi BUE,STR Ferrari,,,1
-

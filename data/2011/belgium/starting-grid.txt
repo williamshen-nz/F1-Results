@@ -22,4 +22,3 @@
 22,23,Vitantonio Liuzzi LIU,HRT Cosworth,2:11.616
 23,22,Daniel Ricciardo RIC,HRT Cosworth,2:13.077
 24,7,Michael Schumacher MSC,Mercedes,
-

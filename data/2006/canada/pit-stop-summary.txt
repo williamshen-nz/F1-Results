@@ -40,4 +40,3 @@
 2,5,Michael Schumacher MSC,Ferrari,57,14:19:11,23.639,49.345
 3,18,Tiago Monteiro MON,MF1 Toyota,57,14:25:13,24.518,2:31.942
 5,7,Ralf Schumacher RSC,Toyota,57,14:25:27,25.708,1:51.599
-

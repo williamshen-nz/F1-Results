@@ -20,4 +20,3 @@
 20,23,Sakon Yamamoto YAM,Super Aguri Honda,1:13.357
 21,18,Tiago Monteiro MON,MF1 Toyota,
 22,15,Robert Doornbos DOO,RBR Ferrari,1:12.591
-

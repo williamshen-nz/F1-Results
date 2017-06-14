@@ -22,4 +22,3 @@
 22,12,Pastor Maldonado MAL,Williams Cosworth,5,1:45.689,188.806
 23,23,Vitantonio Liuzzi LIU,HRT Cosworth,42,1:46.521,187.332
 24,22,Narain Karthikeyan KAR,HRT Cosworth,5,1:49.385,182.427
-

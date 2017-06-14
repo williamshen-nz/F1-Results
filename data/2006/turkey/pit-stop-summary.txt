@@ -35,4 +35,3 @@
 2,8,Jarno Trulli TRU,Toyota,44,16:12:24,23.864,48.784
 2,14,David Coulthard COU,RBR Ferrari,45,16:13:59,23.194,50.388
 2,22,Takuma Sato SAT,Super Aguri Honda,31,16:17:23,29.437,24:26.019
-

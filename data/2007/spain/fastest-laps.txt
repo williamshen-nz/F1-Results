@@ -19,4 +19,3 @@
 19,12,Jarno Trulli TRU,Toyota,6,1:26.094,194.647
 20,19,Scott Speed SPE,STR Ferrari,6,1:26.238,194.322
 21,15,Mark Webber WEB,Red Bull Renault,4,1:26.323,194.131
-

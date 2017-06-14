@@ -20,4 +20,3 @@
 20,2,Mark Webber WEB,Red Bull Racing Renault,1:29.473,+4.221s,21
 21,23,Rodolfo Gonzalez GON,Marussia Cosworth,1:30.314,+5.062s,13
 22,5,Jenson Button BUT,McLaren Mercedes,,,6
-

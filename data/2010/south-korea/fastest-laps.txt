@@ -22,4 +22,3 @@
 22,4,Nico Rosberg ROS,Mercedes,18,2:00.652,167.539
 23,25,Lucas di Grassi DIG,Virgin Cosworth,25,2:02.635,164.830
 24,18,Jarno Trulli TRU,Lotus Cosworth,20,2:05.161,161.503
-

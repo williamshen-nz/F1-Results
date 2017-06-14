@@ -44,4 +44,3 @@
 4,11,Rubens Barrichello BAR,Williams Cosworth,40,18:08:03,26.309,1:44.700
 3,5,Fernando Alonso ALO,Ferrari,42,18:09:08,24.181,1:12.165
 3,6,Felipe Massa MAS,Ferrari,48,18:18:54,24.095,1:12.437
-

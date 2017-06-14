@@ -18,4 +18,3 @@
 18,9,David Coulthard COU,Red Bull Renault,1:13.861,+1.556s,19
 19,20,Adrian Sutil SUT,Force India Ferrari,1:14.704,+2.399s,21
 20,21,Giancarlo Fisichella FIS,Force India Ferrari,1:14.821,+2.516s,21
-

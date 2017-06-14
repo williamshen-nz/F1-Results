@@ -18,4 +18,3 @@
 18,20,Adrian Sutil SUT,Force India Ferrari,1:17.784,+2.247s,29
 19,4,Robert Kubica KUB,Sauber BMW,1:18.779,+3.242s,8
 20,14,Sebastien Bourdais BOU,STR Ferrari,1:21.506,+5.969s,16
-

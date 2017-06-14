@@ -17,4 +17,3 @@ NC,13,Pastor Maldonado MAL,Lotus Mercedes,47,DNF,0
 NC,22,Jenson Button BUT,McLaren Honda,41,DNF,0
 NC,14,Fernando Alonso ALO,McLaren Honda,21,DNF,0
 NC,9,Marcus Ericsson ERI,Sauber Ferrari,3,DNF,0
-

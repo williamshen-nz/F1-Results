@@ -20,4 +20,3 @@
 20,23,Heikki Kovalainen KOV,McLaren Mercedes,1:27.992,+2.379s,15
 21,18,Takuma Sato SAT,Super Aguri Honda,1:28.363,+2.750s,13
 22,19,Anthony Davidson DAV,Super Aguri Honda,1:28.912,+3.299s,15
-

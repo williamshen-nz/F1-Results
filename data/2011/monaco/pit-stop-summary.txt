@@ -41,4 +41,3 @@
 2,14,Adrian Sutil SUT,Force India Mercedes,68,15:37:52,27.879,52.916
 2,11,Rubens Barrichello BAR,Williams Cosworth,68,15:38:54,25.675,51.596
 2,9,Nick Heidfeld HEI,Renault,69,15:40:13,26.281,52.132
-

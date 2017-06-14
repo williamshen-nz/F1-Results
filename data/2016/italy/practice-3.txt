@@ -20,4 +20,3 @@
 20,26,Daniil Kvyat KVY,Toro Rosso Ferrari,1:24.845,+2.837s,17
 21,94,Pascal Wehrlein WEH,MRT Mercedes,1:24.893,+2.885s,19
 22,31,Esteban Ocon OCO,MRT Mercedes,1:24.938,+2.930s,15
-

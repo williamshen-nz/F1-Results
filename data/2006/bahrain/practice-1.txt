@@ -22,4 +22,3 @@
 22,7,Ralf Schumacher RSC,Toyota,,,1
 23,16,Nick Heidfeld HEI,Sauber BMW,,,1
 24,17,Jacques Villeneuve VIL,Sauber BMW,,,1
-

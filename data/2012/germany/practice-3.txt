@@ -22,4 +22,3 @@
 22,25,Charles Pic PIC,Marussia Cosworth,1:20.318,+4.304s,9
 23,23,Narain Karthikeyan KAR,HRT Cosworth,1:20.741,+4.727s,22
 24,3,Jenson Button BUT,McLaren Mercedes,1:20.914,+4.900s,25
-

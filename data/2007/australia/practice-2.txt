@@ -20,4 +20,3 @@
 20,20,Adrian Sutil SUT,Spyker Ferrari,1:31.108,+3.755s,35
 21,21,Christijan Albers ALB,Spyker Ferrari,1:31.175,+3.822s,32
 22,18,Vitantonio Liuzzi LIU,STR Ferrari,1:31.693,+4.340s,16
-

@@ -20,4 +20,3 @@
 20,20,Charles Pic PIC,Caterham Renault,1:35.518,+3.465s,18
 21,23,Max Chilton CHI,Marussia Cosworth,1:35.844,+3.791s,16
 22,22,Jules Bianchi BIA,Marussia Cosworth,1:39.378,+7.325s,20
-

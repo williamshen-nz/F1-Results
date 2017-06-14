@@ -36,4 +36,3 @@
 3,4,Nico Rosberg ROS,Mercedes,54,15:14:54,21.318,1:19.271
 3,22,Nick Heidfeld HEI,Sauber Ferrari,64,15:29:30,13.921,57.545
 3,25,Lucas di Grassi DIG,Virgin Cosworth,57,15:29:58,22.529,7:35.033
-

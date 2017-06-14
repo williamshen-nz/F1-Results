@@ -28,4 +28,3 @@
 2,16,Nico Rosberg ROS,Williams Toyota,59,15:20:55,24.092,50.538
 2,8,Rubens Barrichello BAR,Honda,60,15:22:09,24.010,48.736
 2,7,Jenson Button BUT,Honda,61,15:23:28,24.936,49.934
-

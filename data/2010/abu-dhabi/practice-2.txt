@@ -22,4 +22,3 @@
 22,25,Lucas di Grassi DIG,Virgin Cosworth,1:46.053,+5.165s,29
 23,20,Christian Klien KLI,HRT Cosworth,1:47.210,+6.322s,32
 24,21,Bruno Senna SEN,HRT Cosworth,1:47.434,+6.546s,28
-

@@ -16,4 +16,3 @@
 16,34,Daniel Juncadella JUN,Force India Mercedes,1:16.030,+3.266s,17
 17,22,Jenson Button BUT,McLaren Mercedes,,,1
 18,21,Esteban Gutierrez GUT,Sauber Ferrari,,,6
-

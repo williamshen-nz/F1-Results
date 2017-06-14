@@ -19,4 +19,3 @@
 2,10,Nico Hulkenberg HUL,Williams Cosworth,25,15:57:27,25.735,50.871
 2,17,Jaime Alguersuari ALG,STR Ferrari,26,15:58:47,23.337,47.393
 1,19,Heikki Kovalainen KOV,Lotus Cosworth,30,16:08:34,26.394,26.394
-

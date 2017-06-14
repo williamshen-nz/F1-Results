@@ -22,4 +22,3 @@ NC,8,Fernando Alonso ALO,Ferrari,37,DNF,0
 NC,1,Jenson Button BUT,McLaren Mercedes,15,DNF,0
 NC,21,Bruno Senna SEN,HRT Cosworth,5,DNF,0
 NC,9,Rubens Barrichello BAR,Williams Cosworth,0,DNF,0
-

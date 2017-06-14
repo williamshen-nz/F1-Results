@@ -22,4 +22,3 @@
 22,18,Jarno Trulli TRU,Lotus Cosworth,1:21.346,+4.469s,11
 23,24,Timo Glock GLO,Virgin Cosworth,1:21.488,+4.611s,25
 24,25,Lucas di Grassi DIG,Virgin Cosworth,1:21.577,+4.700s,30
-

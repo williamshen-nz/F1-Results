@@ -20,4 +20,3 @@
 20,11,Rubens Barrichello BAR,Honda,1:18.961,+1.956s,20
 21,23,Franck Montagny MON,Super Aguri Honda,1:19.497,+2.492s,18
 22,22,Takuma Sato SAT,Super Aguri Honda,1:21.497,+4.492s,10
-

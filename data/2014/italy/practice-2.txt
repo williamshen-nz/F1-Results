@@ -20,4 +20,3 @@
 20,8,Romain Grosjean GRO,Lotus Renault,1:29.085,+2.860s,29
 21,10,Kamui Kobayashi KOB,Caterham Renault,1:29.178,+2.953s,32
 22,9,Marcus Ericsson ERI,Caterham Renault,1:29.275,+3.050s,37
-

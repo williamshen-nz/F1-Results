@@ -56,4 +56,3 @@
 3,11,Rubens Barrichello BAR,Williams Cosworth,53,15:14:17,21.638,1:05.765
 3,2,Mark Webber WEB,Red Bull Racing Renault,58,15:18:40,20.781,1:02.526
 3,1,Sebastian Vettel VET,Red Bull Racing Renault,59,15:20:05,22.094,1:03.673
-

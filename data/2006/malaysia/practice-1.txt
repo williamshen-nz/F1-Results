@@ -22,4 +22,3 @@
 22,2,Giancarlo Fisichella FIS,Renault,,,2
 23,17,Jacques Villeneuve VIL,Sauber BMW,,,1
 24,16,Nick Heidfeld HEI,Sauber BMW,,,1
-

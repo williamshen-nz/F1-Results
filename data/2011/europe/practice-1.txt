@@ -22,4 +22,3 @@
 22,23,Vitantonio Liuzzi LIU,HRT Cosworth,1:45.494,+5.091s,24
 23,22,Narain Karthikeyan KAR,HRT Cosworth,1:46.926,+6.523s,27
 24,21,Karun Chandhok CHD,Lotus Renault,,,2
-

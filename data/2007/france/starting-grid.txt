@@ -20,4 +20,3 @@
 20,21,Christijan Albers ALB,Spyker Ferrari,1:17.826
 21,20,Adrian Sutil SUT,Spyker Ferrari,1:17.915
 22,22,Takuma Sato SAT,Super Aguri Honda,1:16.244
-

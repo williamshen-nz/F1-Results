@@ -20,4 +20,3 @@
 20,12,Felipe Nasr NAS,Sauber Ferrari,1:47.379,+3.027s,18
 21,88,Rio Haryanto HAR,MRT Mercedes,1:47.556,+3.204s,18
 22,77,Valtteri Bottas BOT,Williams Mercedes,,,1
-

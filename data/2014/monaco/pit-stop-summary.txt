@@ -25,4 +25,3 @@
 2,10,Kamui Kobayashi KOB,Caterham Renault,62,15:34:01,25.116,50.537
 3,4,Max Chilton CHI,Marussia Ferrari,66,15:40:58,26.137,1:36.563
 3,7,Kimi Räikkönen RAI,Ferrari,73,15:47:37,31.896,1:22.862
-

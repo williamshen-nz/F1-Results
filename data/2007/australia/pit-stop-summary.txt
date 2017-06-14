@@ -39,4 +39,3 @@
 2,4,Heikki Kovalainen KOV,Renault,46,15:13:22,21.809,45.105
 2,12,Jarno Trulli TRU,Toyota,46,15:13:29,22.794,46.493
 2,14,David Coulthard COU,Red Bull Renault,47,15:15:13,20.963,45.680
-

@@ -17,4 +17,3 @@
 17,5,Robert Kubica KUB,Sauber BMW,1:16.405
 18,9,Jarno Trulli TRU,Toyota,1:16.548
 19,1,Lewis Hamilton HAM,McLaren Mercedes,1:16.264
-

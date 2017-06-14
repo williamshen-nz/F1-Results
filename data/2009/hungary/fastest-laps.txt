@@ -16,4 +16,3 @@
 16,11,Jaime Alguersuari ALG,STR Ferrari,69,1:23.444,189.008
 17,15,Sebastian Vettel VET,RBR Renault,18,1:23.457,188.978
 18,7,Fernando Alonso ALO,Renault,4,1:23.529,188.815
-

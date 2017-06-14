@@ -19,4 +19,3 @@
 19,9,Marcus Ericsson ERI,Caterham Renault,1:35.157
 20,21,Esteban Gutierrez GUT,Sauber Ferrari,1:35.117
 21,13,Pastor Maldonado MAL,Lotus Renault,
-

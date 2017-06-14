@@ -20,4 +20,3 @@
 20,22,Jenson Button BUT,McLaren Honda,1:47.127,+4.258s,10
 21,42,Jordan King KIN,MRT Mercedes,1:47.558,+4.689s,27
 22,26,Daniil Kvyat KVY,Toro Rosso Ferrari,2:01.989,+19.120s,4
-

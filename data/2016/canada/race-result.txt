@@ -20,4 +20,3 @@
 NC,19,Felipe Massa MAS,Williams Mercedes,35,DNF,0
 NC,30,Jolyon Palmer PAL,Renault,16,DNF,0
 NC,22,Jenson Button BUT,McLaren Honda,9,DNF,0
-

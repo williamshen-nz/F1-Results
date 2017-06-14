@@ -22,4 +22,3 @@
 22,21,Bruno Senna SEN,HRT Cosworth,1:33.401,+6.474s,24
 23,20,Karun Chandhok CHD,HRT Cosworth,1:34.251,+7.324s,19
 24,24,Timo Glock GLO,Virgin Cosworth,1:34.925,+7.998s,8
-

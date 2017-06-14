@@ -18,4 +18,3 @@
 18,7,Fernando Alonso ALO,Renault,1:35.348,+1.701s,24
 19,11,Sebastien Bourdais BOU,STR Ferrari,1:35.353,+1.706s,22
 20,12,Sebastien Buemi BUE,STR Ferrari,1:35.369,+1.722s,15
-

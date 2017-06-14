@@ -26,4 +26,3 @@
 26,19,Christijan Albers ALB,MF1 Toyota,1:36.314,+4.961s,16
 27,22,Takuma Sato SAT,Super Aguri Honda,1:37.588,+6.235s,19
 28,23,Yuji Ide IDE,Super Aguri Honda,1:39.021,+7.668s,21
-

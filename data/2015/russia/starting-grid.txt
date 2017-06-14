@@ -18,4 +18,3 @@
 18,98,Roberto Merhi MER,Marussia Ferrari,1:43.804
 19,14,Fernando Alonso ALO,McLaren Honda,1:40.144
 20,55,Carlos Sainz SAI,STR Renault,
-

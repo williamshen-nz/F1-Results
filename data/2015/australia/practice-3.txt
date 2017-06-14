@@ -16,4 +16,3 @@
 16,20,Kevin Magnussen MAG,McLaren Honda,1:31.391,+3.524s,14
 17,22,Jenson Button BUT,McLaren Honda,1:31.666,+3.799s,13
 18,26,Daniil Kvyat KVY,Red Bull Racing Renault,1:32.830,+4.963s,6
-

@@ -20,4 +20,3 @@ NC,6,Kimi Räikkönen RAI,Ferrari,9,DNF,0
 NC,12,Jarno Trulli TRU,Toyota,8,DNF,0
 NC,15,Mark Webber WEB,Red Bull Renault,7,DNF,0
 NC,17,Alexander Wurz WUR,Williams Toyota,1,DNF,0
-

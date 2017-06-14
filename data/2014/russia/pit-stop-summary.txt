@@ -21,4 +21,3 @@
 2,26,Daniil Kvyat KVY,STR Renault,37,16:09:35,30.321,1:01.905
 1,21,Esteban Gutierrez GUT,Sauber Ferrari,39,16:12:57,30.303,30.303
 2,9,Marcus Ericsson ERI,Caterham Renault,43,16:21:18,30.760,1:01.780
-
