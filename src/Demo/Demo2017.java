@@ -1,6 +1,5 @@
 package Demo;
 
-import Formula1.Analysis.RaceStatistics;
 import Formula1.Analysis.SeasonStatistics;
 import Formula1.Model.Drivers;
 import Formula1.Model.Race;
@@ -17,7 +16,7 @@ public class Demo2017 {
         try {
             // Default values
             String path = "data/2017/";
-            String[] races = loadRaces(path + "done.txt");
+            String[] races = loadRaces(path + "schedule.txt");
 
             // Create season and read in the driver and team list
             System.out.println("Loading 2017 season data... ");
@@ -27,7 +26,7 @@ public class Demo2017 {
             season.setTeams(teams);
             System.out.println("DONE");
             System.out.print("- loading drivers... ");
-            Drivers drivers = LoadDrivers.load(teams, path + "drivers.txt");
+            Drivers drivers = LoadDrivers.load(path + "drivers.txt");
             season.setDrivers(drivers);
             System.out.println("DONE");
             System.out.println("DONE\n");
@@ -36,7 +35,7 @@ public class Demo2017 {
             System.out.println("Loading 2017 race data...");
             for (String name : races) {
                 System.out.print("- loading " + name.toUpperCase() + "... ");
-                Race race = LoadRace.load(drivers, path + name + "/");
+                Race race = LoadRace.load(drivers, teams, path + name + "/");
                 season.addRace(race);
             }
             System.out.println("DONE");
@@ -77,13 +76,13 @@ public class Demo2017 {
             System.out.println(TeamViews.getDetailed(teams.getTeam("Ferrari"), season));
             System.out.println();
             System.out.println(TeamViews.getDetailed(teams.getTeam("McLaren"), season));
-            System.out.println();*/
+            System.out.println();
             System.out.println("MOST POLE POSITIONS:");
             System.out.println(SeasonStatistics.mostPolePositions(season));
 
             for (Race r : season.getRaces()) {
                 System.out.println(r.getName() + ", " + RaceStatistics.getPolePosition(r).getDriver().getName());
-            }
+            } */
         } catch (Exception e) {
             e.printStackTrace();
         }

@@ -1,1 +1,1 @@
-australia,china,bahrain,russia,spain,monaco,canada,azerbaijan,austria,great britain,hungary,belgium,italy,singapore,malaysia,japan,united states,mexico,brazil,abu dhabi
+australia,china,bahrain,russia,spain,monaco,canada,azerbaijan,austria,great-britain,hungary,belgium,italy,singapore,malaysia,japan,united-states,mexico,brazil,abu-dhabi
