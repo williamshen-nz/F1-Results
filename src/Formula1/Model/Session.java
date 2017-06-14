@@ -36,16 +36,16 @@ public class Session {
         this.startingGrid = startingGrid;
     }
 
-    public void addResult(Driver driver, int position, int laps, String time, int points) {
-        results.add(new RaceResult(driver, position, laps, time, points));
+    public void addResult(Driver driver, Team team, int position, int laps, String time, int points) {
+        results.add(new RaceResult(driver, team, position, laps, time, points));
     }
 
-    public void addResult(Driver driver, int position, int laps, String time, String gap) {
-        results.add(new PracticeResult(driver, position, laps, time, gap));
+    public void addResult(Driver driver, Team team, int position, int laps, String time, String gap) {
+        results.add(new PracticeResult(driver, team, position, laps, time, gap));
     }
 
-    public void addResult(Driver driver, int position, int laps, String q1, String q2, String q3) {
-        results.add(new QualifyingResult(driver, position, laps, q1, q2, q3));
+    public void addResult(Driver driver, Team team, int position, int laps, String q1, String q2, String q3) {
+        results.add(new QualifyingResult(driver, team, position, laps, q1, q2, q3));
     }
 
     public void addResult(Result result) {

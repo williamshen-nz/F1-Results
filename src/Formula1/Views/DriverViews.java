@@ -8,44 +8,6 @@ import Helpers.JSON;
 import java.util.ArrayList;
 
 public class DriverViews {
-    public static String get(Driver driver, Season season) {
-        Season copy = new Season(season.getYear());
-        Teams teams = new Teams();
-        teams.getTeams().add(driver.getTeam());
-        copy.setTeams(teams);
-        Drivers drivers = new Drivers();
-        drivers.getDrivers().add(driver);
-        copy.setDrivers(drivers);
-        for (Race race : season.getRaces()) {
-            Race raceCopy = new Race(race.getName(), race.getLocation(), race.getStartDate(), race.getEndDate());
-            Sessions sessionsCopy = new Sessions();
-
-            Session fp1 = new Session();
-            fp1.addResult(race.getSessions().getPractice1().getResult(driver));
-            sessionsCopy.setPractice1(fp1);
-
-            Session fp2 = new Session();
-            fp2.addResult(race.getSessions().getPractice2().getResult(driver));
-            sessionsCopy.setPractice2(fp2);
-
-            Session fp3 = new Session();
-            fp3.addResult(race.getSessions().getPractice3().getResult(driver));
-            sessionsCopy.setPractice3(fp3);
-
-            Session qualifying = new Session();
-            qualifying.addResult(race.getSessions().getQualifying().getResult(driver));
-            sessionsCopy.setQualifying(qualifying);
-
-            Session raceSession = new Session();
-            raceSession.addResult(race.getSessions().getRace().getResult(driver));
-            sessionsCopy.setRace(raceSession);
-
-            raceCopy.setSessions(sessionsCopy);
-            copy.addRace(raceCopy);
-        }
-        return copy.toString();
-    }
-
     public static String getSummary(Driver driver, Season season) throws ResultNotFoundException {
         DriverResult driverResult = new DriverResult(season.getYear(), driver);
         for (Race race : season.getRaces()) {

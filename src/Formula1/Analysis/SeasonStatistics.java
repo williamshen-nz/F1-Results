@@ -69,7 +69,7 @@ public class SeasonStatistics {
         int res = 0;
         for (Race race : season.getRaces()) {
             for (Result result: race.getSessions().getRace().getResults()) {
-                if (result.getDriver().getTeam().equals(team))
+                if (result.getTeam().equals(team))
                     res += ((RaceResult) result).getPoints();
             }
         }
@@ -80,7 +80,7 @@ public class SeasonStatistics {
         HashMap<Team, Integer> points = new LinkedHashMap<>(10);
         for (Race race : season.getRaces()) {
             for (Result result : race.getSessions().getRace().getResults()) {
-                Team team = result.getDriver().getTeam();
+                Team team = result.getTeam();
                 Integer currentPoints = points.get(team);
                 if (currentPoints == null)
                     points.put(team, ((RaceResult) result).getPoints());

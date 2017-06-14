@@ -12,7 +12,7 @@ public class TeamViews {
         for (Race race : season.getRaces()) {
             CustomRace customRace = new DetailedCustomRace(race.getName(), race.getEndDate());
             for (Result result : race.getSessions().getRace().getResults()) {
-                if (result.getDriver().getTeam().equals(team))
+                if (result.getTeam().equals(team))
                     ((DetailedCustomRace) customRace).put(result.getDriver().getName(), ((RaceResult) result).getPoints());
             }
             teamResult.addRace(customRace);
@@ -25,7 +25,7 @@ public class TeamViews {
         for (Race race : season.getRaces()) {
             int points = 0;
             for (Result result : race.getSessions().getRace().getResults()) {
-                if (result.getDriver().getTeam().equals(team))
+                if (result.getTeam().equals(team))
                     points += ((RaceResult) result).getPoints();
             }
             CustomRace customRace = new SimpleCustomRace(race.getName(), race.getEndDate(), points);
