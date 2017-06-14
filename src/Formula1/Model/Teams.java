@@ -15,11 +15,15 @@ public class Teams {
         return teams;
     }
 
-    public Team getTeam(String abbreviation) {
-        for (Team team : teams)
-            if (team.getAbbreviation().equals(abbreviation)) return team;
+    public Team getTeam(String match) {
+        for (Team team : teams) {
+            if (team.getEntrant().equals(match)) return team;
+            if (team.getConstructor().equals(match)) return team;
+            if (team.getAbbreviation().equals(match)) return team;
+        }
         return null;
     }
+
 
     @Override
     public String toString() {
