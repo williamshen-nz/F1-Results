@@ -26,4 +26,3 @@
 2,11,Sergio Perez PER,Force India Mercedes,63,15:26:16,25.026,56.339
 2,18,Lance Stroll STR,Williams Mercedes,67,15:33:42,25.248,51.938
 3,11,Sergio Perez PER,Force India Mercedes,72,15:40:06,35.485,1:31.824
-

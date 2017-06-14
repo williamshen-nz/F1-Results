@@ -18,4 +18,3 @@ NC,26,Daniil Kvyat KVY,Toro Rosso,54,DNF,0
 NC,33,Max Verstappen VER,Red Bull Racing TAG Heuer,10,DNF,0
 NC,19,Felipe Massa MAS,Williams Mercedes,0,DNF,0
 NC,55,Carlos Sainz SAI,Toro Rosso,0,DNF,0
-

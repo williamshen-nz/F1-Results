@@ -18,4 +18,3 @@
 18,30,Jolyon Palmer PAL,Renault,1:22.755,+2.541s,13
 19,2,Stoffel Vandoorne VAN,McLaren Honda,1:22.853,+2.639s,15
 20,94,Pascal Wehrlein WEH,Sauber Ferrari,1:22.974,+2.760s,19
-

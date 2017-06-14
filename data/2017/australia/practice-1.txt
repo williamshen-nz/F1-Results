@@ -18,4 +18,3 @@
 18,94,Pascal Wehrlein WEH,Sauber Ferrari,1:28.539,+4.319s,22
 19,30,Jolyon Palmer PAL,Renault,1:28.585,+4.365s,6
 20,2,Stoffel Vandoorne VAN,McLaren Honda,1:28.695,+4.475s,14
-

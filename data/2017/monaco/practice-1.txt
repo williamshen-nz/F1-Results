@@ -18,4 +18,3 @@
 18,94,Pascal Wehrlein WEH,Sauber Ferrari,1:16.258,+2.833s,33
 19,27,Nico Hulkenberg HUL,Renault,,,3
 20,9,Marcus Ericsson ERI,Sauber Ferrari,,,3
-

@@ -19,4 +19,3 @@
 1,20,Kevin Magnussen MAG,Haas Ferrari,46,15:06:28,28.869,28.869
 2,5,Sebastian Vettel VET,Ferrari,49,15:09:44,23.345,54.941
 2,26,Daniil Kvyat KVY,Toro Rosso,53,15:15:19,1:46.374,2:04.462
-

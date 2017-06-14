@@ -18,4 +18,3 @@
 1,5,Sebastian Vettel VET,Ferrari,34,16:04:56,30.097,30.097
 1,27,Nico Hulkenberg HUL,Renault,40,16:16:07,30.280,30.280
 2,19,Felipe Massa MAS,Williams Mercedes,41,16:17:53,29.920,59.843
-

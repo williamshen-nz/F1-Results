@@ -18,4 +18,3 @@
 18,30,Jolyon Palmer PAL,Renault,1:15.164,+2.769s,25
 19,94,Pascal Wehrlein WEH,Sauber Ferrari,1:15.291,+2.896s,29
 20,9,Marcus Ericsson ERI,Sauber Ferrari,1:15.863,+3.468s,26
-

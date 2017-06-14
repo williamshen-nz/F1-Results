@@ -18,4 +18,3 @@
 18,94,Pascal Wehrlein WEH,Sauber Ferrari,1:37.441,+3.321s,30
 19,18,Lance Stroll STR,Williams Mercedes,1:37.747,+3.627s,36
 20,9,Marcus Ericsson ERI,Sauber Ferrari,1:37.819,+3.699s,29
-

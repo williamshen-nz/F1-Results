@@ -16,4 +16,3 @@
 16,9,Marcus Ericsson ERI,Sauber Ferrari,50,15:34:20,1:39.732,196.763
 17,26,Daniil Kvyat KVY,Toro Rosso,18,14:40:04,1:40.090,196.059
 18,2,Stoffel Vandoorne VAN,McLaren Honda,15,14:35:12,1:41.460,193.412
-

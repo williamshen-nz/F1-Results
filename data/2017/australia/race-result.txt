@@ -18,4 +18,3 @@ NC,3,Daniel Ricciardo RIC,Red Bull Racing TAG Heuer,25,DNF,0
 NC,9,Marcus Ericsson ERI,Sauber Ferrari,21,DNF,0
 NC,30,Jolyon Palmer PAL,Renault,15,DNF,0
 NC,8,Romain Grosjean GRO,Haas Ferrari,13,DNF,0
-

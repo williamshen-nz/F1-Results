@@ -35,4 +35,3 @@
 3,30,Jolyon Palmer PAL,Renault,42,15:07:31,24.750,1:10.671
 3,14,Fernando Alonso ALO,McLaren Honda,51,15:20:24,22.923,1:08.967
 3,20,Kevin Magnussen MAG,Haas Ferrari,63,15:37:43,25.052,1:11.569
-

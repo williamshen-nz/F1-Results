@@ -80,4 +80,3 @@
 5,31,Esteban Ocon OCO,Force India Mercedes,42,15:20:06,22.926,1:48.812
 6,19,Felipe Massa MAS,Williams Mercedes,48,15:30:29,22.517,2:01.113
 6,11,Sergio Perez PER,Force India Mercedes,49,15:31:25,22.979,2:03.019
-

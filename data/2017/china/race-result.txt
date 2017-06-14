@@ -18,4 +18,3 @@ NC,26,Daniil Kvyat KVY,Toro Rosso,18,DNF,0
 NC,2,Stoffel Vandoorne VAN,McLaren Honda,17,DNF,0
 NC,36,Antonio Giovinazzi GIO,Sauber Ferrari,3,DNF,0
 NC,18,Lance Stroll STR,Williams Mercedes,0,DNF,0
-

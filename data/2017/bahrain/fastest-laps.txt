@@ -17,4 +17,3 @@
 17,94,Pascal Wehrlein WEH,Sauber Ferrari,43,19:16:40,1:36.786,201.301
 18,55,Carlos Sainz SAI,Toro Rosso,8,18:16:52,1:38.026,198.755
 19,20,Kevin Magnussen MAG,Haas Ferrari,6,18:13:42,1:38.718,197.362
-

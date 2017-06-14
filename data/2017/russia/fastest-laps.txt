@@ -15,4 +15,3 @@
 15,9,Marcus Ericsson ERI,Sauber Ferrari,48,16:31:02,1:39.835,210.875
 16,94,Pascal Wehrlein WEH,Sauber Ferrari,37,16:12:38,1:40.922,208.604
 17,3,Daniel Ricciardo RIC,Red Bull Racing TAG Heuer,4,15:15:41,1:42.285,205.824
-

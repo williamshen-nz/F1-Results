@@ -16,4 +16,3 @@
 16,9,Marcus Ericsson ERI,Sauber Ferrari,50,15:12:04,1:16.995,203.904
 17,94,Pascal Wehrlein WEH,Sauber Ferrari,66,15:33:37,1:17.091,203.650
 18,33,Max Verstappen VER,Red Bull Racing TAG Heuer,9,14:16:46,1:17.187,203.396
-

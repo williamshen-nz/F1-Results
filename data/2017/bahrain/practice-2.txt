@@ -18,4 +18,3 @@
 18,55,Carlos Sainz SAI,Toro Rosso,1:34.072,+2.762s,5
 19,94,Pascal Wehrlein WEH,Sauber Ferrari,1:34.117,+2.807s,29
 20,2,Stoffel Vandoorne VAN,McLaren Honda,1:34.230,+2.920s,8
-

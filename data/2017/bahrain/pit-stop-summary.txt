@@ -29,4 +29,3 @@
 2,3,Daniel Ricciardo RIC,Red Bull Racing TAG Heuer,39,19:09:27,25.200,50.512
 2,44,Lewis Hamilton HAM,Mercedes,41,19:12:14,30.682,1:01.369
 2,26,Daniil Kvyat KVY,Toro Rosso,41,19:13:18,25.246,50.450
-

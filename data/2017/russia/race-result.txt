@@ -18,4 +18,3 @@ NC,3,Daniel Ricciardo RIC,Red Bull Racing TAG Heuer,5,DNF,0
 NC,30,Jolyon Palmer PAL,Renault,0,DNF,0
 NC,8,Romain Grosjean GRO,Haas Ferrari,0,DNF,0
 NC,14,Fernando Alonso ALO,McLaren Honda,0,DNS,0
-

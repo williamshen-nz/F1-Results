@@ -18,4 +18,3 @@
 18,30,Jolyon Palmer PAL,Renault,1:17.004,+3.195s,26
 19,94,Pascal Wehrlein WEH,Sauber Ferrari,1:17.606,+3.797s,28
 20,55,Carlos Sainz SAI,Toro Rosso,,,1
-

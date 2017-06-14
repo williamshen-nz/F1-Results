@@ -18,4 +18,3 @@
 18,94,Pascal Wehrlein WEH,Sauber Ferrari,1:39.731,+3.657s,21
 19,9,Marcus Ericsson ERI,Sauber Ferrari,1:40.079,+4.005s,20
 20,46,Sergey Sirotkin SIR,Renault,,,2
-

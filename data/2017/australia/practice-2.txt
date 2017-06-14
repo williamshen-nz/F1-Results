@@ -18,4 +18,3 @@
 18,94,Pascal Wehrlein WEH,Sauber Ferrari,1:26.919,+3.299s,30
 19,20,Kevin Magnussen MAG,Haas Ferrari,1:27.279,+3.659s,8
 20,30,Jolyon Palmer PAL,Renault,1:27.549,+3.929s,4
-

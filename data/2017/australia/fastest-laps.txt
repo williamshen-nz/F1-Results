@@ -18,4 +18,3 @@
 18,8,Romain Grosjean GRO,Haas Ferrari,12,16:24:44,1:30.183,211.689
 19,9,Marcus Ericsson ERI,Sauber Ferrari,18,16:34:46,1:32.052,207.391
 20,30,Jolyon Palmer PAL,Renault,6,16:15:59,1:32.195,207.069
-

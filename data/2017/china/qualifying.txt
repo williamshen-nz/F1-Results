@@ -19,5 +19,4 @@
 19,33,Max Verstappen VER,Red Bull Racing TAG Heuer,1:35.433,,,7
 20,31,Esteban Ocon OCO,Force India Mercedes,1:35.496,,,8
 Q1 107% time - 1:39.593
-
 Note - Practice 2 was cancelled due to poor weather conditions.

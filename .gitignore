@@ -1,8 +1,11 @@
 # iNTelliJ Files
 *.iml
-.idea
+.idea/
 
 # Production files
 out
 *.jar
 
+# Python files and production
+__pycache__/
+scraper/data

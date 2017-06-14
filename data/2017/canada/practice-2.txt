@@ -18,4 +18,3 @@
 18,9,Marcus Ericsson ERI,Sauber Ferrari,1:15.611,+2.676s,31
 19,2,Stoffel Vandoorne VAN,McLaren Honda,1:15.624,+2.689s,20
 20,94,Pascal Wehrlein WEH,Sauber Ferrari,1:16.308,+3.373s,31
-

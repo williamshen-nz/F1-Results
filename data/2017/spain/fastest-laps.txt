@@ -16,4 +16,3 @@
 16,18,Lance Stroll STR,Williams Mercedes,50,15:18:54,1:26.838,192.980
 17,8,Romain Grosjean GRO,Haas Ferrari,50,15:18:38,1:26.871,192.906
 18,2,Stoffel Vandoorne VAN,McLaren Honda,14,14:24:41,1:27.554,191.401
-

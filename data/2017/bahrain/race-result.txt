@@ -18,4 +18,3 @@ NC,18,Lance Stroll STR,Williams Mercedes,12,DNF,0
 NC,33,Max Verstappen VER,Red Bull Racing TAG Heuer,11,DNF,0
 NC,20,Kevin Magnussen MAG,Haas Ferrari,8,DNF,0
 NC,2,Stoffel Vandoorne VAN,McLaren Honda,0,DNS,0
-
