@@ -12,6 +12,9 @@ def write_file(text, filename):
     :param filename: path to save the file to
     :return: None
     """
+    if text == '':
+        print('- no results found! Ignoring...')
+        return
     print('- writing output to', filename)
     # Create the directory and file if it doesn't exist
     os.makedirs(os.path.dirname(filename), exist_ok=True)
@@ -51,15 +54,16 @@ def create_table(url):
     soup = BeautifulSoup(html, 'html.parser')
 
     # Get any notes for the session
-    notes = ""
+    notes = ''
     for note in soup.findAll('p', class_='note'):
         notes += note.text
+    # Remove blank lines
+    notes = ''.join([s for s in notes.strip().splitlines(True) if s.strip()])
 
     # Read and generate table string
     for table in soup.find_all('table'):
         i = 0
         tab = ''
-
         for row in table.find_all('tr'):
             col = map(cell_text, row.find_all(re.compile('t[dh]')))
             if i == 0:
@@ -84,7 +88,8 @@ def create_table(url):
             tab += res
 
         # Add any notes onto the resulting string
-        tab += notes + '\n'
+        if notes != '':
+            tab += notes + '\n'
         return tab
 
     return ''
