@@ -6,7 +6,7 @@ import Helpers.JSON;
 import java.util.*;
 
 public class SeasonStatistics {
-    public static HashMap<ArrayList<Driver>, Integer> mostPolePositions(Season season) throws ResultNotFoundException {
+    /*public static HashMap<ArrayList<Driver>, Integer> mostPolePositions(Season season) throws ResultNotFoundException {
         HashMap<Driver, Integer> polePositions = new HashMap<>(20);
         for (Race race : season.getRaces()) {
             GridPosition pole = RaceStatistics.getPolePosition(race);
@@ -32,7 +32,7 @@ public class SeasonStatistics {
         HashMap<ArrayList<Driver>, Integer> res = new HashMap<>(mostPoles.size());
         res.put(mostPoles, numPoles);
         return res;
-    }
+    }*/
 
     public static ArrayList<DriverPosition> getDriverPoints(Season season) {
         HashMap<Driver, Integer> points = new LinkedHashMap<>(20);

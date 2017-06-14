@@ -4,9 +4,10 @@ import Formula1.Model.*;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
-import java.util.ArrayList;
+import java.util.HashMap;
 
-import static Demo.LoadSession.SessionType.Race;
+import static Demo.LoadSession.SessionType.Practice;
+import static Demo.LoadSession.SessionType.Qualifying;
 
 public class LoadSession {
     public enum SessionType {
@@ -14,7 +15,16 @@ public class LoadSession {
     }
 
     public static Session load(Drivers drivers, Teams teams, SessionType type, String location, String base) throws Exception {
-        Session session = new Session();
+        Session session;
+        HashMap<Driver, FastestLap> fastestLaps = null;
+        if (type == Practice)
+            session = new PracticeSession();
+        else if (type == Qualifying)
+            session = new QualifyingSession();
+        else {
+            fastestLaps = loadFastestLaps(drivers, base + "fastest-laps.txt");
+            session = new RaceSession();
+        }
         BufferedReader in = new BufferedReader(new FileReader(location));
         String str = in.readLine();
         do {
@@ -30,34 +40,31 @@ public class LoadSession {
                 case Practice:
                     // 2,5,Sebastian Vettel VET,Ferrari,1:24.167,+0.547s,35
                     // Driver driver, Team team, int position, int laps, String time, String gap
-                    session.addResult(dMatch, tMatch, Integer.parseInt(curr[0]), Integer.parseInt(curr[6]), curr[4], curr[5]);
+                    ((PracticeSession) session).addResult(dMatch, tMatch, Integer.parseInt(curr[0]),
+                            Integer.parseInt(curr[6]), curr[4], curr[5]);
                     break;
                 case Qualifying:
                     // 1,44,Lewis Hamilton HAM,Mercedes,1:24.191,1:23.251,1:22.188,14
                     // Driver driver, Team team, int position, int laps, String q1, String q2, String q3
-                    session.addResult(dMatch, tMatch, Integer.parseInt(curr[0]), Integer.parseInt(curr[7]), curr[4], curr[5], curr[6]);
+                    ((QualifyingSession) session).addResult(dMatch, tMatch, Integer.parseInt(curr[0]),
+                            Integer.parseInt(curr[7]), curr[4], curr[5], curr[6]);
                     break;
                 case Race:
                     // 1,5,Sebastian Vettel VET,Ferrari,57,1:24:11.672,25
                     // Driver driver, Team team, int position, int laps, String time, int points
-                    session.addResult(dMatch, tMatch, (curr[0].equals("NC") ? -1 : Integer.parseInt(curr[0])), Integer.parseInt(curr[4]),
-                            curr[5], Integer.parseInt(curr[6]));
+                    ((RaceSession) session).addResult(dMatch, tMatch, (curr[0].equals("NC") ? -1 : Integer.parseInt(curr[0])), Integer.parseInt(curr[4]),
+                            curr[5], Integer.parseInt(curr[6]), fastestLaps.get(dMatch));
                     break;
             }
         } while ((str = in.readLine()) != null);
         in.close();
         System.out.print("... ");
 
-        if (type == Race) {
-            session.setStartingGrid(loadStartingGrid(drivers, base + "starting-grid.txt"));
-            session.setFastestLaps(loadFastestLaps(drivers, base + "fastest-laps.txt"));
-        }
-
         return session;
     }
 
-    public static ArrayList<FastestLap> loadFastestLaps(Drivers drivers, String location) throws Exception {
-        ArrayList<FastestLap> laps = new ArrayList<>(20);
+    public static HashMap<Driver, FastestLap> loadFastestLaps(Drivers drivers, String location) throws Exception {
+        HashMap<Driver, FastestLap> laps = new HashMap<>(20);
         BufferedReader in = new BufferedReader(new FileReader(location));
         String str = in.readLine();
         do {
@@ -65,14 +72,14 @@ public class LoadSession {
             if (curr.length == 1) continue; // ignore blank lines
             // 1,44,Lewis Hamilton HAM,Mercedes,64,15:36:15,1:23.593,200.471
             // Driver driver, String time, int lap, String timeOfDay, double averageSpeed
-            FastestLap lap = new FastestLap(drivers.getDriver(Integer.parseInt(curr[1])), curr[6],
-                    Integer.parseInt(curr[4]), curr[5], Double.parseDouble(curr[7]));
-            laps.add(lap);
+            FastestLap lap = new FastestLap(curr[6], Integer.parseInt(curr[4]),
+                    curr[5], Double.parseDouble(curr[7]));
+            laps.put(drivers.getDriver(Integer.parseInt(curr[1])), lap);
         } while ((str = in.readLine()) != null);
         return laps;
     }
 
-    public static StartingGrid loadStartingGrid(Drivers drivers, String location) throws Exception {
+/*    public static StartingGrid loadStartingGrid(Drivers drivers, String location) throws Exception {
         StartingGrid startingGrid = new StartingGrid();
         BufferedReader in = new BufferedReader(new FileReader(location));
         String str = in.readLine();
@@ -88,5 +95,5 @@ public class LoadSession {
             }
         } while((str = in.readLine()) != null);
         return startingGrid;
-    }
+    }*/
 }
