@@ -36,8 +36,10 @@ public class SeasonStatistics {
 
     public static ArrayList<DriverPosition> getDriverPoints(Season season) {
         HashMap<Driver, Integer> points = new LinkedHashMap<>(20);
+        HashMap<Driver, Team> driverToTeam = new HashMap<>();
         for (Race race : season.getRaces()) {
             for (Result result : race.getSessions().getRace().getResults()) {
+                driverToTeam.put(result.getDriver(), result.getTeam());
                 Integer currentPoints = points.get(result.getDriver());
                 if (currentPoints == null)
                     points.put(result.getDriver(), ((RaceResult) result).getPoints());
@@ -48,7 +50,7 @@ public class SeasonStatistics {
 
         ArrayList<DriverPosition> rankings = new ArrayList<>(20);
         for (Map.Entry<Driver, Integer> entry : points.entrySet()) {
-            rankings.add(new DriverPosition(entry.getKey(), entry.getValue()));
+            rankings.add(new DriverPosition(entry.getKey(), driverToTeam.get(entry.getKey()), entry.getValue()));
             Collections.sort(rankings);
         }
         return rankings;
@@ -131,18 +133,24 @@ public class SeasonStatistics {
 
     private static class DriverPosition implements Comparable<DriverPosition> {
         private Driver driver;
+        private Team team;
         private int points;
 
         public DriverPosition() {
         }
 
-        public DriverPosition(Driver driver, int points) {
+        public DriverPosition(Driver driver, Team team, int points) {
             this.driver = driver;
+            this.team = team;
             this.points = points;
         }
 
         public Driver getDriver() {
             return driver;
+        }
+
+        public Team getTeam() {
+            return team;
         }
 
         public int getPoints() {
