@@ -5,6 +5,7 @@ import Formula1.Model.Drivers;
 import Formula1.Model.Race;
 import Formula1.Model.Season;
 import Formula1.Model.Teams;
+import Formula1.Views.DriverViews;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -84,6 +85,7 @@ public class Demo2017 {
             for (Race r : season.getRaces()) {
                 System.out.println(r.getName() + ", " + RaceStatistics.getPolePosition(r).getDriver().getName());
             } */
+            System.out.println(DriverViews.getResults(drivers.getDriver("Alonso"), season));
         } catch (Exception e) {
             e.printStackTrace();
         }

@@ -1,6 +1,9 @@
 package Formula1.Model;
 
 import Helpers.JSON;
+import com.fasterxml.jackson.annotation.JsonInclude;
+
+import static com.fasterxml.jackson.annotation.JsonInclude.Include.NON_NULL;
 
 public class Sessions {
     private Session practice1;
@@ -10,13 +13,9 @@ public class Sessions {
     private Session race;
 
     public Sessions() {
-        this.practice1 = new Session();
-        this.practice2 = new Session();
-        this.practice3 = new Session();
-        this.qualifying = new Session();
-        this.race = new Session();
     }
 
+    @JsonInclude(NON_NULL)
     public Session getPractice1() {
         return practice1;
     }
@@ -25,6 +24,7 @@ public class Sessions {
         this.practice1 = practice1;
     }
 
+    @JsonInclude(NON_NULL)
     public Session getPractice2() {
         return practice2;
     }
@@ -33,6 +33,7 @@ public class Sessions {
         this.practice2 = practice2;
     }
 
+    @JsonInclude(NON_NULL)
     public Session getPractice3() {
         return practice3;
     }
@@ -41,6 +42,7 @@ public class Sessions {
         this.practice3 = practice3;
     }
 
+    @JsonInclude(NON_NULL)
     public Session getQualifying() {
         return qualifying;
     }
@@ -49,6 +51,7 @@ public class Sessions {
         this.qualifying = qualifying;
     }
 
+    @JsonInclude(NON_NULL)
     public Session getRace() {
         return race;
     }

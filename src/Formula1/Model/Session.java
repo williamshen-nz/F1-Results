@@ -1,8 +1,11 @@
 package Formula1.Model;
 
 import Helpers.JSON;
+import com.fasterxml.jackson.annotation.JsonInclude;
 
 import java.util.ArrayList;
+
+import static com.fasterxml.jackson.annotation.JsonInclude.Include.NON_EMPTY;
 
 public class Session {
     private ArrayList<Result> results;
@@ -13,6 +16,7 @@ public class Session {
         this.notes = new ArrayList<>(1);
     }
 
+    @JsonInclude(NON_EMPTY)
     public ArrayList<Result> getResults() {
         return results;
     }
@@ -29,6 +33,7 @@ public class Session {
 
     public void addNote(String note) { notes.add(note); }
 
+    @JsonInclude(NON_EMPTY)
     public ArrayList<String> getNotes() {
         return notes;
     }

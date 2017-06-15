@@ -6,8 +6,25 @@ import Formula1.Model.*;
 import Helpers.JSON;
 
 import java.util.ArrayList;
+import java.util.Collection;
 
 public class DriverViews {
+    public static Collection<Race> getResults(Driver driver, Season season) throws ResultNotFoundException {
+        ArrayList<Race> results = new ArrayList<>(20);
+        for (Race race : season.getRaces()) {
+            Race copy = new Race(race.getRound(), race.getName(), race.getLocation(), race.getStartDate(), race.getEndDate());
+            RaceSession raceSession = new RaceSession();
+            Result result = race.getSessions().getRace().getResult(driver);
+            if (result == null) continue;
+            raceSession.addResult(result);
+            Sessions sessions = new Sessions();
+            sessions.setRace(raceSession);
+            copy.setSessions(sessions);
+            results.add(copy);
+        }
+        return results;
+    }
+
     public static String getSummary(Driver driver, Season season) throws ResultNotFoundException {
         DriverResult driverResult = new DriverResult(season.getYear(), driver);
         for (Race race : season.getRaces()) {
