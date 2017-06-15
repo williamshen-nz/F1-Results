@@ -3,6 +3,7 @@ package Formula1.Model;
 import Helpers.JSON;
 
 public class Race {
+    private int round;
     private String name;
     private String location;
     private String startDate;
@@ -12,11 +13,16 @@ public class Race {
     public Race() {
     }
 
-    public Race(String name, String location, String startDate, String endDate) {
+    public Race(int round, String name, String location, String startDate, String endDate) {
+        this.round = round;
         this.name = name;
         this.location = location;
         this.startDate = startDate;
         this.endDate = endDate;
+    }
+
+    public int getRound() {
+        return round;
     }
 
     public String getName() {

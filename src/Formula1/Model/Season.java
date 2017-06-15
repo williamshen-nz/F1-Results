@@ -1,20 +1,18 @@
 package Formula1.Model;
 
 import Helpers.JSON;
-import com.fasterxml.jackson.annotation.JsonIgnore;
 
-import java.util.Collection;
-import java.util.HashMap;
+import java.util.ArrayList;
+import java.util.Collections;
 
 public class Season {
     private int year;
     private Teams teams;
     private Drivers drivers;
-    private HashMap<Integer, Race> races;
-    private int index = 1;
+    private ArrayList<Race> races;
 
     public Season() {
-        races = new HashMap<>();
+        races = new ArrayList<>();
     }
 
     public Season(int year, Race... races) {
@@ -28,16 +26,10 @@ public class Season {
     }
 
     public void addRace(Race... races) {
-        for (Race race : races)
-            this.races.put(index++, race);;
+        Collections.addAll(this.races, races);
     }
 
-    @JsonIgnore
-    public Collection<Race> getRaces() {
-        return races.values();
-    }
-
-    public HashMap<Integer, Race> getRacesMap() {
+    public ArrayList<Race> getRaces() {
         return races;
     }
 

@@ -33,9 +33,10 @@ public class Demo2017 {
 
             // Add each of the races
             System.out.println("Loading 2017 race data...");
+            int roundNumber = 1;
             for (String name : races) {
                 System.out.print("- loading " + name.toUpperCase() + "... ");
-                Race race = LoadRace.load(drivers, teams, path + name + "/");
+                Race race = LoadRace.load(drivers, teams, path + name + "/", roundNumber++);
                 season.addRace(race);
             }
             System.out.println("DONE");

@@ -5,7 +5,7 @@ import Formula1.Model.Race;
 import Formula1.Model.Teams;
 
 public class LoadRace {
-    public static Race load(Drivers drivers, Teams teams, String location) throws Exception {
+    public static Race load(Drivers drivers, Teams teams, String location, int roundNumber) throws Exception {
         Race race;
         /*
         BufferedReader in = new BufferedReader(new FileReader(location + "meta.txt"));
@@ -17,7 +17,7 @@ public class LoadRace {
         } while ((str = in.readLine()) != null);
         in.close();*/
         String[] curr = location.split("/");
-        race = new Race(curr[curr.length - 1], "", "", "");
+        race = new Race(roundNumber, curr[curr.length - 1], "", "", "");
         race.setSessions(LoadSessions.load(drivers, teams, location));
         return race;
     }
