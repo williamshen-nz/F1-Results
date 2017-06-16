@@ -14,7 +14,7 @@ public class LoadSession {
         Practice, Qualifying, Race;
     }
 
-    public static Session load(Drivers drivers, Teams teams, SessionType type, String location, String base) throws Exception {
+    public static Session load(SessionType type, String location, String base) throws Exception {
         Session session;
         HashMap<Driver, FastestLap> fastestLaps = null;
         HashMap<Driver, Integer> startingGrid = null;
@@ -24,8 +24,8 @@ public class LoadSession {
             session = new QualifyingSession();
         else {
             session = new RaceSession();
-            fastestLaps = loadFastestLaps(drivers, base + "fastest-laps.txt");
-            startingGrid = loadStartingGrid(drivers, session, base + "starting-grid.txt");
+            fastestLaps = loadFastestLaps(base + "fastest-laps.txt");
+            startingGrid = loadStartingGrid(session, base + "starting-grid.txt");
         }
         BufferedReader in = new BufferedReader(new FileReader(location));
         String str = in.readLine();
@@ -40,8 +40,8 @@ public class LoadSession {
                 session.addNote(str);
                 continue;
             }
-            Driver dMatch = drivers.getDriver(Integer.parseInt(curr[1]));  // get driver based on their racing number
-            Team tMatch = teams.getTeam(curr[3]);
+            Driver dMatch = Demo2017.season.getDriver(Integer.parseInt(curr[1]));  // get driver based on their racing number
+            Team tMatch = Demo2017.season.getTeam(curr[3]);
             switch (type) {
                 case Practice:
                     // 2,5,Sebastian Vettel VET,Ferrari,1:24.167,+0.547s,35
@@ -72,7 +72,7 @@ public class LoadSession {
         return session;
     }
 
-    public static HashMap<Driver, FastestLap> loadFastestLaps(Drivers drivers, String location) throws Exception {
+    public static HashMap<Driver, FastestLap> loadFastestLaps(String location) throws Exception {
         HashMap<Driver, FastestLap> laps = new HashMap<>(20);
         BufferedReader in = new BufferedReader(new FileReader(location));
         String str = in.readLine();
@@ -83,12 +83,12 @@ public class LoadSession {
             // Driver driver, String time, int lap, String timeOfDay, double averageSpeed
             FastestLap lap = new FastestLap(curr[6], Integer.parseInt(curr[4]),
                     curr[5], Double.parseDouble(curr[7]));
-            laps.put(drivers.getDriver(Integer.parseInt(curr[1])), lap);
+            laps.put(Demo2017.season.getDriver(Integer.parseInt(curr[1])), lap);
         } while ((str = in.readLine()) != null);
         return laps;
     }
 
-    public static HashMap<Driver, Integer> loadStartingGrid(Drivers drivers, Session session, String location) throws Exception {
+    public static HashMap<Driver, Integer> loadStartingGrid(Session session, String location) throws Exception {
         HashMap<Driver, Integer> startingGrid = new HashMap<>();
         BufferedReader in = new BufferedReader(new FileReader(location));
         String str = in.readLine();
@@ -96,7 +96,7 @@ public class LoadSession {
             String[] curr = str.split(",");
             if (curr.length == 1 && curr[0].equals("")) continue; // ignore blank lines
             if (str.contains("Note")) session.addNote(str);
-            else startingGrid.put(drivers.getDriver(Integer.parseInt(curr[1])), Integer.parseInt(curr[0]));
+            else startingGrid.put(Demo2017.season.getDriver(Integer.parseInt(curr[1])), Integer.parseInt(curr[0]));
             //if (curr.length != 5) {
             //startingGrid.setNotes(String.join(",", curr));
         } while((str = in.readLine()) != null);

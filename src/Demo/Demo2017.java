@@ -1,18 +1,20 @@
 package Demo;
 
 import Formula1.Analysis.SeasonStatistics;
-import Formula1.Model.Drivers;
 import Formula1.Model.Race;
 import Formula1.Model.Season;
-import Formula1.Model.Teams;
+import Formula1.Model.Team;
 import Formula1.Views.DriverViews;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
 import java.io.FileWriter;
+import java.util.ArrayList;
 
 public class Demo2017 {
+    static Season season;
+
     public static void main(String[] args) {
         try {
             // Default values
@@ -21,14 +23,12 @@ public class Demo2017 {
 
             // Create season and read in the driver and team list
             System.out.println("Loading 2017 season data... ");
-            Season season = new Season(2017);
+            season = new Season(2017);
             System.out.print("- loading teams... ");
-            Teams teams = LoadTeams.load(path + "teams.txt");
-            season.setTeams(teams);
+            LoadTeams.load(path + "teams.txt");
             System.out.println("DONE");
             System.out.print("- loading drivers... ");
-            Drivers drivers = LoadDrivers.load(path + "drivers.txt");
-            season.setDrivers(drivers);
+            LoadDrivers.load(path + "drivers.txt");
             System.out.println("DONE");
             System.out.println("DONE\n");
 
@@ -37,8 +37,8 @@ public class Demo2017 {
             int roundNumber = 1;
             for (String name : races) {
                 System.out.print("- loading " + name.toUpperCase() + "... ");
-                Race race = LoadRace.load(drivers, teams, path + name + "/", roundNumber++);
-                season.addRace(race);
+                Race race = LoadRace.load(path + name + "/", roundNumber++);
+                season.addRaces(race);
             }
             System.out.println("DONE");
 
@@ -85,7 +85,7 @@ public class Demo2017 {
             for (Race r : season.getRaces()) {
                 System.out.println(r.getName() + ", " + RaceStatistics.getPolePosition(r).getDriver().getName());
             } */
-            System.out.println(DriverViews.getResults(drivers.getDriver("Alonso"), season));
+            System.out.println(DriverViews.getResults(season.getDriver("Alonso"), season));
         } catch (Exception e) {
             e.printStackTrace();
         }

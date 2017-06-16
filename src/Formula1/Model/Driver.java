@@ -28,10 +28,6 @@ public class Driver {
         return nationality;
     }
 
-    public boolean matchName(String name) {
-        return this.name.contains(name);
-    }
-
     @Override
     public String toString() {
         return JSON.stringify(this);

@@ -1,11 +1,9 @@
 package Demo;
 
-import Formula1.Model.Drivers;
 import Formula1.Model.Race;
-import Formula1.Model.Teams;
 
 public class LoadRace {
-    public static Race load(Drivers drivers, Teams teams, String location, int roundNumber) throws Exception {
+    public static Race load(String location, int roundNumber) throws Exception {
         Race race;
         /*
         BufferedReader in = new BufferedReader(new FileReader(location + "meta.txt"));
@@ -18,7 +16,7 @@ public class LoadRace {
         in.close();*/
         String[] curr = location.split("/");
         race = new Race(roundNumber, curr[curr.length - 1], "", "", "");
-        race.setSessions(LoadSessions.load(drivers, teams, location));
+        race.setSessions(LoadSessions.load(location));
         return race;
     }
 }
