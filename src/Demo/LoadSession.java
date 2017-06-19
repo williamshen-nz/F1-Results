@@ -4,6 +4,7 @@ import Formula1.Model.*;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
+import java.util.ArrayList;
 import java.util.HashMap;
 
 import static Demo.LoadSession.SessionType.Practice;
@@ -18,6 +19,7 @@ public class LoadSession {
         Session session;
         HashMap<Driver, FastestLap> fastestLaps = null;
         HashMap<Driver, Integer> startingGrid = null;
+
         if (type == Practice)
             session = new PracticeSession();
         else if (type == Qualifying)
@@ -26,6 +28,7 @@ public class LoadSession {
             session = new RaceSession();
             fastestLaps = loadFastestLaps(base + "fastest-laps.txt");
             startingGrid = loadStartingGrid(session, base + "starting-grid.txt");
+            ((RaceSession) session).setPitStops(loadPitStops(base + "pit-stop-summary.txt"));
         }
         BufferedReader in = new BufferedReader(new FileReader(location));
         String str = in.readLine();
@@ -72,7 +75,7 @@ public class LoadSession {
         return session;
     }
 
-    public static HashMap<Driver, FastestLap> loadFastestLaps(String location) throws Exception {
+    private static HashMap<Driver, FastestLap> loadFastestLaps(String location) throws Exception {
         HashMap<Driver, FastestLap> laps = new HashMap<>(20);
         BufferedReader in = new BufferedReader(new FileReader(location));
         String str = in.readLine();
@@ -88,7 +91,7 @@ public class LoadSession {
         return laps;
     }
 
-    public static HashMap<Driver, Integer> loadStartingGrid(Session session, String location) throws Exception {
+    private static HashMap<Driver, Integer> loadStartingGrid(Session session, String location) throws Exception {
         HashMap<Driver, Integer> startingGrid = new HashMap<>();
         BufferedReader in = new BufferedReader(new FileReader(location));
         String str = in.readLine();
@@ -99,25 +102,24 @@ public class LoadSession {
             else startingGrid.put(Demo2017.season.getDriver(Integer.parseInt(curr[1])), Integer.parseInt(curr[0]));
             //if (curr.length != 5) {
             //startingGrid.setNotes(String.join(",", curr));
-        } while((str = in.readLine()) != null);
+        } while ((str = in.readLine()) != null);
         return startingGrid;
     }
 
-/*    public static StartingGrid loadStartingGrid(Drivers drivers, String location) throws Exception {
-        StartingGrid startingGrid = new StartingGrid();
+    private static ArrayList<PitStop> loadPitStops(String location) throws Exception {
+        ArrayList<PitStop> pitStops = new ArrayList<>(20);
         BufferedReader in = new BufferedReader(new FileReader(location));
         String str = in.readLine();
         do {
             String[] curr = str.split(",");
-            if (curr.length == 1) continue; // ignore blank lines
-            if (curr.length != 5) {
-                startingGrid.setNotes(String.join(",", curr));
-            } else {
-                GridPosition gp = new GridPosition(Integer.parseInt(curr[0]),
-                        drivers.getDriver(Integer.parseInt(curr[1])));
-                startingGrid.add(gp);
-            }
-        } while((str = in.readLine()) != null);
-        return startingGrid;
-    }*/
+            //1,2,Stoffel Vandoorne VAN,McLaren Honda,1,15:08:55,30.006,30.006
+            // Driver driver, int stop, int lap, String timeOfDay, double time, double total
+            if (curr.length == 1 && curr[0].equals("")) continue; // ignore blank lines
+            else pitStops.add(new PitStop(Demo2017.season.getDriver(Integer.parseInt(curr[1])),
+                    Integer.parseInt(curr[0]), Integer.parseInt(curr[4]), curr[5],
+                    curr[6], curr[7]));
+        } while ((str = in.readLine()) != null);
+        return pitStops;
+    }
+
 }
