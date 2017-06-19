@@ -12,3 +12,4 @@ scraper/data
 
 # Gradle
 .gradle
+build/
