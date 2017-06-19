@@ -33,6 +33,18 @@ the relevant `Formula1.Model` object.
 
 ___
 
+### API Documentation
+To get complete season data, you can submit a `GET` request to `/f1/{year}` where year represents the year of the season you want to get results for (e.g. 2017). The API also supports a year value of 'current' which will get the current F1 season.
+
+Specific race data can be requested using `/f1/{year}/{round}?sessions=...` - the 'sessions' query parameter is optional. All races are indexed by their round number which can be used to get the relevant Race JSON. For example, `/f1/current/3` will get the 3rd race of the current season (in the case of 2017, the Bahrain Grand Prix). 
+
+The `round` parameter also includes string matching. You can enter the location or name of the Grand Prix and the program will _attempt_ to find a matching race based on the Race object's name and location (this is case insensitive). For example, `/f1/2017/monaco` will return the Monaco Grand Prix JSON data.
+
+Finally, each Race supports the optional query parameter `sessions`. By default, if this is not specified, only the race session results will be returned. However, the following values are supported: `fp1, fp2, fp3, qualifying, race`. Additionally, there is the `all` option which will get all of the sessions. You can specify multiple sessions by separating them using commas. 
+
+For example, `/f1/2017/canada?sessions=fp1,fp2,fp3` will return the practice sessions of the 2017 Canadian Grand Prix. Please note that the options are parsed sequentially. 
+
+___
 #### Dependencies
 [Spring Boot](https://github.com/spring-projects/spring-boot) is used for creating the RESTful API used to `GET` data
 from the system. 
