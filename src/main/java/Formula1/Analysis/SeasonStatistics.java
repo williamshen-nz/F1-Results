@@ -6,20 +6,24 @@ import Helpers.JSON;
 import java.util.*;
 
 public class SeasonStatistics {
-    /*public static HashMap<ArrayList<Driver>, Integer> mostPolePositions(Season season) throws ResultNotFoundException {
+    public static HashMap<ArrayList<Driver>, Integer> mostPolePositions(Season season) throws ResultNotFoundException {
+        // Create a map of (Driver -> Pole Positions)
         HashMap<Driver, Integer> polePositions = new HashMap<>(20);
         for (Race race : season.getRaces()) {
-            GridPosition pole = RaceStatistics.getPolePosition(race);
-            Integer currentPoles = polePositions.get(pole.getDriver());
+            Driver poleSitter = RaceStatistics.getPolePosition(race);
+            Integer currentPoles = polePositions.get(poleSitter);
             if (currentPoles == null)
-                polePositions.put(pole.getDriver(), 1);
+                polePositions.put(poleSitter, 1);
             else
-                polePositions.put(pole.getDriver(), currentPoles + 1);
+                polePositions.put(poleSitter, currentPoles + 1);
         }
 
+        // We need an ArrayList because many Drivers may have had the same number of pole positions
         ArrayList<Driver> mostPoles = new ArrayList<>();
         int numPoles = 0;
+        // Go through the map and add values accordingly
         for (Driver driver : polePositions.keySet()) {
+            // If we have found a new maximum, clear the old Driver list
             if (polePositions.get(driver) > numPoles) {
                 numPoles = polePositions.get(driver);
                 mostPoles.clear();
@@ -29,14 +33,17 @@ public class SeasonStatistics {
             }
         }
 
+        // Create the resulting key value map
         HashMap<ArrayList<Driver>, Integer> res = new HashMap<>(mostPoles.size());
         res.put(mostPoles, numPoles);
         return res;
-    }*/
+    }
 
     public static ArrayList<DriverPosition> getDriverPoints(Season season) {
+        // Create an ordered map of driver to points and driver to team
         HashMap<Driver, Integer> points = new LinkedHashMap<>(20);
         HashMap<Driver, Team> driverToTeam = new HashMap<>();
+        // Get the number of points for the season and add it accordingly
         for (Race race : season.getRaces()) {
             for (Result result : race.getSessions().getRace().getResults()) {
                 driverToTeam.put(result.getDriver(), result.getTeam());
@@ -48,6 +55,7 @@ public class SeasonStatistics {
             }
         }
 
+        // Add the driver rankings into a descending points-order sorted list
         ArrayList<DriverPosition> rankings = new ArrayList<>(20);
         for (Map.Entry<Driver, Integer> entry : points.entrySet()) {
             rankings.add(new DriverPosition(entry.getKey(), driverToTeam.get(entry.getKey()), entry.getValue()));
@@ -57,6 +65,7 @@ public class SeasonStatistics {
     }
 
     public static int getPoints(Driver driver, Season season) {
+        // Get the number of points a driver has in a season
         int res = 0;
         for (Race race : season.getRaces()) {
             for (Result result: race.getSessions().getRace().getResults()) {
@@ -67,19 +76,10 @@ public class SeasonStatistics {
         return res;
     }
 
-    public static int getPoints(Team team, Season season) {
-        int res = 0;
-        for (Race race : season.getRaces()) {
-            for (Result result: race.getSessions().getRace().getResults()) {
-                if (result.getTeam().equals(team))
-                    res += ((RaceResult) result).getPoints();
-            }
-        }
-        return res;
-    }
-
     public static ArrayList<ConstructorPosition> getConstructorPoints(Season season) {
+        // Create an ordered map of team to points
         HashMap<Team, Integer> points = new LinkedHashMap<>(10);
+        // Go through each race result and add points accordingly
         for (Race race : season.getRaces()) {
             for (Result result : race.getSessions().getRace().getResults()) {
                 Team team = result.getTeam();
@@ -91,6 +91,7 @@ public class SeasonStatistics {
             }
         }
 
+        // Add the team rankings into a descending points-order sorted list
         ArrayList<ConstructorPosition> rankings = new ArrayList<>(20);
         for (Map.Entry<Team, Integer> entry : points.entrySet()) {
             rankings.add(new ConstructorPosition(entry.getKey(), entry.getValue()));
@@ -99,8 +100,20 @@ public class SeasonStatistics {
         return rankings;
     }
 
+    public static int getPoints(Team team, Season season) {
+        // Get the number of points a team/constructor has in a season
+        int res = 0;
+        for (Race race : season.getRaces()) {
+            for (Result result: race.getSessions().getRace().getResults()) {
+                if (result.getTeam().equals(team))
+                    res += ((RaceResult) result).getPoints();
+            }
+        }
+        return res;
+    }
 
     private static class ConstructorPosition implements Comparable<ConstructorPosition> {
+        // Custom class for a Team's position within the constructor's championship, designed to be JSON compatible
         private Team team;
         private int points;
 
@@ -132,6 +145,7 @@ public class SeasonStatistics {
     }
 
     private static class DriverPosition implements Comparable<DriverPosition> {
+        // Custom class for a Driver's position within the championship, designed to be JSON compatible
         private Driver driver;
         private Team team;
         private int points;
