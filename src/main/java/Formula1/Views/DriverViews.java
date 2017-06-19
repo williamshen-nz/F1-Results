@@ -10,9 +10,12 @@ import java.util.Collection;
 
 public class DriverViews {
     public static Collection<Race> getResults(Driver driver, Season season) throws ResultNotFoundException {
+        // Get a copy of the race results for a Driver in a season
         ArrayList<Race> results = new ArrayList<>(20);
         for (Race race : season.getRaces()) {
+            // Make a copy of a Race
             Race copy = new Race(race.getRound(), race.getName(), race.getLocation(), race.getStartDate(), race.getEndDate());
+            // Add the race session and result as required
             RaceSession raceSession = new RaceSession();
             Result result = race.getSessions().getRace().getResult(driver);
             if (result == null) continue;
@@ -26,8 +29,10 @@ public class DriverViews {
     }
 
     public static String getSummary(Driver driver, Season season) throws ResultNotFoundException {
+        // Get a summary of a driver's performance throughout the season using a custom view model with more useful statistics
         DriverResult driverResult = new DriverResult(season.getYear(), driver);
         for (Race race : season.getRaces()) {
+            // Get the relevant race result and extract data for the CustomResult
             RaceResult raceResult = (RaceResult) race.getSessions().getRace().getResult(driver);
             if (raceResult == null) continue;
             CustomResult customResult = new CustomResult(raceResult.getPosition(), raceResult.getLaps(),
@@ -35,6 +40,7 @@ public class DriverViews {
             CustomRace customRace = new CustomRace(race.getName(), race.getEndDate(), customResult);
             driverResult.addRace(customRace);
         }
+        // Return the JSON representation
         return driverResult.toString();
     }
 

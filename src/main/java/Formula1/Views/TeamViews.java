@@ -8,8 +8,10 @@ import java.util.HashMap;
 
 public class TeamViews {
     public static String getDetailed(Team team, Season season) {
+        // Get the detailed points results for each race in a season, showing Driver's performances
         TeamResult teamResult = new TeamResult(season.getYear(), team);
         for (Race race : season.getRaces()) {
+            // Create a custom race and add the relevant fields
             CustomRace customRace = new DetailedCustomRace(race.getName(), race.getEndDate());
             for (Result result : race.getSessions().getRace().getResults()) {
                 if (result.getTeam().equals(team))
@@ -21,6 +23,7 @@ public class TeamViews {
     }
 
     public static String getSummary(Team team, Season season) {
+        // Create a summary of the team's performance with only points information per race
         TeamResult teamResult = new TeamResult(season.getYear(), team);
         for (Race race : season.getRaces()) {
             int points = 0;
@@ -28,6 +31,7 @@ public class TeamViews {
                 if (result.getTeam().equals(team))
                     points += ((RaceResult) result).getPoints();
             }
+            // Create a simple race and add the fields
             CustomRace customRace = new SimpleCustomRace(race.getName(), race.getEndDate(), points);
             teamResult.addRace(customRace);
         }
