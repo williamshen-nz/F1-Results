@@ -43,8 +43,8 @@ public class LoadSession {
                 session.addNote(str);
                 continue;
             }
-            Driver dMatch = Demo2017.season.getDriver(Integer.parseInt(curr[1]));  // get driver based on their racing number
-            Team tMatch = Demo2017.season.getTeam(curr[3]);
+            Driver dMatch = LoadSeason.season.getDriver(Integer.parseInt(curr[1]));  // get driver based on their racing number
+            Team tMatch = LoadSeason.season.getTeam(curr[3]);
             switch (type) {
                 case Practice:
                     // 2,5,Sebastian Vettel VET,Ferrari,1:24.167,+0.547s,35
@@ -86,7 +86,7 @@ public class LoadSession {
             // Driver driver, String time, int lap, String timeOfDay, double averageSpeed
             FastestLap lap = new FastestLap(curr[6], Integer.parseInt(curr[4]),
                     curr[5], Double.parseDouble(curr[7]));
-            laps.put(Demo2017.season.getDriver(Integer.parseInt(curr[1])), lap);
+            laps.put(LoadSeason.season.getDriver(Integer.parseInt(curr[1])), lap);
         } while ((str = in.readLine()) != null);
         return laps;
     }
@@ -99,7 +99,7 @@ public class LoadSession {
             String[] curr = str.split(",");
             if (curr.length == 1 && curr[0].equals("")) continue; // ignore blank lines
             if (str.contains("Note")) session.addNote(str);
-            else startingGrid.put(Demo2017.season.getDriver(Integer.parseInt(curr[1])), Integer.parseInt(curr[0]));
+            else startingGrid.put(LoadSeason.season.getDriver(Integer.parseInt(curr[1])), Integer.parseInt(curr[0]));
             //if (curr.length != 5) {
             //startingGrid.setNotes(String.join(",", curr));
         } while ((str = in.readLine()) != null);
@@ -115,7 +115,7 @@ public class LoadSession {
             //1,2,Stoffel Vandoorne VAN,McLaren Honda,1,15:08:55,30.006,30.006
             // Driver driver, int stop, int lap, String timeOfDay, double time, double total
             if (curr.length == 1 && curr[0].equals("")) continue; // ignore blank lines
-            else pitStops.add(new PitStop(Demo2017.season.getDriver(Integer.parseInt(curr[1])),
+            else pitStops.add(new PitStop(LoadSeason.season.getDriver(Integer.parseInt(curr[1])),
                     Integer.parseInt(curr[0]), Integer.parseInt(curr[4]), curr[5],
                     curr[6], curr[7]));
         } while ((str = in.readLine()) != null);
