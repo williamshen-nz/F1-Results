@@ -1,10 +1,16 @@
 package Formula1.Model;
 
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
+
+@JsonDeserialize(as = RaceResult.class)
 public class RaceResult extends Result {
     private String time;
     private int points;
     private int gridPosition;
     private FastestLap fastestLap;
+
+    public RaceResult() {
+    }
 
     public RaceResult(Driver driver, Team team, int position, int laps, String time,
                       int points, int gridPosition, FastestLap fastestLap) {

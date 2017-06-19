@@ -7,6 +7,9 @@ public class FastestLap extends Lap {
     private String timeOfDay;
     private double averageSpeed;
 
+    public FastestLap() {
+    }
+
     public FastestLap(String time, int lap, String timeOfDay, double averageSpeed) {
         super(time);
         this.lap = lap;

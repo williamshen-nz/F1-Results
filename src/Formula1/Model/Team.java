@@ -6,6 +6,9 @@ public class Team {
     private String country;
     private String abbreviation;
 
+    public Team() {
+    }
+
     public Team(String entrant, String constructor, String country, String abbreviation) {
         this.entrant = entrant;
         this.constructor = constructor;

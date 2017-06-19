@@ -1,7 +1,10 @@
 package Formula1.Model;
 
 import Helpers.JSON;
+import Helpers.ResultDeserializer;
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 
+@JsonDeserialize(using = ResultDeserializer.class)
 public abstract class Result {
     private Driver driver;
     private Team team;

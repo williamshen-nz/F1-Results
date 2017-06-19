@@ -5,6 +5,9 @@ import Helpers.JSON;
 public class Lap {
     private String time;
 
+    public Lap() {
+    }
+
     public Lap(String time) {
         this.time = time;
     }

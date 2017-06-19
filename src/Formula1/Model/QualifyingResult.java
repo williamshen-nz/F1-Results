@@ -1,9 +1,15 @@
 package Formula1.Model;
 
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
+
+@JsonDeserialize(as = QualifyingResult.class)
 public class QualifyingResult extends Result {
     private String q1;
     private String q2;
     private String q3;
+
+    public QualifyingResult() {
+    }
 
     public QualifyingResult(Driver driver, Team team, int position, int laps, String q1, String q2, String q3) {
         super(driver, team, position, laps);

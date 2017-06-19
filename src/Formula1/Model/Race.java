@@ -11,9 +11,11 @@ public class Race {
     private Sessions sessions;
 
     public Race() {
+        sessions = new Sessions();
     }
 
     public Race(int round, String name, String location, String startDate, String endDate) {
+        this();
         this.round = round;
         this.name = name;
         this.location = location;

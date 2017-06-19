@@ -1,7 +1,10 @@
 package Formula1.Model;
 
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
+
 import java.util.ArrayList;
 
+@JsonDeserialize(as = RaceSession.class)
 public class RaceSession extends Session {
     private ArrayList<PitStop> pitStops;
 
@@ -11,6 +14,13 @@ public class RaceSession extends Session {
 
     public ArrayList<PitStop> getPitStops() {
         return pitStops;
+    }
+
+    public ArrayList<PitStop> getPitStops(Driver driver) {
+        ArrayList<PitStop> driverCopy = new ArrayList<>();
+        for (PitStop ps : pitStops)
+            if (ps.getDriver().equals(driver)) driverCopy.add(ps);
+        return driverCopy;
     }
 
     public void setPitStops(ArrayList<PitStop> pitStops) {

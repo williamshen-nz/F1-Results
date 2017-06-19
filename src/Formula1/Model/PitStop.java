@@ -10,6 +10,9 @@ public class PitStop {
     private String time;
     private String total;
 
+    public PitStop() {
+    }
+
     public PitStop(Driver driver, int stops, int lap, String timeOfDay, String time, String total) {
         this.driver = driver;
         this.stops = stops;
