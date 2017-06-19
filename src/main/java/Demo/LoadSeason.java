@@ -11,24 +11,31 @@ public class LoadSeason {
     public static Season loadAndGetSeason(String year) {
         try {
             // Default values
+            System.out.println("Loading " + year + " season data... ");
+            long startTime = System.nanoTime();
+
+            // Read schedule
             String path = "data/" + year + "/";
             String[] races = loadRaces(path + "schedule.txt");
 
             // Create season and read in the driver and team list
-            System.out.println("Loading " + year + " season data... ");
             season = new Season(2017);
             System.out.print("- loading teams... ");
             LoadTeams.load(path + "teams.txt");
-            System.out.print("- loading drivers... ");
+            System.out.print("Done!\n- loading drivers... ");
             LoadDrivers.load(path + "drivers.txt");
+            System.out.println("Done!");
 
             // Add each of the races
             int roundNumber = 1;
+            System.out.print("- loading races: ");
             for (String name : races) {
-                System.out.print("- loading " + name.toUpperCase() + "... ");
+                System.out.print(name + ", ");
                 LoadRace.load(path + name + "/", roundNumber++);
             }
-            System.out.println("SUCCESSFULLY LOADED " + year + " SEASON DATA!");
+
+            System.out.println("Done!");
+            System.out.println("Success! Loaded in " + (System.nanoTime() - startTime) / 1E9 + "s");
             return season;
         } catch (Exception e) {
             e.printStackTrace();

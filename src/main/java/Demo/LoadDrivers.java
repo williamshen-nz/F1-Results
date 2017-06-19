@@ -11,6 +11,7 @@ public class LoadDrivers {
         String str = in.readLine();
         do {
             String[] curr = str.split(",");
+            // String name, int number, String nationality
             Driver driver = new Driver(curr[0], Integer.parseInt(curr[3]), curr[1]);
             LoadSeason.season.addDrivers(driver);
         } while ((str = in.readLine()) != null);
